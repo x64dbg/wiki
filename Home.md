@@ -7,10 +7,6 @@ Welcome to this wiki!
 
 [Compiling the whole project](Compiling the whole project)
 
-[Compiling the debugger](Compiling the debugger)
-
-[Compiling the GUI](Compiling the GUI)
-
 [How to contribute](How to contribute)
 
 
