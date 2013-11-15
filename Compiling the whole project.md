@@ -18,6 +18,8 @@ The easy way of compiling goes like this:
 12. Browse for 'afterbuildStep.bat'
 13. Set arguments to architecture ('x32' or 'x64') [space] '%{buildDir}\release' or '%{buildDir}\debug'
 14. Set working directory to '%{sourceDir}'
+15. Build the GUI
+16. Enjoy!
 
 # The easy way #
 Todo
