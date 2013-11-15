@@ -1,5 +1,5 @@
 # The easy way #
-The easy way of compiling goes like this:<br>
+The easy way of compiling goes like this:
 1. [Download VisualStudio 2012](http://www.microsoft.com/en-us/download/details.aspx?id=30678)
 2. [Download Qt5 (x64+x32) for MSVC2012](http://qt-project.org/downloads)
 3. [Download Qt Creator](http://qt-project.org/downloads#qt-creator)
