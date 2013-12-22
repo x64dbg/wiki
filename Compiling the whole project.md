@@ -20,6 +20,3 @@ The easy way of compiling goes like this:
 14. Set working directory to '%{sourceDir}'
 15. Build the GUI
 16. Enjoy!
-
-# The easy way #
-Todo
