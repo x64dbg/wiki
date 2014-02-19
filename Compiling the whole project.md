@@ -1,22 +1,23 @@
 # The easy way #
 The easy way of compiling goes like this:
 
-1. [Download VisualStudio 2012](http://www.microsoft.com/en-us/download/details.aspx?id=30678)
-2. [Download Qt5 (x64+x32) for MSVC2012](http://qt-project.org/downloads)
-3. [Download Qt Creator](http://qt-project.org/downloads#qt-creator)
-4. Clone the repository on your PC
-5. Open 'x64_dbg.sln' in VisualStudio 2012
-6. Compile (in this order): x64_dbg_bridge, x64_dbg_dbg, x64_dbg_exe
-4. Open 'x64_dbg_gui\Project\DebuggerX64.pro' in Qt Creator
-5. Setup MSVC2012 (x64+x32) to compile in a directory inside the 'bin\*' directory
-6. Click the 'Add Build Step' button
-7. Browse for 'prebuildStep.bat'
-8. Set arguments to the architecture 'x32' or 'x64'
-9. Set working directory to '%{sourceDir}'
-10. Move the build step up so it's the first Build Step
-11. Click the 'Add Build Step' button
-12. Browse for 'afterbuildStep.bat'
-13. Set arguments to architecture ('x32' or 'x64') [space] '%{buildDir}\release' or '%{buildDir}\debug'
-14. Set working directory to '%{sourceDir}'
-15. Build the GUI
-16. Enjoy!
+1. [Download VisualStudio 2010](http://download.microsoft.com/download/2/4/7/24733615-AA11-42E9-8883-E28CDCA88ED5/X16-42552VS2010UltimTrial1.iso)
+2. [Download & Install Qt 4.8.5 (x32) for MSVC2010](http://download.qt-project.org/official_releases/qt/4.8/4.8.5/qt-win-opensource-4.8.5-vs2010.exe)
+3. [Download & Install Qt 4.8.5 (x64) for MSVC2010](http://sourceforge.net/projects/qtx64/files/qt-x64/4.8.5/msvc2010/qt-4.8.5-x64-msvc2010.exe/download)
+4. [Download Qt Creator](http://qt-project.org/downloads#qt-creator)
+5. Clone the repository on your PC
+6. Open 'x64_dbg.sln' in VisualStudio 2010
+7. Compile (in this order): x64_dbg_bridge, x64_dbg_dbg, x64_dbg_exe
+8. Open 'x64_dbg_gui\Project\DebuggerX64.pro' in Qt Creator
+9. Setup MSVC2010 (x64+x32) to compile in a directory inside the 'bin\*' directory
+10. Click the 'Add Build Step' button
+11. Browse for 'prebuildStep.bat'
+12. Set arguments to the architecture 'x32' or 'x64'
+13. Set working directory to '%{sourceDir}'
+14. Move the build step up so it's the first Build Step
+15. Click the 'Add Build Step' button
+16. Browse for 'afterbuildStep.bat'
+17. Set arguments to architecture ('x32' or 'x64') [space] '%{buildDir}\release' or '%{buildDir}\debug'
+18. Set working directory to '%{sourceDir}'
+19. Build the GUI
+20. Enjoy!
