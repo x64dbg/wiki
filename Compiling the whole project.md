@@ -7,7 +7,7 @@ The easy way of compiling goes like this:
 4. [Download Qt Creator](http://download.qt-project.org/official_releases/qtcreator/3.1/3.1.1/qt-creator-opensource-windows-x86-3.1.1.exe)
 5. Clone the repository on your PC
 6. Open 'x64_dbg.sln' in VisualStudio 2010
-7. Compile (in this order): x64_dbg_bridge, x64_dbg_dbg, x64_dbg_exe
+7. Compile the solution (F7)
 8. Open 'x64_dbg_gui\Project\DebuggerX64.pro' in Qt Creator
 9. Setup MSVC2010 (x64+x32) to compile in a directory inside the 'bin\*' directory
 10. Click the 'Add Build Step' button
