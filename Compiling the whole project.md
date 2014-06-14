@@ -25,5 +25,5 @@ The easy way of compiling goes like this:
 
 More Qt versions available [here](http://www.tver-soft.org/qt64)
 
-Screenshot:<br>
+##Screenshot:##
 ![blub](/mrexodia/x64_dbg/wiki/images/x64dbg_build_example.png)
