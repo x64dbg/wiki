@@ -26,4 +26,4 @@ The easy way of compiling goes like this:
 More Qt versions available [here](http://www.tver-soft.org/qt64)
 
 Screenshot:
-{{images/x64dbg_build_example.png}}
+![blub]({images/x64dbg_build_example.png})
