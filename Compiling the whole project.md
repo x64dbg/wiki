@@ -1,4 +1,5 @@
 # The easy way #
+
 The easy way of compiling goes like this:
 
 1. [Download VisualStudio 2010](http://download.microsoft.com/download/2/4/7/24733615-AA11-42E9-8883-E28CDCA88ED5/X16-42552VS2010UltimTrial1.iso)
@@ -23,3 +24,6 @@ The easy way of compiling goes like this:
 20. Enjoy!
 
 More Qt versions available [here](http://www.tver-soft.org/qt64)
+
+Screenshot:
+![Build Configuration](/images/x64dbg_build_example.png "Build Configuration")
