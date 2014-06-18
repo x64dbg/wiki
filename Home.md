@@ -7,9 +7,9 @@ Welcome to this wiki!
 
 [How to contribute](How to contribute)
 
-[Qt 4.8.4 64Bits](Qt 4.8.4 64Bits)
+[Qt 4.8.4 64Bits (OLD)](Qt 4.8.4 64Bits)
 
-[Qt 4.8.5 MSVC2010 x64](Qt 4.8.5 MSVC2010 x64)
+[Qt 4.8.5 MSVC2010 x64 (OLD)](Qt 4.8.5 MSVC2010 x64)
 
 Have fun!
 
