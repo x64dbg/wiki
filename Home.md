@@ -5,6 +5,8 @@ Welcome to this wiki!
 ## Wiki Pages
 [Compiling the whole project](Compiling the whole project)
 
+[Getting the Dependencies](Getting the Dependencies)
+
 [How to contribute](How to contribute)
 
 [Qt 4.8.4 64Bits (OLD)](Qt 4.8.4 64Bits)
