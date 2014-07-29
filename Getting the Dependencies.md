@@ -28,7 +28,3 @@ Usually QtCore4, QtGui4 and QtNetwork4 are inside the /bin directory of your Qt 
 
 ### XEDParse ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/xedparse).
-
-
-
-**Again**: It's far easier to just download the latest version of x64_dbg and extract the binaries required from the downloaded archive.
