@@ -1,1 +1,0 @@
-[Here](http://sourceforge.net/projects/qtx64/files/qt-x64/4.8.5/msvc2010/qt-4.8.5-x64-msvc2010.exe/download) is the x64 build of Qt v4.8.5
