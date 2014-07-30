@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to this wiki!
+Welcome to this wiki! It will be about x64_dbg coding-wise. To find out about the x64_dbg interface and commands, check out the [help](http://help.x64dbg.com).
 
 ## Wiki Pages
 [Compiling the whole project](Compiling the whole project)
