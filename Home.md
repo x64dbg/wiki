@@ -9,5 +9,7 @@ Welcome to this wiki! It will be about x64_dbg coding-wise. To find out about th
 
 [How to contribute](How to contribute)
 
+[Coding Guidelines](x64_dbg_coding_guidelines)
+
 [[Obsolete] Qt 4.8.4 64Bits](Qt 4.8.4 64Bits)
 
