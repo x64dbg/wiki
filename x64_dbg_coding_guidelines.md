@@ -1,5 +1,7 @@
 # x64\_dbg Coding Guidelines #
 
+v1.01
+
 ---
 
 ## Introduction
@@ -10,6 +12,9 @@ x64\_dbg has become quite a big project and therefore it is wise to enforce cert
 When you edit existing code, try to follow the style used in that particular file, refactor the whole code if you are certain it does not comply with the coding guidelines in this document.
 
 Another thing that is very important is: **use common sense**. If you cannot find a convention, just see the context and try to mimic that. Please inform me about this though, maybe there is something missing in this document.
+
+###Another (Very Important!) Rule
+Specifically for x64\_dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/downloads/AStyleWhore01.rar). Place it in the project root directory and run it every time you are about to commit your code. This ensures the most basic formatting is done automatically and also is the same for everyone.
 
 ## Indentation
 
