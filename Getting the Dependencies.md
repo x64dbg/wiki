@@ -5,7 +5,7 @@ x64_dbg has various dependencies. Here is a list of them and how you can obtain 
 ### BeaEngine ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/beaengine).
 
-### dbghelp ###
+### dbghelp & symserv ###
 Get [Debugging Tools For Windows](http://go.microsoft.com/fwlink/p/?linkid=84137) and extract dbghelp.dll and optionally symserv.dll from the installation directory.
 
 ### DeviceNameResolver ###
