@@ -1,6 +1,6 @@
 # x64\_dbg Coding Guidelines #
 
-v1.01
+v1.02
 
 ---
 
