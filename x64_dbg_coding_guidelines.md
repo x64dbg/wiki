@@ -13,8 +13,8 @@ When you edit existing code, try to follow the style used in that particular fil
 
 Another thing that is very important is: **use common sense**. If you cannot find a convention, just see the context and try to mimic that. Please inform me about this though, maybe there is something missing in this document.
 
-###Another (Very Important!) Rule
-Specifically for x64\_dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/downloads/AStyleWhore01.rar). Place it in the project root directory and run it every time you are about to commit your code. This ensures the most basic formatting is done automatically and also is the same for everyone.
+###Another Thing
+Specifically for x64\_dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/), a tool to auto-format the source code in C/C++ projects. Do not worry about anything, code formatting will be silently done in a pre-commit hook, so do not be surprised if your code looks good after you commit. It is the documented behavior.
 
 ## Indentation
 
@@ -433,5 +433,4 @@ Do not use ugly things like *"#pragma once"* inside your headers, just go with t
 ##Final words
 This should be the most important rules. I do not want to stretch out this document much more, but if there are any neccesary additions, feel free to contact me for a revision.
 
-*Mr. eXoDia*
-mr.exodia.tpodt@gmail.com
+*Mr. eXoDia* (mr.exodia.tpodt@gmail.com)
