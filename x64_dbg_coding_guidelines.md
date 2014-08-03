@@ -37,6 +37,116 @@ CMDRESULT cbCreateThread(int argc, char* argv[])
 }
 ```
 
+##Newlines
+Some people tend to write as much code as possible on a single line. Avoid this and use newlines without hesitation!
+
+Example Header (bad):
+```
+#ifndef CLOSEDIALOG_H
+#define CLOSEDIALOG_H
+#include <QDialog>
+namespace Ui { class CloseDialog; }
+class CloseDialog : public QDialog
+{
+    Q_OBJECT
+public:
+    explicit CloseDialog(QWidget *parent = 0);
+    ~CloseDialog();
+private:
+    Ui::CloseDialog *ui;
+};
+#endif // CLOSEDIALOG_H
+```
+
+Example Header (correct):
+```
+#ifndef CLOSEDIALOG_H
+#define CLOSEDIALOG_H
+
+#include <QDialog>
+
+namespace Ui
+{
+class CloseDialog;
+}
+
+class CloseDialog : public QDialog
+{
+    Q_OBJECT
+
+public:
+    explicit CloseDialog(QWidget *parent = 0);
+    ~CloseDialog();
+                       //dont't forget this newline!
+private:
+    Ui::CloseDialog *ui;
+};
+
+#endif // CLOSEDIALOG_H
+```
+
+Example Source Snippet (bad):
+```
+void ThreadView::contextMenuSlot(const QPoint & pos)
+{
+    foreach(QAction* action, mSetPriority->actions())
+    {
+        action->setCheckable(true);
+        action->setChecked(false);
+    }
+    QString priority = getCellContent(getInitialSelection(), 6);
+    if(priority == "Normal") mSetPriorityNormal->setChecked(true);
+    else if(priority == "AboveNormal") mSetPriorityAboveNormal->setChecked(true);
+    else if(priority == "TimeCritical") mSetPriorityTimeCritical ->setChecked(true);
+    else if(priority == "Idle") mSetPriorityIdle->setChecked(true);
+    else if(priority == "BelowNormal") mSetPriorityBelowNormal->setChecked(true);
+    else if(priority == "Highest") mSetPriorityHighest->setChecked(true);
+    else if(priority == "Lowest") mSetPriorityLowest->setChecked(true);
+    wMenu->exec(mapToGlobal(pos)); //execute context menu
+}
+void ThreadView::SuspendThread()
+{
+    QString threadId=getCellContent(getInitialSelection(), 1);
+    DbgCmdExecDirect(QString("suspendthread " + threadId).toUtf8().constData());
+}
+```
+
+Example Source Snippet (correct):
+```
+void ThreadView::contextMenuSlot(const QPoint & pos)
+{
+    foreach(QAction* action, mSetPriority->actions())
+    {
+        action->setCheckable(true);
+        action->setChecked(false);
+    }
+
+    QString priority = getCellContent(getInitialSelection(), 6);
+    if(priority == "Normal")
+        mSetPriorityNormal->setChecked(true);
+    else if(priority == "AboveNormal")
+        mSetPriorityAboveNormal->setChecked(true);
+    else if(priority == "TimeCritical")
+        mSetPriorityTimeCritical ->setChecked(true);
+    else if(priority == "Idle")
+        mSetPriorityIdle->setChecked(true);
+    else if(priority == "BelowNormal")
+        mSetPriorityBelowNormal->setChecked(true);
+    else if(priority == "Highest")
+        mSetPriorityHighest->setChecked(true);
+    else if(priority == "Lowest")
+        mSetPriorityLowest->setChecked(true);
+ //newline here
+    wMenu->exec(mapToGlobal(pos)); //execute context menu
+}
+
+void ThreadView::SuspendThread()
+{
+    QString threadId=getCellContent(getInitialSelection(), 1);
+    DbgCmdExecDirect(QString("suspendthread " + threadId).toUtf8().constData());
+}
+```
+
 ## Internal Types
 x64dbg has various internal types, use them!
 
