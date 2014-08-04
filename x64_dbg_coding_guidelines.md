@@ -1,6 +1,6 @@
 # x64\_dbg Coding Guidelines #
 
-v1.02
+v1.03
 
 ---
 
@@ -148,7 +148,7 @@ void ThreadView::SuspendThread()
 ```
 
 ## Internal Types
-x64dbg has various internal types, use them!
+x64\_dbg has various internal types, use them!
 
 Example:
 ```
@@ -161,6 +161,9 @@ int_t addr3 = rvaToVa(getInitialSelection());
 uint_t addr4 = (uint_t)param1;
 
 ```
+
+##Memory Allocation
+x64\_dbg has two memory allocation functions: *emalloc* and *efree*. Please use these inside the DBG. For memory interchanging between the GUI and the DBG, use the *BridgeAlloc* and *BridgeFree* functions.
 
 ##Spacing
 Spaces are important for the readability of the code, as long as you do not overspace them. See the examples for an explanation.
