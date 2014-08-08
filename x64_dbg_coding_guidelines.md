@@ -1,6 +1,6 @@
 # x64\_dbg Coding Guidelines #
 
-v1.03
+v1.04
 
 ---
 
@@ -163,7 +163,30 @@ uint_t addr4 = (uint_t)param1;
 ```
 
 ##Memory Allocation
-x64\_dbg has two memory allocation functions: *emalloc* and *efree*. Please use these inside the DBG. For memory interchanging between the GUI and the DBG, use the *BridgeAlloc* and *BridgeFree* functions.
+x64\_dbg has it's own memory allocation class. If you need to allcoate memory, use the class called *Memory*. If you need to interchange data between the GUI and the DBG, use the *BridgeAlloc* and *BridgeFree* functions.
+
+Example of using the *Memory* class:
+```
+void formathex(char* string)
+{
+    int len = (int)strlen(string);
+    _strupr(string);
+
+    //create a new char pointer with size 'len + 1' in bytes
+    Memory<char*> new_string(len + 1, "formathex:new_string");
+
+    //typecasting is done implicitly
+    int* ptr = new_string;
+
+    memset(new_string, 0, len + 1);
+    for(int i = 0, j = 0; i < len; i++)
+        if(isxdigit(string[i]))
+            j += sprintf(new_string + j, "%c", string[i]);
+    strcpy(string, new_string);
+
+    //forget about cleaning up, the destructor will take care of this
+}
+```
 
 ##Spacing
 Spaces are important for the readability of the code, as long as you do not overspace them. See the examples for an explanation.
