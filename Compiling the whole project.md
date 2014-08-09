@@ -23,7 +23,8 @@ The easy way of compiling goes like this:
 19. Set arguments to architecture (`x32` or `x64`) [space] `%{buildDir}\release` or `%{buildDir}\debug`
 20. Set working directory to `%{sourceDir}`
 21. Build the GUI
-22. Enjoy!
+22. [Get the Dependencies](Getting the Dependencies)
+23. Enjoy!
 
 More Qt versions available [here](http://www.tver-soft.org/qt64)
 
