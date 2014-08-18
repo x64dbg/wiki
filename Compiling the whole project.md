@@ -26,7 +26,7 @@ The easy way of compiling goes like this:
 22. [Get the Dependencies](Getting the Dependencies)
 23. Enjoy!
 
-More Qt versions available [here](http://www.tver-soft.org/qt64)
+More Qt versions available [here](http://sourceforge.net/projects/qtx64/files/)
 
 # Screenshot #
 ![Build Configuration](/mrexodia/x64_dbg/wiki/images/x64dbg_build_example_new.png)
