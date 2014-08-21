@@ -12,7 +12,7 @@ The easy way of compiling goes like this:
 8. Open `x64_dbg.sln` in VisualStudio 2010
 9. Compile the solution (F7)
 10. Open `x64_dbg_gui\Project\DebuggerX64.pro` in Qt Creator
-11. Setup MSVC2010 (x64+x32) to compile in a directory inside the `bin\*` directory
+11. Setup Qt Creator (x64+x32) to compile in a directory inside the `bin\*` directory (see screenshot)
 12. Click the '*Add Build Step*' button
 13. Browse for `prebuildStep.bat`
 14. Set arguments to the architecture `x32` or `x64`
@@ -22,7 +22,7 @@ The easy way of compiling goes like this:
 18. Browse for `afterbuildStep.bat`
 19. Set arguments to architecture (`x32` or `x64`) [space] `%{buildDir}\release` or `%{buildDir}\debug`
 20. Set working directory to `%{sourceDir}`
-21. Build the GUI
+21. Build the GUI (see screenshot)
 22. [Get the Dependencies](Getting the Dependencies)
 23. Enjoy!
 
