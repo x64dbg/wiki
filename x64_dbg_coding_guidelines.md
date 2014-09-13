@@ -1,6 +1,6 @@
 # x64\_dbg Coding Guidelines #
 
-v1.04
+v1.05
 
 ---
 
@@ -208,7 +208,7 @@ if(getvaluefromthread(hThread, 1) == secret(1, 2))
 ```
 
 ##Variable Naming
-In general, variable names should be descriptive and simple. Naming conventions differ in the various modules, so each module will have a small sub-header.
+In general, variable names should be descriptive and simple. Naming conventions differ in the various modules, so each module will have a small sub-header. **Avoid** using underscores in your variables, as it will make your code very bloated.
 
 ###Bridge
 In short: no naming conventions, use anything you like.
@@ -311,7 +311,7 @@ int Bridge::getValue(const char* szFilePath)
 ```
 
 ##Function Naming
-Function naming conventions currently differ inside the various modules, so each module will have a small sub-header.
+Function naming conventions currently differ inside the various modules, so each module will have a small sub-header. The only overall convention is that you should not use underscores in your function names, unless this is specified in the convention (like *"\_dbg\_"*).
 
 ###Bridge
 The bridge has various naming conventions for different types of functions.
