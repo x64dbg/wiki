@@ -5,6 +5,9 @@ x64_dbg has various dependencies. Here is a list of them and how you can obtain 
 ### BeaEngine ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/beaengine).
 
+### Capstone ###
+Clone and compile the repository [here](https://github.com/aquynh/capstone).
+
 ### dbghelp & symserv ###
 Get [Debugging Tools For Windows](http://go.microsoft.com/fwlink/p/?linkid=84137) and extract dbghelp.dll and symserv.dll from the installation directory.
 
@@ -17,6 +20,9 @@ Clone the repository [here](https://bitbucket.org/mrexodia/jansson), checkout th
 ### lz4 ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/lz4).
 
+### OGDF ###
+Clone and compile the repository [here](https://bitbucket.org/mrexodia/ogdf).
+
 ### Scylla ###
 Download the binaries from [here](https://tuts4you.com/download.php?view.3503), or manage to compile the repository [here](https://github.com/NtQuery/Scylla). Don't forget to rename to Scylla.dll.
 
@@ -28,6 +34,3 @@ Usually QtCore4, QtGui4 and QtNetwork4 are inside the /bin directory of your Qt 
 
 ### XEDParse ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/xedparse).
-
-### OGDF ###
-Clone and compile the repository [here](https://bitbucket.org/mrexodia/ogdf).
