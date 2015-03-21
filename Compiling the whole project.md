@@ -3,8 +3,8 @@
 The easy way of compiling goes like this:
 
 1. [Download VisualStudio 2010](http://download.microsoft.com/download/2/4/7/24733615-AA11-42E9-8883-E28CDCA88ED5/X16-42552VS2010UltimTrial1.iso)
-2. [Download & Install Qt 4.8.6 (x32) for MSVC2010](http://download.qt-project.org/official_releases/qt/4.8/4.8.6/qt-opensource-windows-x86-vs2010-4.8.6.exe)
-3. [Download & Install Qt 4.8.6 (x64) for MSVC2010](http://sourceforge.net/projects/qtx64/files/qt-x64/4.8.6/msvc2010/qt-4.8.6-x64-msvc2010-rev1.exe/download)
+2. [Download & Install Qt 4.8.6 (x32) for MSVC2010](http://sourceforge.net/projects/x64dbg/files/qt/qt-opensource-windows-x86-vs2010-4.8.6.exe/download)
+3. [Download & Install Qt 4.8.6 (x64) for MSVC2010](http://sourceforge.net/projects/x64dbg/files/qt/qt-4.8.6-x64-msvc2010-rev1.exe/download)
 4. [Download Qt Creator](http://download.qt-project.org/official_releases/qtcreator/3.1/3.1.1/qt-creator-opensource-windows-x86-3.1.1.exe)
 5. Set up kits for x32 and x64 in Qt Creator
 6. Clone the repository on your PC
