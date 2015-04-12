@@ -29,4 +29,4 @@ The easy way of compiling goes like this:
 More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
 
 # Screenshot #
-![Build Configuration](/mrexodia/x64_dbg/wiki/images/x64dbg_build_example_new.png)
+![Build Configuration](https://raw.githubusercontent.com/wiki/x64dbg/x64dbg/images/x64dbg_build_example_new.png)
