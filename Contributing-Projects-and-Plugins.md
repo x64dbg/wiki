@@ -2,7 +2,7 @@ This page is for projects that somehow contribute to x64dbg but are not part of 
 
 Make sure to keep it in the following format:
 
-`Information with link`, `author (with optional link to website/blog/whatever)`
+`Information with link`, `Author (with optional link to website/blog/whatever)`
 
 List of contributions:
 - [Plugin SDK for MASM32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm)
