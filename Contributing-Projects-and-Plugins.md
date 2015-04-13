@@ -5,4 +5,4 @@ Make sure to keep it in the following format:
 `Information with link`, `Author (with optional link to website/blog/whatever)`
 
 List of contributions:
-- [Plugin SDK for MASM32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm)
+- [Plugin SDK for MASM32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm) ([fearless](http://www.letthelight.in/))
