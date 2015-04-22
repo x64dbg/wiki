@@ -6,3 +6,7 @@ Make sure to keep it in the following format:
 
 List of contributions:
 - [Plugin SDK for MASM32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm) ([fearless](http://www.letthelight.in/))
+- [Plugin SDK for JWASM64](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-jwasm64) ([fearless](http://www.letthelight.in/))
+- [APISearch.dp32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm/downloads/APISearch.dp32) ([fearless](http://www.letthelight.in/))
+- [APISearch.dp64](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-jwasm64/downloads/APISearch.dp64) ([fearless](http://www.letthelight.in/))
+- [AutoCmdLine.dp32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm/downloads/AutoCmdLine.dp32) ([fearless](http://www.letthelight.in/))
