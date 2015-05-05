@@ -3,4 +3,4 @@
 * Report bugs in the issue tracker.
 * Add feature requests to the issue tracker.
 * Spread the word.
-* Come in [contact](http://x64dbg.com/#contact) and talk about x64_dbg.
+* [Contact](http://x64dbg.com/#contact) us and talk about x64dbg.
