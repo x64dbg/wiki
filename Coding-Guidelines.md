@@ -1,4 +1,4 @@
-# x64\_dbg Coding Guidelines #
+# x64dbg Coding Guidelines #
 
 v1.05
 
@@ -6,7 +6,7 @@ v1.05
 
 ## Introduction
 
-x64\_dbg has become quite a big project and therefore it is wise to enforce certain coding style parts, so everyone is writing code in an equal manner. After publication of this document every piece of code written for x64\_dbg **should** follow these guidelines, please keep this in mind while writing your code.
+x64dbg has become quite a big project and therefore it is wise to enforce certain coding style parts, so everyone is writing code in an equal manner. After publication of this document every piece of code written for x64dbg **should** follow these guidelines, please keep this in mind while writing your code.
 
 ###A General Rule
 When you edit existing code, try to follow the style used in that particular file, refactor the whole code if you are certain it does not comply with the coding guidelines in this document.
@@ -14,7 +14,7 @@ When you edit existing code, try to follow the style used in that particular fil
 Another thing that is very important is: **use common sense**. If you cannot find a convention, just see the context and try to mimic that. Please inform me about this though, maybe there is something missing in this document.
 
 ###Another Thing
-Specifically for x64\_dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/), a tool to auto-format the source code in C/C++ projects. Do not worry about code formatting. It will be silently done in a pre-commit hook (run *install.bat* after cloning the project), so do not be surprised if your code looks good after you commit. It is the documented behavior.
+Specifically for x64dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/), a tool to auto-format the source code in C/C++ projects. Do not worry about code formatting. It will be silently done in a pre-commit hook (run *install.bat* after cloning the project), so do not be surprised if your code looks good after you commit. It is the documented behavior.
 
 ## Indentation
 
