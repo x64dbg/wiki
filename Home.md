@@ -4,7 +4,7 @@ Welcome to this wiki! It will be about x64dbg coding-wise. To find out about the
 
 ### Overview
 * [Color Schemes](https://github.com/x64dbg/x64dbg/wiki/Color-Schemes)
-* [Coding Guidelines](https://github.com/x64dbg/x64dbg/wiki/x64_dbg_coding_guidelines)
+* [Coding Guidelines](https://github.com/x64dbg/x64dbg/wiki/Coding-Guidelines)
 * [Compiling the whole project](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project)
 * [Contributing Projects and Plugins](https://github.com/x64dbg/x64dbg/wiki/Contributing-Projects-and-Plugins)
 * [Getting the Dependencies](https://github.com/x64dbg/x64dbg/wiki/Getting-the-Dependencies)
