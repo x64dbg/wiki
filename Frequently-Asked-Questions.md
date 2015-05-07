@@ -1,3 +1,7 @@
+This section contains questions frequently encountered about x64dbg. Feel free to add your own answers to not-so-obvious things.
+
+***
+
 **Q**: How do I remove the `Debug with x64dbg` entries from my context menu?
 
 **A**: Download & execute [this](https://raw.githubusercontent.com/x64dbg/x64dbg/master/x64dbg_shell_remove.reg) regfile (remember to `Save as...`).
