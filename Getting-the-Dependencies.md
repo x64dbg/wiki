@@ -34,3 +34,6 @@ Usually QtCore4, QtGui4 and QtNetwork4 are inside the /bin directory of your Qt 
 
 ### XEDParse ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/xedparse).
+
+### snowman ###
+Clone and compile the repository [here](https://github.com/x64dbg/snowman). You need to have Boost and Qt 4 (same version you use to compile x64dbg).
