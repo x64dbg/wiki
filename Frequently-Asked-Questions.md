@@ -12,7 +12,7 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **A**: Use the `Debug -> Change Command Line` option:
 
-![command line](http://i.imgur.com/r3nOeqO.png)
+![command line](http://i.imgur.com/Sh0PQnz.png)
 
 ***
 
