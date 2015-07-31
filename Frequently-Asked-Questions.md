@@ -30,6 +30,6 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **Q**: How do the commands mentioned in the [help](http://help.x64dbg.com) work?
 
-**A**: Basically the commands work like assembler: `mov eax, 0x1234` is a valid command. You can enter them in the command bar (not in the command line of x64dbg):
+**A**: Basically the commands work like assembler (with comma separated arguments). `mov eax, 0x1234` is a valid command. You can enter them in the command bar (not in the command line of x64dbg):
 
 ![command bar](http://i.imgur.com/plSfLnr.png)
