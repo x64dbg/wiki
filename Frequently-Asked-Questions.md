@@ -32,4 +32,4 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **A**: Basically the commands work like assembler: `mov eax, 0x1234` is a valid command. You can enter them in the command bar (not in the command line of x64dbg):
 
-![command bar](http://i.imgur.com/wfRU9Cn.png)
+![command bar](http://i.imgur.com/plSfLnr.png)
