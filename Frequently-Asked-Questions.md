@@ -10,6 +10,8 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **Q**: Help, I cannot change the command line of a target program!
 
+**Q**: Help, how do I pass arguments to the program I want to debug? 
+
 **A**: Use the `Debug -> Change Command Line` option:
 
 ![command line](http://i.imgur.com/Sh0PQnz.png)
