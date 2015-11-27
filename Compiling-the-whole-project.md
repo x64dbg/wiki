@@ -11,7 +11,7 @@
 
 # For tools
 
-1. Run `build.bat 32` and `build.bat x64` to build everything.
+1. Run `build.bat x32` and `build.bat x64` to build everything.
 
 # For developers
 
