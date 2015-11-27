@@ -1,32 +1,26 @@
-# The easy way #
+# Prerequisites
 
-The easy way of compiling goes like this:
+**Notice**: It is important to install the **exact** versions of the tools mentioned hereafter (special exception for Visual Studio 2013, for which you can also use the Professional or Enterprise editions). Don't come complaining if you didn't install the correct versions of the tools.
 
 1. [Download Visual Studio 2013 Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs) (make sure to install MFC)
 2. [Download & Install Qt 4.8.6 (x32) for MSVC2013](http://sourceforge.net/projects/qt64ng/files/qt/x86/4.8.6/msvc2013/qt-4.8.6-x86-msvc2013.exe/download)
 3. [Download & Install Qt 4.8.6 (x64) for MSVC2013](http://sourceforge.net/projects/qt64ng/files/qt/x86-64/4.8.6/msvc2013/qt-4.8.6-x64-msvc2013.exe/download)
-4. [Download Qt Creator](http://download.qt-project.org/official_releases/qtcreator/3.1/3.1.1/qt-creator-opensource-windows-x86-3.1.1.exe)
-5. Set up kits for x32 and x64 in Qt Creator
-6. Clone the repository on your PC
-7. Run `install.bat` to initialize the repository
-8. Open `x64_dbg.sln` in VisualStudio 2013
-9. Compile the solution (F7)
-10. Open `x64_dbg_gui\Project\DebuggerX64.pro` in Qt Creator
-11. Setup Qt Creator (x64+x32) to compile in a directory inside the `bin\*` directory (see screenshot)
-12. Click the '*Add Build Step*' button
-13. Browse for `prebuildStep.bat`
-14. Set arguments to the architecture `x32` or `x64`
-15. Set working directory to `%{sourceDir}`
-16. Move the build step up so it's the first in *Build Steps*
-17. Click the '*Add Build Step*' button
-18. Browse for `afterbuildStep.bat`
-19. Set arguments to architecture (`x32` or `x64`) [space] `%{buildDir}\release` or `%{buildDir}\debug`
-20. Set working directory to `%{sourceDir}`
-21. Build the GUI (see screenshot)
-22. [Get the Dependencies](Getting the Dependencies)
-23. Enjoy!
+4. [Download Qt Creator 3.1.1](http://download.qt-project.org/official_releases/qtcreator/3.1/3.1.1/qt-creator-opensource-windows-x86-3.1.1.exe)
+5. [Get the Dependencies](Getting the Dependencies)
+6. Clone the repository to your local drive
+
+# The easy way (if you only want to *use* x64dbg)
+
+1. Run `build.bat 32` and `build.bat x64` to build everything.
+
+# The harder way (for developers)
+
+1. Run `install.bat` to initialize the repository
+2. Open `x64dbg.sln` in Visual Studio 2013
+3. Compile the solution (F7)
+4. Open `src\gui\x64dbg.pro` in Qt Creator
+5. Compile the GUI.
+
+**Notice**: Sometimes if you modifiy `Q_OBJECT` header files you need to rebuild to GUI to fix a weird crash.
 
 More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
-
-# Screenshot #
-![Build Configuration](https://raw.githubusercontent.com/wiki/x64dbg/x64dbg/images/x64dbg_build_example_new.png)
