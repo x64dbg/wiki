@@ -9,11 +9,11 @@
 5. [Get the Dependencies](Getting the Dependencies)
 6. Clone the repository to your local drive
 
-# The easy way (if you only want to *use* x64dbg)
+# For tools
 
 1. Run `build.bat 32` and `build.bat x64` to build everything.
 
-# The harder way (for developers)
+# For developers
 
 1. Run `install.bat` to initialize the repository
 2. Open `x64dbg.sln` in Visual Studio 2013
