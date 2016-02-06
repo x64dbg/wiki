@@ -35,3 +35,10 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 **A**: Basically the commands work like assembler (with comma separated arguments). `mov eax, 0x1234` is a valid command. You can enter them in the command bar (not in the command line of x64dbg):
 
 ![command bar](http://i.imgur.com/plSfLnr.png)
+
+***
+
+**Q**: Does x64dbg make entries in registry or create files in system directories? Or it's portable (like OllyDbg)?
+
+**A**: Unlike OllyDbg, x64dbg is fully portable (all paths are relative to the x64dbg executables and in Olly you have absolute plugin and UDD paths). This means you can copy you x64dbg.ini anywhere without having to change anything.  
+Per default x64dbg will not create any registry entries. However if you use it as a JIT debugger it will change that key. Same applies for x96dbg.exe *(that creates a `Debug with x64dbg` entry in file explorer context menu)*  .
