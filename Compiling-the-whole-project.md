@@ -2,7 +2,7 @@
 
 **Notice**: It is important to install the **exact** versions of the tools mentioned hereafter (special exception for Visual Studio 2013, for which you can also use the Professional or Enterprise editions). Don't come complaining if you didn't install the correct versions of the tools.
 
-1. [Download Visual Studio 2013 Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs) (make sure to install MFC)
+1. [Download Visual Studio 2013 Community Edition](https://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx) (make sure to install MFC)
 2. [Download & Install Qt 4.8.6 (x32) for MSVC2013](http://sourceforge.net/projects/qt64ng/files/qt/x86/4.8.6/msvc2013/qt-4.8.6-x86-msvc2013.exe/download)
 3. [Download & Install Qt 4.8.6 (x64) for MSVC2013](http://sourceforge.net/projects/qt64ng/files/qt/x86-64/4.8.6/msvc2013/qt-4.8.6-x64-msvc2013.exe/download)
 4. [Download Qt Creator 3.1.1](http://download.qt-project.org/official_releases/qtcreator/3.1/3.1.1/qt-creator-opensource-windows-x86-3.1.1.exe)
