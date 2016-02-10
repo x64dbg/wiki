@@ -7,7 +7,11 @@
 3. [Download & Install Qt 4.8.6 (x64) for MSVC2013](http://sourceforge.net/projects/qt64ng/files/qt/x86-64/4.8.6/msvc2013/qt-4.8.6-x64-msvc2013.exe/download)
 4. [Download Qt Creator 3.1.1](http://download.qt-project.org/official_releases/qtcreator/3.1/3.1.1/qt-creator-opensource-windows-x86-3.1.1.exe)
 5. [Get the Dependencies](Getting the Dependencies)
-6. Clone the repository to your local drive
+6. Clone the repository to your local drive. Make sure to include `--recurse-submodules` in your clone command or use:
+```
+git submodule init
+git submodule update
+```
 
 # For tools
 
