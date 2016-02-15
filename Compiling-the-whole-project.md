@@ -26,6 +26,10 @@ git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
 4. Open `src\gui\x64dbg.pro` in Qt Creator
 5. Compile the GUI.
 
-**Notice**: Sometimes if you modifiy `Q_OBJECT` header files you need to rebuild to GUI to fix a weird crash.
+**Notice**: Sometimes if you modifiy `Q_OBJECT` header files you need to rebuild the GUI to fix a weird crash.
 
 More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
+
+# Video
+
+There is a video available where the build process (after installing the prerequisites) is shown. It is available on [YouTube](https://youtu.be/M3J2wpXpeX0) and in [SWF Format](https://mega.nz/#!D4x1wQZD!LNz_K4GOhNuJlgS1oztlgdRhoZwPODWyQdd6ISUVvF0).
