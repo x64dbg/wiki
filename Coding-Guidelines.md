@@ -1,6 +1,6 @@
 # x64dbg Coding Guidelines #
 
-v1.05
+v1.06
 
 ---
 
@@ -8,13 +8,15 @@ v1.05
 
 x64dbg has become quite a big project and therefore it is wise to enforce certain coding style parts, so everyone is writing code in an equal manner. After publication of this document every piece of code written for x64dbg **should** follow these guidelines, please keep this in mind while writing your code.
 
-###A General Rule
+### A General Rule
+
 When you edit existing code, try to follow the style used in that particular file, refactor the whole code if you are certain it does not comply with the coding guidelines in this document.
 
 Another thing that is very important is: **use common sense**. If you cannot find a convention, just see the context and try to mimic that. Please inform me about this though, maybe there is something missing in this document.
 
-###Another Thing
-Specifically for x64dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/), a tool to auto-format the source code in C/C++ projects. Do not worry about code formatting. It will be silently done in a pre-commit hook (run *install.bat* after cloning the project), so do not be surprised if your code looks good after you commit. It is the documented behavior.
+### Another Thing
+
+Specifically for x64dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/), a tool to auto-format the source code in C/C++ projects. Do not worry about code formatting. It will be silently done in a pre-commit hook (run *install.bat* after cloning the project), so do not be surprised if your code looks good after you commit. It is the desired behavior.
 
 ## Indentation
 
@@ -37,7 +39,8 @@ CMDRESULT cbCreateThread(int argc, char* argv[])
 }
 ```
 
-##Newlines
+## Newlines
+
 Some people tend to write as much code as possible on a single line. Avoid this and use newlines without hesitation!
 
 Example Header (bad):
@@ -77,7 +80,7 @@ class CloseDialog : public QDialog
 public:
     explicit CloseDialog(QWidget *parent = 0);
     ~CloseDialog();
-                       //dont't forget this newline!
+
 private:
     Ui::CloseDialog *ui;
 };
@@ -136,7 +139,7 @@ void ThreadView::contextMenuSlot(const QPoint & pos)
         mSetPriorityHighest->setChecked(true);
     else if(priority == "Lowest")
         mSetPriorityLowest->setChecked(true);
- //newline here
+ 
     wMenu->exec(mapToGlobal(pos)); //execute context menu
 }
 
@@ -148,24 +151,25 @@ void ThreadView::SuspendThread()
 ```
 
 ## Internal Types
-x64\_dbg has various internal types, use them!
 
-Example:
-```
-//DBG
-uint addr1 = GetContextData(UE_CIP);
-//Bridge
-duint addr2 = GetContextData(UE_CSP);
-//GUI
-int_t addr3 = rvaToVa(getInitialSelection());
-uint_t addr4 = (uint_t)param1;
+x64dbg has various internal integer types, use them! They are defined as follows:
 
 ```
+#ifdef _WIN64
+typedef unsigned long long duint;
+typedef signed long long dsint;
+#else
+typedef unsigned long duint;
+typedef signed long dsint;
+#endif //_WIN64
+```
 
-##Memory Allocation
-x64\_dbg has it's own memory allocation class. If you need to allcoate memory, use the class called *Memory*. If you need to interchange data between the GUI and the DBG, use the *BridgeAlloc* and *BridgeFree* functions.
+## Memory Allocation
+
+x64dbg has it's own memory allocation class. If you need to allcoate memory, use the class called *Memory*. If you need to interchange data between the GUI and the DBG, use the *BridgeAlloc* and *BridgeFree* functions.
 
 Example of using the *Memory* class:
+
 ```
 void formathex(char* string)
 {
@@ -188,10 +192,12 @@ void formathex(char* string)
 }
 ```
 
-##Spacing
+## Spacing
+
 Spaces are important for the readability of the code, as long as you do not overspace them. See the examples for an explanation.
 
 Examples:
+
 ```
 uint val=getvaluefromthread(hThread); //incorrect, very dense.
 uint val = getvaluefromthread(hThread); //correct and more readable.
@@ -207,43 +213,31 @@ if(getvaluefromthread(hThread, 1) == secret(1, 2))
     stopdebug();
 ```
 
-##Variable Naming
+## Variable Naming
+
 In general, variable names should be descriptive and simple. Naming conventions differ in the various modules, so each module will have a small sub-header. **Avoid** using underscores in your variables, as it will make your code very bloated.
 
-###Bridge
-In short: no naming conventions, use anything you like.
+### Class member variables
 
-###DBG
-At the moment (8/1/2014) there are no real conventions, just go with camel case, first part lower.
+Class member variables are prefixed with an `m`, followed by camelCase: `int mClassVariable`.
 
-Example:
-```
-HANDLE hThread;
-BREAKPOINT curBp;
-int count;
-bool bThisIsATest;
-```
+### Function arguments
 
-###GUI
-Basically the same as the DBG, but class variables are prefixed with 'm'.
+Function arguments are camelCase with **no prefixes**: `int argumentVariable`
 
-Example:
-```
-class Test
-{
-public:
-    Test();
+### Local variables
 
-private:
-    QAction mTestAction;
-    int mCip;
-}
-```
+Same as function arguments, camelCase: `auto myLocalVariable = 0`.
 
-##Variable Declarations
+### Global variables
+
+Obviously try to avoid global variables, but `static int globalVariable = 5` is fine.
+
+## Variable Declarations
 We use a C++ compiler, so make the scope of your variables as small as possible.
 
 Example (bad):
+
 ```
 int Bridge::getValue(const char* szFilePath)
 {
@@ -280,6 +274,7 @@ int Bridge::getValue(const char* szFilePath)
 ```
 
 Example (correct):
+
 ```
 int Bridge::getValue(const char* szFilePath)
 {
@@ -310,13 +305,12 @@ int Bridge::getValue(const char* szFilePath)
 }
 ```
 
-##Function Naming
+## Function Naming
+
 Function naming conventions currently differ inside the various modules, so each module will have a small sub-header. The only overall convention is that you should not use underscores in your function names, unless this is specified in the convention (like *"\_dbg\_"*).
 
-###Bridge
-The bridge has various naming conventions for different types of functions.
+### Bridge Exports
 
-#####Exports
 Bridge exports have the WinAPI conventions: CamelCaseFunctions.
 
 Example:
@@ -327,16 +321,38 @@ BRIDGE_IMPEXP void* BridgeAlloc(size_t size);
 BRIDGE_IMPEXP void BridgeFree(void* ptr);
 ```
 
-#####Others
-Other functions follow the DBG variable naming conventions.
+### DBG
 
-###DBG
-The debugger has quite complex naming conventions.
+Follow the following naming conventions.
 
-#####Exports
-DBG exports **must** start with *"\_dbg\_"* or *"\_plugin\_"* and they **must** be lower case.
+#### Classes
+
+Following the C# conventions (camel case), public functions start with an uppercase letter, private/protected functions with a lowercase letter.
 
 Example:
+
+```
+class ExpressionParser
+{
+public:
+    explicit ExpressionParser(const String & expression);
+    bool Calculate(duint & value, bool signedcalc) const;
+
+protected:
+    bool isUnaryOperator() const;
+
+private:
+    static String fixClosingBrackets(const String & expression);
+    void tokenize();
+};
+```
+
+#### Exports
+
+DBG exports **must** start with *"\_dbg\_"* or *"\_plugin\_"*.
+
+Example:
+
 ```
 //Some 'normal' exports.
 DLL_EXPORT duint _dbg_memfindbaseaddr(duint addr, duint* size);
@@ -351,13 +367,16 @@ PLUG_IMPEXP void _plugin_debugpause();
 PLUG_IMPEXP void _plugin_debugskipexceptions(bool skip);
 ```
 
-#####Static functions
+#### Static functions
+
 Static functions do not have conventions, since other files cannot see them, try to make up a sensible name though.
 
-#####Command Callbacks
-Command callbacks **must** be prefixed with *"cb"* and from there they follow camel case. They must also describe their type.
+#### Command Callbacks
+
+Command callbacks **must** be prefixed with *"cb"* and from there they follow camel case.
 
 Example:
+
 ```
 //Some debug command callbacks.
 CMDRESULT cbDebugInit(int argc, char* argv[]);
@@ -372,45 +391,38 @@ CMDRESULT cbInstrAdd(int argc, char* argv[]);
 CMDRESULT cbInstrAnd(int argc, char* argv[]);
 ```
 
-#####Module functions
-Functions that could have a (static) class wrapped around it (still to be done) should be prefixed with their class name and they **must** be lowercase. The only exception to the prefix is when a function is used really often and a prefix would only require more typing.
+#### Module functions
+
+Functions that could have a (static) class wrapped around it (still to be done) should be prefixed with their class name, in `UpperCamelCase`.
 
 Example:
+
 ```
 //Script functions.
-void scriptload(const char* filename);
-void scriptunload();
-void scriptrun(int destline);
-void scriptstep();
+void ScriptLoad(const char* filename);
+void ScriptUnload();
+void ScriptRun(int destline);
+void ScriptStep();
 
 //Breakpoint functions.
-void bptobridge(const BREAKPOINT* bp, BRIDGEBP* bridge);
-void bpcachesave(JSON root);
-void bpcacheload(JSON root);
-void bpclear();
+void BpToBridge(const BREAKPOINT* bp, BRIDGEBP* bridge);
+void BpCacheSave(JSON root);
+void BpCacheLoad(JSON root);
+void BpClear();
 ```
 
-When wrapped in a (static) class, just use Class::functionName, where the current function name would be "classfunctionname".
+#### Anything else
 
-#####Anything else
 Just follow the DBG variable naming conventions.
 
-###GUI
-The GUI has more simple naming conventions.
+### GUI
 
-#####Exports
-GUI exports have the same conventions as the DBG, but then the prefix is *"\_gui\_"*
+#### Class functions
 
-Example (and actually the only two exports):
-```
-extern "C" __declspec(dllexport) int _gui_guiinit(int argc, char *argv[]);
-extern "C" __declspec(dllexport) void* _gui_sendmessage(GUIMSG type, void* param1, void* param2);
-```
-
-#####Class functions
-Go with the DBG variable naming conventions.
+Follow Qt naming conventions for classes that inherit from Qt classes and DBG conventions otherwise.
 
 Example:
+
 ```
 #ifndef SHORTCUTEDIT_H
 #define SHORTCUTEDIT_H
@@ -440,15 +452,14 @@ protected:
 #endif // SHORTCUTEDIT_H
 ```
 
-#####Anything else
-Just follow the DBG variable naming conventions.
+## Struct, Enum, #define
 
-##Struct, Enum, #define
+### Bridge
 
-###Bridge
 Go for uppercase, for the outer name, anything you like for the inner names. Notice that bridgemain.h can be called from C, so keep this in mind when declaring the Structs and Enums.
 
 Example:
+
 ```
 //UPPERCASE, lowercase
 typedef struct
@@ -473,15 +484,18 @@ typedef struct
 #define MAX_MODULE_SIZE 256
 ```
 
-###DBG
+### DBG
+
 Go for uppercase, for the outer name, anything you like for the inner names. Notice that _plugins.h can be called from C, so keep this in mind when declaring structs and Enums. See the Bridge for examples.
 
 The only exception to this rule is inside classes. Follow the GUI conventions here.
 
-###GUI
+### GUI
+
 Inside classes, go for CamelCase. Otherwise, follow the DBG rules.
 
 Example:
+
 ```
 enum BeaTokenType
 {
@@ -506,9 +520,11 @@ struct BeaTokenValue
 ```
 
 ##Headers and Source Files
-Do not, I repeat: **DO NOT** slam your class into a single *.h* file! Only do this if you are working on a very simple class that is used as allocator or something, but in general: split header and source files. In short: put as much as possible in the source files.
+
+**Do not** slam your class into a single *.h* file (unless obviously it's a templated class)! In general: split header and source files.
 
 Example (header):
+
 ```
 #ifndef HISTORYLINEEDIT_H
 #define HISTORYLINEEDIT_H
@@ -539,6 +555,7 @@ private:
 ```
 
 Example (source, code removed):
+
 ```
 #include "HistoryLineEdit.h"
 #include "Bridge.h"
@@ -560,13 +577,6 @@ void HistoryLineEdit::setFocus()
 }
 ```
 
-###An Important Rule
-**DO NOT** include all the required *.h* files inside other header files. Only include a *.h* inside the header if it is absolutely required, otherwise include *.h* files inside your source file. This generally saves compile time and as the GUI now takes minutes to compile on a Dual Core this is important.
+## Final words
 
-###Another Important Thing
-Do not use ugly things like *"#pragma once"* inside your headers, just go with the #ifndef construction as seen in the example above.
-
-##Final words
-This should be the most important rules. I do not want to stretch out this document much more, but if there are any neccesary additions, feel free to contact me for a revision.
-
-*Mr. eXoDia* (mr.exodia.tpodt@gmail.com)
+This should be enough, if you are unsure, just ask me. 
