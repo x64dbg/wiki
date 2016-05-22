@@ -8,3 +8,6 @@ Feel free to add your color scheme here:
 
 [Dark Theme](https://gist.github.com/mrexodia/5b560dd1671577d1f214dec549f3edc0) by [tr4ceflow](http://blog.tr4ceflow.com/)
 [![screenshot](http://i.imgur.com/jDIWpRJ.png)](http://i.imgur.com/jDIWpRJ.png)
+
+[Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) by Joao Marques
+[![screenshot](http://i.imgur.com/ne8ZWpx.png)](http://i.imgur.com/ne8ZWpx.png)
