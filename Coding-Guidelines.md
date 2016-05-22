@@ -1,6 +1,6 @@
 # x64dbg Coding Guidelines #
 
-v1.06
+v1.06 (May 2016)
 
 ---
 
