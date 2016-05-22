@@ -1,4 +1,4 @@
-# How to contribute #
+# Contributing
 
 * [Report bugs](http://report.x64dbg.com) in the issue tracker.
 * Add feature requests to the issue tracker.
