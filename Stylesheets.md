@@ -8,12 +8,12 @@ Please add your style sheets (gist+screenshot) here and don't forget to say whic
 
 ## Orange mod by by Storm Shadow
 
-Orange mod of http://tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet
+Orange mod of tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet
 adapted to x64dbg
 
 
 ![orange](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)
-dl here
+# Download her
 
 https://github.com/techbliss/x64dbg_orange_mod
 
