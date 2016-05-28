@@ -7,10 +7,8 @@ Please add your style sheets (gist+screenshot) here and don't forget to say whic
 ## Orange mod by Storm Shadow
 
 Orange mod of [Qt dark orange](http://tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet)
-adapted to x64dbg.
+adapted to x64dbg. [Download here](https://github.com/techbliss/x64dbg_orange_mod).
 
 [![orange](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)
-
-[Download here](https://github.com/techbliss/x64dbg_orange_mod)
 
 Hint: Edit apperence text to orange for ultimate orange.
