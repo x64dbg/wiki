@@ -11,3 +11,6 @@ Feel free to add your color scheme here:
 
 [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) by Joao Marques
 [![screenshot](http://i.imgur.com/ne8ZWpx.png)](http://i.imgur.com/ne8ZWpx.png)
+
+[Dark Colorful](https://gist.github.com/levisre/6731fdc0a3857ac24f3f81fa18b29552) by Levis
+[![screenshot](https://raw.githubusercontent.com/levisre/Debugger_Scheme/master/screenshots/x64dbg.png)](https://raw.githubusercontent.com/levisre/Debugger_Scheme/master/screenshots/x64dbg.png)
