@@ -6,7 +6,7 @@ Please add your style sheets (gist+screenshot) here and don't forget to say whic
 
 
 
-## Orange mod by by Storm Shadow
+## Orange mod by Storm Shadow
 
 Orange mod of tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet
 adapted to x64dbg
