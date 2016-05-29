@@ -30,6 +30,7 @@ Use with 50 shades of gray color sheme
 
 Dark Blue [Download here](https://github.com/techbliss/x64dbg_blue_mod).
 
-![xdbgblue](https://cloud.githubusercontent.com/assets/3592375/15633766/fd991126-25b5-11e6-9830-5ca2fe8847c6.png)
+![blue](https://cloud.githubusercontent.com/assets/3592375/15634563/5c82df62-25c7-11e6-8919-a8032ee51f1a.png)
+
 
 Use with 50 shades of gray color sheme
