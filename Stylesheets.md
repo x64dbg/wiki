@@ -34,3 +34,14 @@ Dark Blue [Download here](https://github.com/techbliss/x64dbg_blue_mod).
 
 
 Use with 50 shades of gray color sheme
+
+
+
+## Cyan mod by Storm Shadow
+
+Cyan [Download here](https://github.com/techbliss/x64dbg_cyan_mod).
+
+
+![cyan](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)
+
+Use with 50 shades of gray color sheme
