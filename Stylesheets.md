@@ -17,7 +17,7 @@ Hint: Edit apperence text to orange for ultimate orange. Use with [Shades of gra
 
 Dark Red [Download here](https://github.com/techbliss/x64dbg_red_mod).
 
-![bbk9go4](https://cloud.githubusercontent.com/assets/3592375/15633822/abd605c8-25b6-11e6-97af-d3202cc3f90c.png)
+[![bbk9go4](https://cloud.githubusercontent.com/assets/3592375/15633822/abd605c8-25b6-11e6-97af-d3202cc3f90c.png)](https://cloud.githubusercontent.com/assets/3592375/15633822/abd605c8-25b6-11e6-97af-d3202cc3f90c.png)
 
 Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
 
@@ -25,7 +25,7 @@ Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb80939884
 
 Dark Blue [Download here](https://github.com/techbliss/x64dbg_blue_mod).
 
-![blue](https://cloud.githubusercontent.com/assets/3592375/15634563/5c82df62-25c7-11e6-8919-a8032ee51f1a.png)
+[![blue](https://cloud.githubusercontent.com/assets/3592375/15634563/5c82df62-25c7-11e6-8919-a8032ee51f1a.png)](https://cloud.githubusercontent.com/assets/3592375/15634563/5c82df62-25c7-11e6-8919-a8032ee51f1a.png)
 
 Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
 
@@ -33,6 +33,6 @@ Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb80939884
 
 Cyan [Download here](https://github.com/techbliss/x64dbg_cyan_mod).
 
-![cyan](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)
+[![cyan](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)
 
 Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
