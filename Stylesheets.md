@@ -11,10 +11,7 @@ adapted to x64dbg. [Download here](https://github.com/techbliss/x64dbg_orange_mo
 
 [![orange](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)
 
-Hint: Edit apperence text to orange for ultimate orange.
-Use with 50 shades of gray color sheme
-
-
+Hint: Edit apperence text to orange for ultimate orange. Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
 
 ## Dark Red mod by Storm Shadow
 
@@ -22,9 +19,7 @@ Dark Red [Download here](https://github.com/techbliss/x64dbg_red_mod).
 
 ![bbk9go4](https://cloud.githubusercontent.com/assets/3592375/15633822/abd605c8-25b6-11e6-97af-d3202cc3f90c.png)
 
-Use with 50 shades of gray color sheme
-
-
+Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
 
 ## Dark Blue mod by Storm Shadow
 
@@ -32,16 +27,12 @@ Dark Blue [Download here](https://github.com/techbliss/x64dbg_blue_mod).
 
 ![blue](https://cloud.githubusercontent.com/assets/3592375/15634563/5c82df62-25c7-11e6-8919-a8032ee51f1a.png)
 
-
-Use with 50 shades of gray color sheme
-
-
+Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
 
 ## Cyan mod by Storm Shadow
 
 Cyan [Download here](https://github.com/techbliss/x64dbg_cyan_mod).
 
-
 ![cyan](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)
 
-Use with 50 shades of gray color sheme
+Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
