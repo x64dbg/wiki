@@ -1,6 +1,6 @@
 # Getting the Dependencies #
 
-x64_dbg has various dependencies. Here is a list of them and how you can obtain them yourself. The easiest method is simply downloading the latest release from [Github](http://releases.x64dbg.com) and extract the binaries in the `bin` directory, but here is a guide **in case you want to do it manually** (which you don't because this guide is outdated as fuck).
+x64_dbg has various dependencies. Here is a list of them and how you can obtain them yourself. The easiest method is simply downloading the latest release from [Github](http://releases.x64dbg.com) and extract the binaries in the `bin` directory, but here is a guide **in case you want to do it manually** (Which you don't because it was hard to do and waste your time. But the snowman depends on QT library. If you compiled x64gui with debug build profile. Then you need download snowman sourcecode and compile it using debug build profile too. Otherwise you will encounter crash issue).
 
 ### BeaEngine ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/beaengine).
