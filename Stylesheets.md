@@ -36,3 +36,11 @@ Cyan [Download here](https://github.com/techbliss/x64dbg_cyan_mod).
 [![cyan](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)](https://cloud.githubusercontent.com/assets/3592375/15634704/c269158c-25ca-11e6-9871-8bc230640610.png)
 
 Use with [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) color scheme.
+
+## Solarized Light mod by Storm Shadow
+
+Solarized Light [Download here](https://github.com/techbliss/x64dbg_solarized_light).
+
+[![cyan](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)
+
+Use with [Solarized light](https://gist.github.com/techbliss/45f8ec0fcd713dd5a1db65aa012c5878) color scheme.
