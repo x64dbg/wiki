@@ -16,3 +16,7 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 
 [Dark Colorful](https://gist.github.com/levisre/6731fdc0a3857ac24f3f81fa18b29552) by Levis
 [![screenshot](https://raw.githubusercontent.com/levisre/Debugger_Scheme/master/screenshots/x64dbg.png)](https://raw.githubusercontent.com/levisre/Debugger_Scheme/master/screenshots/x64dbg.png)
+
+[Light solarized](https://gist.github.com/techbliss/45f8ec0fcd713dd5a1db65aa012c5878) by Storm Shadow
+[![screenshot](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)
+
