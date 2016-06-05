@@ -27,7 +27,7 @@ Clone and compile the repository [here](https://bitbucket.org/mrexodia/ogdf).
 Download the binaries from [here](https://tuts4you.com/download.php?view.3503), or manage to compile the repository [here](https://github.com/NtQuery/Scylla). Don't forget to rename to Scylla.dll.
 
 ### TitanEngine ###
-Clone and compile the repository [here](https://bitbucket.org/mrexodia/titanengine-update).
+Clone and compile the repository [here](https://bitbucket.org/titanengineupdate/titanengine-update).
 
 ### Qt ###
 Usually QtCore4, QtGui4 and QtNetwork4 are inside the /bin directory of your Qt installation.
