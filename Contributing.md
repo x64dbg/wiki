@@ -6,3 +6,4 @@
 * Use x64dbg and write about it. Don't forget to contact us when you do!
 * [Contact us](http://x64dbg.com/#contact) and talk about x64dbg.
 * Send a [donation](http://donate.x64dbg.com) to support the project.
+* [Translate](https://www.transifex.com/x64dbg/x64dbg) x64dbg (contact us if your language isn't listed).
