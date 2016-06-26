@@ -11,4 +11,4 @@ List of contributions:
 - [APISearch.dp64](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-jwasm64/downloads/APISearch.dp64) ([fearless](http://www.letthelight.in/))
 - [AutoCmdLine.dp32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm/downloads/AutoCmdLine.dp32) ([fearless](http://www.letthelight.in/))
 - [AutoCmdLine.dp64](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-jwasm64/downloads/AutoCmdLine.dp64) ([fearless](http://www.letthelight.in/))
-- [APIInfo.dp32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm/downloads/APIInfo.dp32) ([fearless](http://www.letthelight.in/))
+- [APIInfo.dp32](https://bitbucket.org/mrfearless/x64dbg-plugin-sdk-for-masm/downloads/APIInfo%20Plugin%20(inc%20api%20definition%20files).zip) ([fearless](http://www.letthelight.in/))
