@@ -26,7 +26,7 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **Q**: How do I contribute?
 
-**A**: You can check out [this](https://github.com/x64dbg/x64dbg/wiki/How-to-contribute%3F) dedicated page for more information on how to contribute.
+**A**: You can check out [this](https://github.com/x64dbg/x64dbg/wiki/Contributing) dedicated page for more information on how to contribute.
 
 ***
 
