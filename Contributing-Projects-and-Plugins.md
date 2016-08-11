@@ -13,3 +13,4 @@ List of contributions:
 - [AutoCmdLine Plugin (x64)](https://github.com/mrfearless/AutoCmdLine-Plugin-x64) ([fearless](http://www.letthelight.in/))
 - [APIInfo Plugin (x86)](https://github.com/mrfearless/APIInfo-Plugin-x86) ([fearless](http://www.letthelight.in/))
 - [x64dbg plugin template for Visual Studio](https://github.com/mrfearless/x64dbg-plugin-template-for-Visual-Studio) ([fearless](http://www.letthelight.in/))
+- [QuickAccess Plugin (x64)](https://github.com/TheCrazyT/x64dbg-plugin-quickaccess) (TheCrazyT)
