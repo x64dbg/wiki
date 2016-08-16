@@ -6,6 +6,7 @@ This page will contain various types of links related to x64dbg.
 - http://releases.x64dbg.com
 - http://telegram.x64dbg.com
 - http://contribute.x64dbg.com
+- http://x64dbg.com/blog/
 
 ## Useful resources
 
