@@ -10,5 +10,5 @@ This page will contain various types of links related to x64dbg.
 ## Useful resources
 
 ## Articles
-
+* [Introduction to x64dbg](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
 ## Plugins
