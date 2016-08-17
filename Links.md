@@ -7,6 +7,10 @@ This page will contain various types of links related to x64dbg.
 - http://telegram.x64dbg.com
 - http://contribute.x64dbg.com
 - http://x64dbg.com/blog/
+- http://live.x64dbg.com
+
+## News
+- https://twitter.com/x64dbg
 
 ## Useful resources
 
@@ -15,3 +19,7 @@ This page will contain various types of links related to x64dbg.
 * [Live Video reversing session using x64dbg](https://www.livecoding.tv/bloodwrath/videos/M5xAa-x64dbg-reversing-overwatch-game-2)
 
 ## Plugins
+
+## Community
+- [tuts4you forum](https://forum.tuts4you.com/forum/139-x64dbg/)
+- [EXETOOLS Forum](http://forum.exetools.com/showthread.php?t=15328)
