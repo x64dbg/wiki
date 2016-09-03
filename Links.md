@@ -18,8 +18,6 @@ This page will contain various types of links related to x64dbg.
 * [Introduction to x64dbg](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
 * [Live Video reversing session using x64dbg](https://www.livecoding.tv/bloodwrath/videos/M5xAa-x64dbg-reversing-overwatch-game-2)
 
-## Plugins
-
 ## Community
 - [tuts4you forum](https://forum.tuts4you.com/forum/139-x64dbg/)
 - [EXETOOLS Forum](http://forum.exetools.com/showthread.php?t=15328)
