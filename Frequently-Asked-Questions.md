@@ -49,4 +49,4 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 **A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to `Options -> Preferences -> Engine` and make sure the `Enable Debug Privilege` option is checked. Also make sure you are running x64dbg as an administrator. If your process is still not shown, make sure a kernel driver is not [protecting it](http://www.alex-ionescu.com/?p=97).
 
-[!debug priv](https://i.imgur.com/juQs94X.png)
+![debug priv](https://i.imgur.com/juQs94X.png)
