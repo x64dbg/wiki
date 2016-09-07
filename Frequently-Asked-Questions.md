@@ -42,3 +42,11 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **A**: Unlike OllyDbg, x64dbg is fully portable (all paths are relative to the x64dbg executables and in Olly you have absolute plugin and UDD paths). This means you can copy you x64dbg.ini anywhere without having to change anything.  
 Per default x64dbg will not create any registry entries. However if you use it as a JIT debugger it will change that key. Same applies for x96dbg.exe *(that creates a `Debug with x64dbg` entry in file explorer context menu)*  .
+
+***
+
+**Q**: Why isn't process X shown in the attach dialog?
+
+**A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to `Options -> Preferences -> Engine` and make sure the `Enable Debug Privilege` option is checked. Also make sure you are running x64dbg as an administrator. If your process is still not shown, make sure a kernel driver is not [protecting it](http://www.alex-ionescu.com/?p=97).
+
+[!debug priv](https://i.imgur.com/juQs94X.png)
