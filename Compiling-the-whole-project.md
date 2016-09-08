@@ -14,7 +14,7 @@ git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
 
 # For tools
 
-**Notice**: You don't need to do this every time if you want to *develop* for x64dbg. In that case see the "For developers" section.
+**Notice**: You don't need to do this every time if you want to *develop* for x64dbg. In that case see the [For developers](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project#for-developers) section.
 
 1. Run `build.bat x32` and `build.bat x64` to build everything.
 
