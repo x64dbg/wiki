@@ -11,4 +11,4 @@
 
 ## ndh2k16
 
-Get the slides and materials [here](https://mega.nz/#!T0RhlQ6Q!TbgpK3XPDnyL6zf-fq1XscW3LQrQBbXSO5c8w0XwTtk), video [here](https://youtu.be/SnPTk5tG07M?t=9h20m).
+Get the slides and materials [here](https://mega.nz/#!T0RhlQ6Q!TbgpK3XPDnyL6zf-fq1XscW3LQrQBbXSO5c8w0XwTtk), video [here](https://www.youtube.com/watch?v=vpaM3BL0auk).
