@@ -8,7 +8,7 @@
 * [Contact us](http://x64dbg.com/#contact) and talk about x64dbg.
 * Send a [donation](http://donate.x64dbg.com) to support the project.
 * [Translate](http://translate.x64dbg.com) x64dbg (contact us if your language isn't listed).
-* Document [undocumented commands](https://github.com/x64dbg/docs/issues)
+* Document [undocumented commands](https://github.com/x64dbg/docs/issues).
 
 ## ndh2k16
 
