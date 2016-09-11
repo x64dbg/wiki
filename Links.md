@@ -8,11 +8,13 @@ This page will contain various types of links related to x64dbg.
 - http://contribute.x64dbg.com
 - http://x64dbg.com/blog/
 - http://live.x64dbg.com
+- http://translate.x64dbg.com
 
 ## News
 - https://twitter.com/x64dbg
 
 ## Useful resources
+- [Sourceforge page](https://sourceforge.net/projects/x64dbg/)
 
 ## Articles
 * [Introduction to x64dbg](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
