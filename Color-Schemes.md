@@ -21,3 +21,5 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 [![screenshot](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)
 
 [Green](https://gist.github.com/mrexodia/f321d17ba9eb892fd3612c8b6cc0abcf) by [SoftDat](https://www.youtube.com/channel/UCJwD4EBtJXSu0iR-q_dgHnQ) [![screenshot](https://i.imgur.com/zDchAvX.png)](https://i.imgur.com/zDchAvX.png)
+
+[xor06](https://gist.github.com/mrexodia/ca611756551d2377dc07c9c598a69e54) by [xor06](https://xor06.wordpress.com) [![screenshot](https://i.imgur.com/0VYARC8.png)](https://i.imgur.com/0VYARC8.png)
