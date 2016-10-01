@@ -32,3 +32,4 @@ List of plugins:
 - [QuickAccess Plugin (x64)](https://github.com/TheCrazyT/x64dbg-plugin-quickaccess) (TheCrazyT)
 - [x64dbgpy](https://github.com/x64dbg/x64dbgpy)
 - [patch exporter for x64dbg](https://github.com/torusrxxx/x64dbgpatchexporter) ([torusrxxx](https://github.com/torusrxxx/))
+- [xLCB Plugin] (https://github.com/ThunderCls/xLCB) ([ThunderCls](http://reversec0de.wordpress.com))
