@@ -4,11 +4,15 @@ Make sure to keep it in the following format:
 
 `Information with link`, `Author (with optional link to website/blog/whatever)`
 
-List of contributions:
+## Visual Studio Templates
 
-List of plugins:
+There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [ScriptDllTemplate](https://github.com/x64dbg/ScriptDllTemplate) available so your can easily develop plugins with Visual Studio.
 
-- [ScyllaHide](http://scyllahide.tk)
+## List of contributions
+
+## List of plugins
+
+- [ScyllaHide](https://github.com/x64dbg/ScyllaHide)
 - [TitanHide](https://bitbucket.org/mrexodia/titanhide)
 - [IDALdr](https://bitbucket.org/Nukem9/idaldr) ([Nukem](https://github.com/Nukem9))
 - [Highlightfish](https://mega.co.nz/#!r0A1FKDD!ZXYeJXz3wkNi7F3p8eMR5JwvCeonvuYFLyOdT9x2Lww)
