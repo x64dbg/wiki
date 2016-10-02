@@ -2,7 +2,7 @@ This page is for projects that somehow contribute to x64dbg but are not part of 
 
 Make sure to keep it in the following format:
 
-`PluginName (linked) by Author: Description`
+`[PluginName](http://li.nk) by [Author](http://li.nk): Description`
 
 ## Visual Studio Templates
 
