@@ -10,9 +10,9 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 
 ## List of plugins
 
-- [ScyllaHide](https://github.com/x64dbg/ScyllaHide), Open-source user-mode Anti-Anti-Debug plugin.
-- [TitanHide](https://bitbucket.org/mrexodia/titanhide)
-- [IDALdr](https://bitbucket.org/Nukem9/idaldr) ([Nukem](https://github.com/Nukem9))
+- Open-source user-mode Anti-Anti-Debug plugin. [ScyllaHide](https://github.com/x64dbg/ScyllaHide)
+- Open-source kernel-mode Anti-Anti-Debug plugin. [TitanHide](https://bitbucket.org/mrexodia/titanhide)
+- x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation. [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9).
 - [Highlightfish](https://mega.co.nz/#!r0A1FKDD!ZXYeJXz3wkNi7F3p8eMR5JwvCeonvuYFLyOdT9x2Lww)
 - [MultiASM](http://rammichael.com/multimate-assembler)
 - [SigMake](https://github.com/Nukem9/SigMake) ([Nukem](https://github.com/Nukem9))
