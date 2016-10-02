@@ -8,8 +8,6 @@ Make sure to keep it in the following format:
 
 There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [ScriptDllTemplate](https://github.com/x64dbg/ScriptDllTemplate) available so your can easily develop plugins with Visual Studio.
 
-## List of contributions
-
 ## List of plugins
 
 - [ScyllaHide](https://github.com/x64dbg/ScyllaHide)
@@ -37,3 +35,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [x64dbgpy](https://github.com/x64dbg/x64dbgpy)
 - [patch exporter for x64dbg](https://github.com/torusrxxx/x64dbgpatchexporter) ([torusrxxx](https://github.com/torusrxxx/))
 - [xLCB Plugin] (https://github.com/ThunderCls/xLCB) ([ThunderCls](http://reversec0de.wordpress.com))
+
+## List of contributions
+
+- Nothing here yet...
