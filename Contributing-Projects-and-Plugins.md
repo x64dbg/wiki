@@ -10,16 +10,15 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 
 ## List of plugins
 
-- [ScyllaHide](https://github.com/x64dbg/ScyllaHide): Open-source user-mode Anti-Anti-Debug plugin.
-- [TitanHide](https://bitbucket.org/mrexodia/titanhide): Open-source kernel-mode Anti-Anti-Debug plugin.
-- [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation. .
-- [Highlightfish](https://mega.co.nz/#!r0A1FKDD!ZXYeJXz3wkNi7F3p8eMR5JwvCeonvuYFLyOdT9x2Lww)
-- [MultiASM](http://rammichael.com/multimate-assembler)
-- [SigMake](https://github.com/Nukem9/SigMake) ([Nukem](https://github.com/Nukem9))
-- [OllyMigrate](http://low-priority.appspot.com/ollymigrate)
-- [OllyDumpEx](http://low-priority.appspot.com/ollydumpex)
-- [IDASkins](https://github.com/Nukem9/IDASkins) ([Nukem](https://github.com/Nukem9))
-- [ret-sync](https://github.com/bootleg/ret-sync)
+- [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
+- [TitanHide](https://bitbucket.org/mrexodia/titanhide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
+- [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation.
+- [Highlightfish](https://mega.co.nz/#!r0A1FKDD!ZXYeJXz3wkNi7F3p8eMR5JwvCeonvuYFLyOdT9x2Lww) by Insid3Code: Plugin to customize x64dbg colors and Highlightings.
+- [Multiline Ultimate Assembler](http://rammichael.com/multimate-assembler) by [RaMMicHaeL](http://rammichael.com): Multiline Ultimate Assembler is a multiline (and ultimate) assembler (and disassembler) plugin. It's a perfect tool for modifying and extending a compiled executable functionality, writing code caves, etc.
+- [OllyMigrate](http://low-priority.appspot.com/ollymigrate) by [lowprio20](http://low-priority.appspot.com): A plugin to pass debuggee to another debugger without restarting.
+- [OllyDumpEx](http://low-priority.appspot.com/ollydumpex) by [lowprio20](http://low-priority.appspot.com): Process memory dumper for x64dbg, OllyDbg and Immunity Debugger.
+- [IDASkins](https://github.com/Nukem9/IDASkins) by ([Nukem](https://github.com/Nukem9)): Advanced skinning plugin for IDA PRO, ported to x64dbg.
+- [ret-sync](https://github.com/bootleg/ret-sync) by [bootleg](https://github.com/bootleg): ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA disassembler.
 - [labeless](https://github.com/a1ext/labeless)
 - [ChaiScript](https://github.com/jdavidberger/chaiScriptPlugin/) ([jdavidberger](https://github.com/jdavidberger))
 - [x64dbg Plugin SDK For x86 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-for-x86-Assembler) ([fearless](http://www.letthelight.in/))
