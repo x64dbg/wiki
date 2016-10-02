@@ -35,6 +35,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [x64dbgpy](https://github.com/x64dbg/x64dbgpy)
 - [patch exporter for x64dbg](https://github.com/torusrxxx/x64dbgpatchexporter) ([torusrxxx](https://github.com/torusrxxx/))
 - [xLCB Plugin] (https://github.com/ThunderCls/xLCB) ([ThunderCls](http://reversec0de.wordpress.com))
+ - [xdbg](https://github.com/brock7/xdbg) ([brock7](https://github.com/brock7))
 
 ## List of contributions
 
