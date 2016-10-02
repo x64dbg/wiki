@@ -26,7 +26,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - AutoCmdLine [x86](https://github.com/mrfearless/AutoCmdLine-Plugin-x86) [x64](https://github.com/mrfearless/AutoCmdLine-Plugin-x64)by ([fearless](http://www.letthelight.in): A plugin to remember the command line and load it up automatically (now built in x64dbg).
 - APIInfo [x86](https://github.com/mrfearless/APIInfo-Plugin-x86) by ([fearless](http://www.letthelight.in)): A plugin to populate the comments with windows api calls.
 - CodeShot [x86](https://github.com/mrfearless/CodeShot-Plugin-x86) by ([fearless](http://www.letthelight.in)): A plugin to capture the x64dbg screen to an image file.
-- QuickAccess [x64](https://github.com/TheCrazyT/x64dbg-plugin-quickaccess) by [TheCrazyT](https://github.com/TheCrazyT): For the lazy people that can't remember all the shortcuts. Just press `Ctrl+3` and you can access any menu.
+- [QuickAccess](https://github.com/TheCrazyT/x64dbg-plugin-quickaccess) by [TheCrazyT](https://github.com/TheCrazyT): For the lazy people that can't remember all the shortcuts. Just press `Ctrl+3` and you can access any menu.
 - [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python.
 - [x64dbgpatchexporter](https://github.com/torusrxxx/x64dbgpatchexporter) by [torusrxxx](https://github.com/torusrxxx/): Export patches with a template.
 - [xLCB](https://github.com/ThunderCls/xLCB) by [ThunderCls](http://reversec0de.wordpress.com): Plugin that mimics the function of the original LCB plugin for OllyDbg by scherzo.
