@@ -7,14 +7,14 @@
 3. Download [Qt 5.6.0 (x64) for MSVC2013](http://download.qt.io/official_releases/qt/5.6/5.6.0/qt-opensource-windows-x86-msvc2013_64-5.6.0.exe), install in `C:\Qt\qt-5.6.0-x64-msvc2013`.
 4. Download [Qt Creator 4.0.0](http://download.qt.io/official_releases/qtcreator/4.0/4.0.0/qt-creator-opensource-windows-x86-4.0.0.exe), install in `C:\Qt\qtcreator-4.0.0`.
 5. [Get the Dependencies](Getting the Dependencies)
-6. Clone the repository to your local drive. Make sure to include the submodules in your clone command:
+6. Clone the repository to your local drive. **Make sure to include the submodules in your clone command!**
 ```
 git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
 ```
 
 ## Custom paths
 
-If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create the right environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
+If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create a custom environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
 
 - `set QT32PATH=C:\Qt\qt-5.6.0-x86-msvc2013\5.6\msvc2013\bin`
 - `set QT64PATH=C:\Qt\qt-5.6.0-x64-msvc2013\5.6\msvc2013_64\bin`
