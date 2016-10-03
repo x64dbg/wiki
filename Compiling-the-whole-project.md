@@ -14,7 +14,7 @@ git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
 
 ## Custom paths
 
-If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make `setenv.bat` create the right environment for compiling with `build.bat`.
+If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create the right environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
 
 - `set QT32PATH=c:\Qt\qt-5.6.0-x86-msvc2013\5.6\msvc2013\bin`
 - `set QT64PATH=c:\Qt\qt-5.6.0-x64-msvc2013\5.6\msvc2013_64\bin`
