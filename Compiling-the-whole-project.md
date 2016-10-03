@@ -16,11 +16,11 @@ git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
 
 If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create the right environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
 
-- `set QT32PATH=c:\Qt\qt-5.6.0-x86-msvc2013\5.6\msvc2013\bin`
-- `set QT64PATH=c:\Qt\qt-5.6.0-x64-msvc2013\5.6\msvc2013_64\bin`
-- `set QTCREATORPATH=c:\Qt\qtcreator-4.0.0\bin`
-- `set VSVARSALLPATH=c:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
-- `set COVERITYPATH=c:\coverity\bin`
+- `set QT32PATH=C:\Qt\qt-5.6.0-x86-msvc2013\5.6\msvc2013\bin`
+- `set QT64PATH=C:\Qt\qt-5.6.0-x64-msvc2013\5.6\msvc2013_64\bin`
+- `set QTCREATORPATH=C:\Qt\qtcreator-4.0.0\bin`
+- `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
+- `set COVERITYPATH=C:\coverity\bin`
 - `set DOXYGENPATH=C:\Program Files\doxygen\bin`
 
 # For tools
