@@ -12,6 +12,17 @@
 git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
 ```
 
+## Custom paths
+
+If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make `setenv.bat` create the right environment for compiling with `build.bat`.
+
+- `set QT32PATH=c:\Qt\qt-5.6.0-x86-msvc2013\5.6\msvc2013\bin`
+- `set QT64PATH=c:\Qt\qt-5.6.0-x64-msvc2013\5.6\msvc2013_64\bin`
+- `set QTCREATORPATH=c:\Qt\qtcreator-4.0.0\bin`
+- `set VSVARSALLPATH=c:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
+- `set COVERITYPATH=c:\coverity\bin`
+- `set DOXYGENPATH=C:\Program Files\doxygen\bin`
+
 # For tools
 
 **Notice**: You don't need to do this every time if you want to *develop* for x64dbg. In that case see the [For developers](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project#for-developers) section.
