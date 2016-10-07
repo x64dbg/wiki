@@ -4,9 +4,13 @@ Make sure to keep it in the following format:
 
 `PluginName (with link) by Author (with optional link): Brief description.`
 
-## Visual Studio Templates
+## Official Templates
 
 There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [ScriptDllTemplate](https://github.com/x64dbg/ScriptDllTemplate) available so your can easily develop plugins with Visual Studio.
+
+## User-maintained templates
+
+- https://github.com/ThunderCls/x64dbgBccPlugin
 
 ## Plugins
 
