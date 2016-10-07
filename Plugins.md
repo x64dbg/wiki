@@ -10,9 +10,10 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 
 ## User-maintained templates
 
-- [Borland C++](https://github.com/ThunderCls/x64dbgBccPlugin) by [ThunderCls](https://github.com/ThunderCls)
-- [C#](https://github.com/mrexodia/DotNetPluginCS) by [mrexodia](https://github.com/mrexodia)
-- [VB.NET](https://github.com/Ahmadmansoor/x64dbgDotNetPlugin) by [Ahmadmansoor](https://github.com/Ahmadmansoor)
+- [Borland C++](https://github.com/ThunderCls/x64dbgBccPlugin) by [ThunderCls](https://github.com/ThunderCls).
+- [C#](https://github.com/mrexodia/DotNetPluginCS) by [mrexodia](https://github.com/mrexodia).
+- [VB.NET](https://github.com/Ahmadmansoor/x64dbgDotNetPlugin) by [Ahmadmansoor](https://github.com/Ahmadmansoor).
+- Plugin SDK for assembler [x86](https://github.com/mrfearless/x64dbg-Plugin-SDK-for-x86-Assembler), [x64](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler) by [fearless](http://www.letthelight.in).
 
 ## Plugins
 
