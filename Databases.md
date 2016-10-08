@@ -4,7 +4,7 @@ The databases produced by x64dbg are (lz4 compressed) JSON files. **This format 
 {
  "functions": [
   {
-   "manual": false, //created by a computer
+   "manual": false, /*created by a computer*/
    "end": "0xC1B59", //function end (relative to the base of 'module')
    "module": "ntdll.dll", //module the function is in
    "start": "0xC1A80", //function start (relative to the base of 'module')
