@@ -1,4 +1,4 @@
-The databases produced by x64dbg are (lz4 compressed) JSON files. **This format can change, see [DbSave](https://github.com/x64dbg/x64dbg/blob/development/src/dbg/database.cpp#L38) for the code producing these databases.**
+The databases produced by x64dbg are (optionally lz4 compressed) JSON files. **This format can change, see [DbSave](https://github.com/x64dbg/x64dbg/blob/development/src/dbg/database.cpp#L38) for the code producing these databases.** If you want to export an uncompressed database, use the `File -> Export database` option.
 
 ```python
 {
