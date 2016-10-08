@@ -1,6 +1,6 @@
 The databases produced by x64dbg are (lz4 compressed) JSON files. **This format can change, see [DbSave](https://github.com/x64dbg/x64dbg/blob/development/src/dbg/database.cpp#L38) for the code producing these databases.**
 
-```json
+```python
 {
  "functions": [
   {
