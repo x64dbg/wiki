@@ -38,3 +38,4 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [xLCB](https://github.com/ThunderCls/xLCB) by [ThunderCls](http://reversec0de.wordpress.com): Plugin that mimics the function of the original LCB plugin for OllyDbg by scherzo.
 - [xdbg](https://github.com/brock7/xdbg) by [brock7](https://github.com/brock7): Open-source user-mode Anti-Anti-Debug plugin for x64dbg & cheatengine.
 - [X-Pause](https://github.com/torusrxxx/x64dbg-xpause) by [torusrxxx](https://github.com/torusrxxx): Guaranteed to pause the debuggee.
+- [x64_tracer](https://github.com/KurapicaBS/x64_tracer) by [KurapicaBS](https://github.com/KurapicaBS): Conditional branch logger for x64dbg.
