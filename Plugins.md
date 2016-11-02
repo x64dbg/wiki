@@ -40,3 +40,4 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [X-Pause](https://github.com/torusrxxx/x64dbg-xpause) by [torusrxxx](https://github.com/torusrxxx): Guaranteed to pause the debuggee.
 - [x64_tracer](https://github.com/KurapicaBS/x64_tracer) by [KurapicaBS](https://github.com/KurapicaBS): Conditional branch logger for x64dbg.
 - [BreakModule](https://github.com/ThunderCls/BreakModule) by [ThunderCls](https://github.com/ThunderCls): This plugin is intended to give the user the option to pause the execution of the debugged application when the specified modules are loaded.
+- [MagiCalls](https://github.com/ThunderCls/MagiCalls) by [ThunderCls](https://github.com/ThunderCls): This plugin is intended to give the user the option to access certain points of the debugged application when events addresses are calculated, thus permiting to intercept such points to stop execution right before those events are executed.
