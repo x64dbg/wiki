@@ -18,7 +18,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 ## Plugins
 
 - [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
-- [TitanHide](https://bitbucket.org/mrexodia/titanhide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
+- [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
 - [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation.
 - [Highlightfish](https://mega.co.nz/#!r0A1FKDD!ZXYeJXz3wkNi7F3p8eMR5JwvCeonvuYFLyOdT9x2Lww) by Insid3Code: Plugin to customize x64dbg colors and Highlightings.
 - [Multiline Ultimate Assembler](http://rammichael.com/multimate-assembler) by [RaMMicHaeL](http://rammichael.com): Multiline Ultimate Assembler is a multiline (and ultimate) assembler (and disassembler) plugin. It's a perfect tool for modifying and extending a compiled executable functionality, writing code caves, etc.
