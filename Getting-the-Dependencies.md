@@ -9,7 +9,7 @@ Clone and compile the repository [here](https://bitbucket.org/mrexodia/beaengine
 Clone and compile the repository [here](https://github.com/aquynh/capstone).
 
 ### dbghelp & symserv ###
-Get [Debugging Tools For Windows](http://go.microsoft.com/fwlink/p/?linkid=84137) and extract dbghelp.dll and symserv.dll from the installation directory.
+Get [Debugging Tools For Windows](http://go.microsoft.com/fwlink/p/?linkid=84137) and extract dbghelp.dll and symsrv.dll from the installation directory.
 
 ### DeviceNameResolver ###
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/devicenameresolver).
