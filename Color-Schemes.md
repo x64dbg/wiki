@@ -23,3 +23,5 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 [Green](https://gist.github.com/mrexodia/f321d17ba9eb892fd3612c8b6cc0abcf) by [SoftDat](https://www.youtube.com/channel/UCJwD4EBtJXSu0iR-q_dgHnQ) [![screenshot](https://i.imgur.com/zDchAvX.png)](https://i.imgur.com/zDchAvX.png)
 
 [Blue Xor](https://gist.github.com/mrexodia/ca611756551d2377dc07c9c598a69e54) by [xor06](https://xor06.wordpress.com) [![screenshot](https://i.imgur.com/0VYARC8.png)](https://i.imgur.com/0VYARC8.png)
+
+[Dark Theme Modded](https://gist.github.com/ThunderCls/33fae66a5df12e7638c7509f2785be48) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/y3mcIRu.png)](Screenshot)
