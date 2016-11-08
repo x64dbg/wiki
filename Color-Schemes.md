@@ -25,3 +25,5 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 [Blue Xor](https://gist.github.com/mrexodia/ca611756551d2377dc07c9c598a69e54) by [xor06](https://xor06.wordpress.com) [![screenshot](https://i.imgur.com/0VYARC8.png)](https://i.imgur.com/0VYARC8.png)
 
 [Dark Theme Modded](https://gist.github.com/ThunderCls/33fae66a5df12e7638c7509f2785be48) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/y3mcIRu.png)](http://i.imgur.com/y3mcIRu.png)
+
+[Olly Jumps'n'Calls Theme](https://gist.github.com/ThunderCls/d33567337548fe427a6cad09342a2df0) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/NfhEm8k.png)](http://i.imgur.com/NfhEm8k.png)
