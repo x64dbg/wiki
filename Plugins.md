@@ -39,6 +39,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [xLCB](https://github.com/ThunderCls/xLCB) by [ThunderCls](http://reversec0de.wordpress.com): Plugin that mimics the function of the original LCB plugin for OllyDbg by scherzo.
 - [xdbg](https://github.com/brock7/xdbg) by [brock7](https://github.com/brock7): Open-source user-mode Anti-Anti-Debug plugin for x64dbg & cheatengine.
 - [X-Pause](https://github.com/torusrxxx/x64dbg-xpause) by [torusrxxx](https://github.com/torusrxxx): Guaranteed to pause the debuggee.
+- [ExtraInfo](https://github.com/torusrxxx/ExtraInfo) by [torusrxxx](https://github.com/torusrxxx): Show extra information in the info box.
 - [x64_tracer](https://github.com/KurapicaBS/x64_tracer) by [KurapicaBS](https://github.com/KurapicaBS): Conditional branch logger for x64dbg.
 - [BreakModule](https://github.com/ThunderCls/BreakModule) by [ThunderCls](https://github.com/ThunderCls): This plugin is intended to give the user the option to pause the execution of the debugged application when the specified modules are loaded.
 - [MagicPoints](https://github.com/ThunderCls/MagicPoints) by [ThunderCls](https://github.com/ThunderCls): This plugin is intended to give the user the option to access certain points of the debugged application when events addresses are calculated, thus permiting to intercept such points to stop execution right before those events are executed.
