@@ -44,3 +44,11 @@ Solarized Light [Download here](https://github.com/techbliss/x64dbg_solarized_li
 [![cyan](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)
 
 Use with [Solarized light](https://gist.github.com/techbliss/45f8ec0fcd713dd5a1db65aa012c5878) color scheme.
+
+## Solarized Dark mod by Storm Shadow
+
+Solarized Dark [Download here](https://github.com/techbliss/x64dbg_solarized_dark_mod).
+
+[![Solarized dark](https://cloud.githubusercontent.com/assets/3592375/20642529/6d24a926-b411-11e6-92f5-114ef3bb89fa.png)](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)
+
+Use with [Solarized dark](https://gist.github.com/techbliss/d6c0002325da01470d3321cc8c218b81) color scheme.
