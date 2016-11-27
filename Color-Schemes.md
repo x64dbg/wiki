@@ -32,3 +32,6 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 [Olly Jumps'n'Calls Theme](https://gist.github.com/ThunderCls/d33567337548fe427a6cad09342a2df0) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/I3InqdE.png)](http://i.imgur.com/I3InqdE.png)
 
 [Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/auzFPxf.png)](http://i.imgur.com/auzFPxf.png)
+
+[Color fun](https://gist.github.com/techbliss/ca6da96514e3e2817aa765cabd7586af) by Storm Shadow
+[![screenshot](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)
