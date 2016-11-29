@@ -60,3 +60,11 @@ Color Show [Download here](https://github.com/techbliss/x64dbg_color_show).
 [![Color Show](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)
 
 Use with [Color Fun](https://gist.github.com/techbliss/ca6da96514e3e2817aa765cabd7586af) color scheme.
+
+## Visual Studio Dark by [ThunderCls](http://github.com/ThunderCls)
+
+Visual Studio Dark [Download here](https://github.com/ThunderCls/x64dbg_vs_dark).
+
+[![Visual Studio Dark](http://i.imgur.com/0vdWCvN.png)](http://i.imgur.com/0vdWCvN.png)
+
+Use with [ Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) color scheme.
