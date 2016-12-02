@@ -33,5 +33,7 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 
 [Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/auzFPxf.png)](http://i.imgur.com/auzFPxf.png)
 
+[Visual Studio Light Theme](https://gist.github.com/ThunderCls/6d39464d204c1b2b0485685d10f2d1c6) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/x8GM3Ci.png)](http://i.imgur.com/x8GM3Ci.png)
+
 [Color fun](https://gist.github.com/techbliss/ca6da96514e3e2817aa765cabd7586af) by Storm Shadow
 [![screenshot](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)
