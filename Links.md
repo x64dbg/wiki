@@ -9,6 +9,7 @@ This page will contain various types of links related to x64dbg.
 - http://x64dbg.com/blog/
 - http://live.x64dbg.com
 - http://translate.x64dbg.com
+- http://help.x64dbg.com/en/latest/
 
 ## News
 - https://twitter.com/x64dbg
