@@ -68,3 +68,11 @@ Visual Studio Dark [Download here](https://github.com/ThunderCls/x64dbg_vs_dark)
 [![Visual Studio Dark](http://i.imgur.com/0vdWCvN.png)](http://i.imgur.com/0vdWCvN.png)
 
 Use with [ Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) color scheme.
+
+## Visual Studio Light by [ThunderCls](http://github.com/ThunderCls)
+
+Visual Studio Light [Download here](https://github.com/ThunderCls/x64dbg_vs_light).
+
+[![Visual Studio Light](http://i.imgur.com/x8GM3Ci.png)](http://i.imgur.com/x8GM3Ci.png)
+
+Use with [ Visual Studio Light Theme](https://gist.github.com/ThunderCls/6d39464d204c1b2b0485685d10f2d1c6) color scheme.
