@@ -37,3 +37,6 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 
 [Color fun](https://gist.github.com/techbliss/ca6da96514e3e2817aa765cabd7586af) by Storm Shadow
 [![screenshot](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)
+
+[darkgray](https://gist.github.com/stonedreamforest/3907d3b3081df8e73c8c4e2ce9d1f9c2) by [Tennn](https://github.com/stonedreamforest/x64dbg_theme)
+![screenshot](https://github.com/stonedreamforest/x64dbg_theme/blob/master/1.png)
