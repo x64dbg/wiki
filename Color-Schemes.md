@@ -40,3 +40,6 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 
 [darkgray](https://gist.github.com/stonedreamforest/3907d3b3081df8e73c8c4e2ce9d1f9c2) by [Tennn](https://github.com/stonedreamforest/x64dbg_theme)
 ![screenshot](https://github.com/stonedreamforest/x64dbg_theme/blob/master/1.png)
+
+[RelaxYourEyes](https://gist.github.com/stonedreamforest/6d5496ec174febe971bcf86a7c6ad2d8) by [Tennn](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes)
+![screenshot](stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/1.png)
