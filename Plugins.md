@@ -51,4 +51,4 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [OW Imports](https://github.com/qwerty9384/Overwatch-IAT-Deobfuscation) by qwerty9384/bloodwrath: Label obfuscated imports for Overwatch.
 - [ClawSearch](https://github.com/angelog/ClawSearch) by [Nimble](https://github.com/angelog): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 - [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): adds several commands to x64dbg for dumping PE header information by address. 
-- [AutoTrack](https://github.com/enoorez/AutoTrack)
+- [AutoTrack](https://github.com/enoorez/autotrack)
