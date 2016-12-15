@@ -48,7 +48,8 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [x64dbgpy plugin template](https://github.com/techbliss/x64dbgpy-Plugin-Template) by [Storm Shadow](https://github.com/techbliss): This plugin helps you build your python plugins for x64dbpy.
 - [x64dbgpy plugin Screen recorder ](https://github.com/techbliss/Screen_Recorder_x64dbg) by [Storm Shadow](https://github.com/techbliss): Plugin for screen recording, made for x64dbgpy.
 - [x64dbgpy script editor](https://github.com/techbliss/X64dbg_script_editor) by [Storm Shadow](https://github.com/techbliss): Full script editor for x64dbgpy.
-- [OW Imports](https://github.com/qwerty9384/Overwatch-IAT-Deobfuscation) by qwerty9384/bloodwrath: Label obfuscated imports for Overwatch.
+- [OW Imports](https://github.com/qwerty9384/Overwatch-IAT-Deobfuscation) by qwerty9384: Label obfuscated imports for Overwatch.
 - [ClawSearch](https://github.com/angelog/ClawSearch) by [Nimble](https://github.com/angelog): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 - [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): adds several commands to x64dbg for dumping PE header information by address. 
 - [AutoTrack](https://github.com/enoorez/x64dbg-plugin-autotrack)
+- [Overwatch Dump Fix](https://github.com/changeofpace/Overwatch-Dump-Fix) by [changeofpace](https://github.com/changeofpace): this plugin patches several parts of overwatch.exe in order to produce better process dumps for IDA Pro.
