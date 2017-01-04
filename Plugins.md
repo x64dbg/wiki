@@ -52,3 +52,4 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [ClawSearch](https://github.com/angelog/ClawSearch) by [Nimble](https://github.com/angelog): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 - [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): adds several commands to x64dbg for dumping PE header information by address. 
 - [Overwatch Dump Fix](https://github.com/changeofpace/Overwatch-Dump-Fix) by [changeofpace](https://github.com/changeofpace): this plugin patches several parts of overwatch.exe in order to produce better process dumps for IDA Pro.
+- [LabelPEB](https://github.com/x64dbg/LabelPEB) by [mrexodia](http://mrexodia.cf) and [torusrxxx](https://github.com/torusrxxx): Add labels for fields in PEB.
