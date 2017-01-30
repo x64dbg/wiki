@@ -54,3 +54,4 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): adds several commands to x64dbg for dumping PE header information by address. 
 - [Overwatch Dump Fix](https://github.com/changeofpace/Overwatch-Dump-Fix) by [changeofpace](https://github.com/changeofpace): this plugin patches several parts of overwatch.exe in order to produce better process dumps for IDA Pro.
 - [LabelPEB](https://github.com/x64dbg/LabelPEB) by [mrexodia](http://mrexodia.cf) and [torusrxxx](https://github.com/torusrxxx): Add labels for fields in PEB.
+- [SlothBP](https://github.com/x64dbg/SlothBP) by [blaquee](https://github.com/blaquee): Collaborative Breakpoint Manager for x64dbg.
