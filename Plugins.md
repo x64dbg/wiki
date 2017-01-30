@@ -1,6 +1,6 @@
 This page is for projects that somehow contribute to x64dbg but are not part of the source code. Feel free to add your projects and plugins here (make sure it's nothing illegal though).
 
-Make sure to keep it in the following format:
+Add it (**at the end of the list**) in the following format:
 
 `PluginName (with link) by Author (with optional link): Brief description.`
 
@@ -55,3 +55,4 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - \[[Download](https://github.com/x64dbg/LabelPEB/releases)\] [LabelPEB](https://github.com/x64dbg/LabelPEB) by [mrexodia](http://mrexodia.cf) and [torusrxxx](https://github.com/torusrxxx): Add labels for fields in PEB.
 - \[[Download](https://ci.appveyor.com/project/mrexodia/slothbp/build/artifacts)\] [SlothBP](https://github.com/x64dbg/SlothBP) by [blaquee](https://github.com/blaquee): Collaborative Breakpoint Manager for x64dbg.
 - \[[Download](https://github.com/0ffffffffh/Api-Break-for-x64dbg/releases)\] [APIBreak](https://github.com/0ffffffffh/Api-Break-for-x64dbg) by [Oguz Kartal](http://oguzkartal.net): A x64dbg plugin to set breakpoints Win32/64 API calls visually & easly. It has both x86 and x64 bit version.
+- \[[Download](https://ci.appveyor.com/project/mrexodia/system/build/artifacts)\] [system](https://github.com/x64dbg/system) by [mrexodia](https://github.com/mrexodia): Plugin to execute system commands.
