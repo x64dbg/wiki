@@ -12,6 +12,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 
 - [Borland C++](https://github.com/ThunderCls/x64dbgBccPlugin) by [ThunderCls](https://github.com/ThunderCls).
 - [C#](https://github.com/mrexodia/DotNetPluginCS) by [mrexodia](https://github.com/mrexodia).
+- [C#](https://github.com/gmastergreatee/x64dbgCSPlugin) by [gmastergreatee](https://github.com/gmastergreatee).
 - [VB.NET](https://github.com/Ahmadmansoor/x64dbgDotNetPlugin) by [Ahmadmansoor](https://github.com/Ahmadmansoor).
 - Assembler [x86](https://github.com/mrfearless/x64dbg-Plugin-SDK-for-x86-Assembler) and [x64](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler) by [fearless](http://www.letthelight.in).
 - [Delphi](https://github.com/quygia128/x64_dbg_SDK_Delphi) by [quygia128](https://github.com/quygia128).
