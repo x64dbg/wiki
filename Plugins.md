@@ -51,7 +51,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [x64dbgpy script editor](https://github.com/techbliss/X64dbg_script_editor) by [Storm Shadow](https://github.com/techbliss): Full script editor for x64dbgpy.
 - [OW Imports](https://github.com/qwerty9384/Overwatch-IAT-Deobfuscation) by qwerty9384: Label obfuscated imports for Overwatch.
 - [ClawSearch](https://github.com/angelog/ClawSearch) by [Nimble](https://github.com/angelog): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
-- [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): adds several commands to x64dbg for dumping PE header information by address. 
+- \[[Download](https://github.com/changeofpace/PE-Header-Dump-Utilities/releases)\] [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): adds several commands to x64dbg for dumping PE header information by address. 
 - [Overwatch Dump Fix](https://github.com/changeofpace/Overwatch-Dump-Fix) by [changeofpace](https://github.com/changeofpace): this plugin patches several parts of overwatch.exe in order to produce better process dumps for IDA Pro.
 - \[[Download](https://github.com/x64dbg/LabelPEB/releases)\] [LabelPEB](https://github.com/x64dbg/LabelPEB) by [torusrxxx](https://github.com/torusrxxx): Add labels for fields in PEB.
 - \[[Download](https://ci.appveyor.com/project/mrexodia/slothbp/build/artifacts)\] [SlothBP](https://github.com/x64dbg/SlothBP) by [blaquee](https://github.com/blaquee): Collaborative Breakpoint Manager for x64dbg.
