@@ -4,7 +4,7 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **Q**: Why isn't process X shown in the attach dialog?
 
-**A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to setting and make sure the `Enable Debug Privilege` option is checked in the `Engine` tab. Also make sure you are running x64dbg as an administrator. If your process is still not shown, make sure a kernel driver is not [protecting it](http://www.alex-ionescu.com/?p=97).
+**A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to setting and make sure the `Enable Debug Privilege` option is checked in the `Engine` tab. Also make sure you are running x64dbg as an administrator. If your process is still not shown and you are running Windows 8.1 or later, make sure the kernel is not [protecting it](http://www.alex-ionescu.com/?p=97). This protection can be removed by a kernel driver such as [PPLKiller](https://github.com/Mattiwatti/PPLKiller).
 
 ![debug priv](https://i.imgur.com/juQs94X.png)
 
