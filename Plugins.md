@@ -50,7 +50,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [x64dbgpy plugin Screen recorder ](https://github.com/techbliss/Screen_Recorder_x64dbg) by [Storm Shadow](https://github.com/techbliss): Plugin for screen recording, made for x64dbgpy.
 - [x64dbgpy script editor](https://github.com/techbliss/X64dbg_script_editor) by [Storm Shadow](https://github.com/techbliss): Full script editor for x64dbgpy.
 - [OW Imports](https://github.com/qwerty9384/Overwatch-IAT-Deobfuscation) by qwerty9384: Label obfuscated imports for Overwatch.
-- [ClawSearch](https://github.com/angelog/ClawSearch) by [Nimble](https://github.com/angelog): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
+- [ClawSearch](https://github.com/codecat/ClawSearch) by [Nimble](https://github.com/codecat): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 - \[[Download](https://github.com/changeofpace/PE-Header-Dump-Utilities/releases)\] [PE Header Dump Utilities](https://github.com/changeofpace/PE-Header-Dump-Utilities) by [changeofpace](https://github.com/changeofpace): Adds several commands to x64dbg for dumping PE header information by address. 
 - \[[Download](https://www.unknowncheats.me/forum/downloads.php?do=file&id=19286)\] [Overwatch Dump Fix](https://github.com/changeofpace/Overwatch-Dump-Fix) by [changeofpace](https://github.com/changeofpace): This plugin removes anti-dumping and obfuscation techniques from the popular FPS game Overwatch.
 - \[[Download](https://github.com/x64dbg/LabelPEB/releases)\] [LabelPEB](https://github.com/x64dbg/LabelPEB) by [torusrxxx](https://github.com/torusrxxx): Add labels for fields in PEB.
