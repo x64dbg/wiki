@@ -46,3 +46,5 @@ More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
 *This video is slightly outdated.* The process is still the same, except that you have to install Qt 5.6.0 (see the first section of this documented).
 
 There is a video available where the build process (after installing the prerequisites) is shown. It is available on [YouTube](https://youtu.be/M3J2wpXpeX0) and in [SWF Format](https://mega.nz/#!D4x1wQZD!LNz_K4GOhNuJlgS1oztlgdRhoZwPODWyQdd6ISUVvF0).
+
+This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of which are currently not officially supported): https://vimeo.com/213004417
