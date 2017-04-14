@@ -6,7 +6,7 @@
 2. Download [Qt 5.6.0 (x32) for MSVC2013](http://download.qt.io/official_releases/qt/5.6/5.6.0/qt-opensource-windows-x86-msvc2013-5.6.0.exe), install in `C:\Qt\qt-5.6.0-x86-msvc2013`.
 3. Download [Qt 5.6.0 (x64) for MSVC2013](http://download.qt.io/official_releases/qt/5.6/5.6.0/qt-opensource-windows-x86-msvc2013_64-5.6.0.exe), install in `C:\Qt\qt-5.6.0-x64-msvc2013`.
 4. Download [Qt Creator 4.0.0](http://download.qt.io/official_releases/qtcreator/4.0/4.0.0/qt-creator-opensource-windows-x86-4.0.0.exe), install in `C:\Qt\qtcreator-4.0.0`.
-5. [Get the Dependencies](Getting the Dependencies)
+5. [Get the Dependencies](Getting-the-Dependencies)
 6. Clone the repository to your local drive. **Make sure to include the submodules in your clone command!**
 ```
 git clone --recurse-submodules https://github.com/x64dbg/x64dbg.git
