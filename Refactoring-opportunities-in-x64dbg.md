@@ -5,4 +5,4 @@ This is just a list of things that could be improved in the code. Feel free to a
 - Convert everything to `MenuBuilder`
 # DBG
 - Clean up `debugger.cpp` and `debugger.h`. This file currently serves multiple purposes.
-- Move the database to a separate component
+- Move the database and dbghelp to a separate component.
