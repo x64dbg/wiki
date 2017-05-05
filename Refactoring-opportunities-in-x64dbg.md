@@ -16,6 +16,5 @@ This is just a list of things that could be improved in the code. Feel free to a
 - info box shows mnemonic brief in cn.
 - disassembly preview support dump
 - can drag the registers view to scroll
-- does not support ymm register
 - support "dd" command which dumps the data and set dump mode to dword.
 - support timeout in disassembly preview
