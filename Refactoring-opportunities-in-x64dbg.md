@@ -13,3 +13,8 @@ This is just a list of things that could be improved in the code. Feel free to a
 - Includes instruction emulator
 - Shows modified memory of current dump (possible with shadow buffer)
 - Supports mode of operation that doesn't attach but uses process manipulation APIs
+- info box shows mnemonic brief in cn.
+- disassembly preview support dump
+- can drag the registers view to scroll
+- does not support ymm register
+- support "dd" command which dumps the data and set dump mode to dword.
