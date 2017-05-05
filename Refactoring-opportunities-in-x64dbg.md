@@ -12,3 +12,4 @@ This is just a list of things that could be improved in the code. Feel free to a
 - Supports memory watching similar to CheatEngine
 - Includes instruction emulator
 - Shows modified memory of current dump (possible with shadow buffer)
+- Supports mode of operation that doesn't attach but uses process manipulation APIs
