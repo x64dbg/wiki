@@ -76,3 +76,11 @@ Visual Studio Light [Download here](https://github.com/ThunderCls/x64dbg_vs_ligh
 [![Visual Studio Light](http://i.imgur.com/x8GM3Ci.png)](http://i.imgur.com/x8GM3Ci.png)
 
 Use with [ Visual Studio Light Theme](https://gist.github.com/ThunderCls/6d39464d204c1b2b0485685d10f2d1c6) color scheme.
+
+## Acid Lime by [ThunderCls](http://github.com/ThunderCls)
+
+Acid Lime [Download here](https://github.com/ThunderCls/x64dbg_acid_lime_theme).
+
+[![Acid Lime](http://i.imgur.com/IuvA7gq.png)](http://i.imgur.com/IuvA7gq.png)
+
+Use with [ Acid Lime Theme](https://gist.github.com/ThunderCls/6fffbe7f3e2edd697b36a2decab80b64) color scheme.
