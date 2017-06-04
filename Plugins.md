@@ -69,3 +69,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - \[[Download](https://github.com/mrfearless/Today-Plugin-x64/blob/master/release/Today.dp64?raw=true)\] [Today-Plugin-x64](https://github.com/mrfearless/Today-Plugin-x64) by [mrfearless](https://github.com/mrfearless): An x64 plugin to lists days of interest: national, commemorative, awareness or international observance days.
 - \[[Download](https://github.com/horsicq/nfdx64dbg/releases/download/0.01Alpha/release.zip)\] [nfdx64dbg
 ](https://github.com/horsicq/nfdx64dbg) by [hors](https://github.com/horsicq): Linker/Compiler/Tool detector.
+
+## Other tools
+
+- https://github.com/chausner/1337patch
