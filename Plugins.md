@@ -14,6 +14,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - [C#](https://github.com/mrexodia/DotNetPluginCS) by [mrexodia](https://github.com/mrexodia).
 - [VB.NET](https://github.com/Ahmadmansoor/x64dbgDotNetPlugin) by [Ahmadmansoor](https://github.com/Ahmadmansoor).
 - Assembler [x86](https://github.com/mrfearless/x64dbg-Plugin-SDK-for-x86-Assembler) and [x64](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler) by [fearless](http://www.letthelight.in).
+- [Visual Studio](https://github.com/mrfearless/x64dbg-plugin-template-for-Visual-Studio) by [fearless](http://www.letthelight.in).
 - [Delphi](https://github.com/quygia128/x64_dbg_SDK_Delphi) by [quygia128](https://github.com/quygia128).
 
 ## Plugins
