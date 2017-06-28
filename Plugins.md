@@ -63,13 +63,14 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 - \[[Download](https://github.com/stonedreamforest/NaiHeQiao/releases/download/2017-3-12/2017-3-12.rar)\] [NaiHeQiao](https://github.com/stonedreamforest/NaiHeQiao) by [Tennn](https://github.com/stonedreamforest): Open-source x86/x64 usermode anti-anti-debug plugin, when the built-in debugger engine has a debug signal processing failure: [x64dbg#1462](https://github.com/x64dbg/x64dbg/issues/1462).
 - \[[Download](https://github.com/x64dbg/GetCharABCWidthsI_cache/releases/download/1529ac3e/GetCharABCWidthsI_cache.zip)\] [GetCharABCWidthsI_cache](https://github.com/x64dbg/GetCharABCWidthsI_cache) by [x64dbg](http://x64dbg.com): Plugin to improve performance of `QWindowsFontEngine::getGlyphBearings`.
 - \[[Download](http://pan.baidu.com/s/1jGgL774)\] x64dbg_tol by [lynnux](https://github.com/lynnux): A plugin make string search contains Chinese string, 使字符串搜索包含中文。
-- \[[Download](https://github.com/klks/checksec/releases/download/20170327/Checksec_v0.1.zip)\][checksec](https://github.com/klks/checksec) by [klks](https://github.com/klks): Plugin checks modules for security features enabled such as SafeSEH/GS/DEP/ASLR/CFG.
+- \[[Download](https://github.com/klks/checksec/releases/download/20170327/Checksec_v0.1.zip)\] [checksec](https://github.com/klks/checksec) by [klks](https://github.com/klks): Plugin checks modules for security features enabled such as SafeSEH/GS/DEP/ASLR/CFG.
 - [DbgChild](https://github.com/David-Reguera-Garcia-Dreg/DbgChild) by [Dreg](https://github.com/David-Reguera-Garcia-Dreg): This plugin is intended to give the user the option to debug (auto-attach) the child processes created by debugee.
 - \[[Download](https://github.com/levisre/TransX64Dbg/releases/download/v1/TransX64Dbg_v1.7z)\] [TransX64Dbg](https://github.com/levisre/TransX64Dbg) by [levisre](https://github.com/levisre): Small Plugin to make x64dbg Window becomes transparent.
 - \[[Download](https://github.com/mrfearless/Today-Plugin-x86/blob/master/release/Today.dp32?raw=true)\] [Today-Plugin-x86](https://github.com/mrfearless/Today-Plugin-x86) by [mrfearless](https://github.com/mrfearless): An x86 plugin to lists days of interest: national, commemorative, awareness or international observance days.
 - \[[Download](https://github.com/mrfearless/Today-Plugin-x64/blob/master/release/Today.dp64?raw=true)\] [Today-Plugin-x64](https://github.com/mrfearless/Today-Plugin-x64) by [mrfearless](https://github.com/mrfearless): An x64 plugin to lists days of interest: national, commemorative, awareness or international observance days.
 - \[[Download](https://github.com/horsicq/nfdx64dbg/releases/download/0.01Alpha/release.zip)\] [nfdx64dbg
 ](https://github.com/horsicq/nfdx64dbg) by [hors](https://github.com/horsicq): Linker/Compiler/Tool detector.
+- \[Download](https://github.com/mrexodia/strmatch/releases) [strmatch](https://github.com/mrexodia/strmatch) by [x64dbg](http://x64dbg.com): Simple string matching plugin for x64dbg. Supports UTF8, UTF16 and Local codepages.
 
 ## Other tools
 
