@@ -22,12 +22,6 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 - `set COVERITYPATH=C:\coverity\bin`
 - `set DOXYGENPATH=C:\Program Files\doxygen\bin`
 
-# For tools
-
-**Notice**: You don't need to do this every time if you want to *develop* for x64dbg. In that case see the [For developers](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project#for-developers) section.
-
-1. Run `build.bat x32` and `build.bat x64` to build everything.
-
 # For developers
 
 1. Run `install.bat` to initialize the repository
@@ -48,3 +42,9 @@ More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
 There is a video available where the build process (after installing the prerequisites) is shown. It is available on [YouTube](https://youtu.be/M3J2wpXpeX0) and in [SWF Format](https://mega.nz/#!D4x1wQZD!LNz_K4GOhNuJlgS1oztlgdRhoZwPODWyQdd6ISUVvF0).
 
 This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of which are currently not officially supported): https://vimeo.com/213004417
+
+# For tools
+
+**Notice**: You don't need to do this every time if you want to *develop* for x64dbg. In that case see the [For developers](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project#for-developers) section.
+
+1. Run `build.bat x32` and `build.bat x64` to build everything.
