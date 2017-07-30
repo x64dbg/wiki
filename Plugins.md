@@ -76,5 +76,3 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [Scr
 ## Other tools
 
 - https://github.com/chausner/1337patch
-
-add new page
