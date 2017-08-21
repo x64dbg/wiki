@@ -24,7 +24,7 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 
 # For developers
 
-1. Run `install.bat` to initialize the repository
+1. Run `install.bat` to initialize the pre-commit formatting hooks
 2. Run `setupdeps.bat` to copy the dependencies
 3. Open `x64dbg.sln` in Visual Studio 2013
 4. Compile the solution (F7)
