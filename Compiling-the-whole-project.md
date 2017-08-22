@@ -1,6 +1,6 @@
 # Prerequisites
 
-**Notice**: It is important to install the **exact** versions of the tools mentioned hereafter (special exception for Visual Studio 2013, for which you can also use the Professional or Enterprise editions). Don't come complaining if you didn't install the correct versions of the tools.
+**Notice**: It is important to install the **exact** versions of the tools mentioned hereafter (special exception for Visual Studio 2013, for which you can also use the Professional or Enterprise editions). **Do not come complaining if you didn't install the correct versions of the tools**.
 
 1. [Download Visual Studio 2013 Community Edition](https://www.visualstudio.com/vs/older-downloads/#visual-studio-2013) ([direct link](https://download.my.visualstudio.com/db/en_visual_studio_community_2013_with_update_5_x86_6816332.exe)) (**make sure to install MFC**)
 2. Download [Qt 5.6.0 (x32) for MSVC2013](http://download.qt.io/official_releases/qt/5.6/5.6.0/qt-opensource-windows-x86-msvc2013-5.6.0.exe), install in `C:\Qt\qt-5.6.0-x86-msvc2013`.
