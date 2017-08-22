@@ -21,7 +21,7 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 - `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
 - `set COVERITYPATH=C:\coverity\bin`
 
-# For developers
+# Compiling x64dbg
 
 1. Run `install.bat` to initialize the pre-commit formatting hooks
 2. Run `setupdeps.bat` to copy the dependencies
@@ -30,26 +30,16 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 5. Open `src\gui\x64dbg.pro` in Qt Creator
 6. Compile the GUI.
 
-**Notice**: Sometimes if you modifiy `Q_OBJECT` header files you need to rebuild the GUI to fix a weird crash.
-
-More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
-
-## Building with a different Visual Studio/Qt
+## Compiling with different Visual Studio/Qt versions
 
 While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017 and/or newer Qt versions. If you use a different Qt version you have to recompile [snowman](https://github.com/x64dbg/snowman) (or use [SnowmanDummy](https://github.com/x64dbg/SnowmanDummy)) **and** delete all Qt-related DLLs from the `bin` directory and replace them with ones from your Qt version.
 
 If you encounter build errors with newer Qt or Visual Studio versions, a [pull request](https://github.com/x64dbg/x64dbg/pull/1687) is appreciated.
 
-# Video
+## Video
 
 *This video is slightly outdated.* The process is still the same, except that you have to install Qt 5.6.0 (see the first section of this documented).
 
 There is a video available where the build process (after installing the prerequisites) is shown. It is available on [YouTube](https://youtu.be/M3J2wpXpeX0) and in [SWF Format](https://mega.nz/#!D4x1wQZD!LNz_K4GOhNuJlgS1oztlgdRhoZwPODWyQdd6ISUVvF0).
 
 This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of which are currently not officially supported): https://vimeo.com/213004417
-
-# For tools
-
-**Notice**: You don't need to do this every time if you want to *develop* for x64dbg. In that case see the [For developers](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project#for-developers) section.
-
-1. Run `build.bat x32` and `build.bat x64` to build everything.
