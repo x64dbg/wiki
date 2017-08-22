@@ -20,7 +20,6 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 - `set QTCREATORPATH=C:\Qt\qtcreator-4.0.0\bin`
 - `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
 - `set COVERITYPATH=C:\coverity\bin`
-- `set DOXYGENPATH=C:\Program Files\doxygen\bin`
 
 # For developers
 
@@ -34,6 +33,12 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 **Notice**: Sometimes if you modifiy `Q_OBJECT` header files you need to rebuild the GUI to fix a weird crash.
 
 More Qt versions available [here](https://sourceforge.net/projects/qt64ng/files)
+
+## Building with a different Visual Studio/Qt
+
+While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017 and/or newer Qt versions. If you use a different Qt version you have to recompile [snowman](https://github.com/x64dbg/snowman) (or use [SnowmanDummy](https://github.com/x64dbg/SnowmanDummy)) **and** delete all Qt-related DLLs from the `bin` directory and replace them with ones from your Qt version.
+
+If you encounter build errors with newer Qt or Visual Studio versions, a [pull request](https://github.com/x64dbg/x64dbg/pull/1687) is appreciated.
 
 # Video
 
