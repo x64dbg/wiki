@@ -72,6 +72,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 ](https://github.com/horsicq/nfdx64dbg) by [hors](https://github.com/horsicq): Linker/Compiler/Tool detector.
 - \[[Download](https://github.com/x64dbg/strmatch/releases)\] [strmatch](https://github.com/x64dbg/strmatch) by [x64dbg](http://x64dbg.com): Simple string matching plugin for x64dbg. Supports UTF8, UTF16 and Local codepages.
 - \[[Download](https://github.com/x64dbg/AutoExportPatches/releases)\] [AutoExportPatches](https://github.com/x64dbg/AutoExportPatches) by [x64dbg](http://x64dbg.com): Plugin that automatically stores patches in the database and restores them on restart.
+- \[[Download](https://github.com/mrexodia/YaraGen/releases)\] [YaraGen](https://github.com/mrexodia/YaraGen) by [mrexodia](https://github.com/mrexodia): Plugin for x64dbg to generate Yara rules from function basic blocks.
 
 ## Other tools
 
