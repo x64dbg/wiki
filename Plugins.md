@@ -6,7 +6,7 @@ Add it (**at the end of the list**) in the following format:
 
 ## Official Visual Studio Templates
 
-There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) and a [ScriptDllTemplate](https://github.com/x64dbg/ScriptDllTemplate) available so your can easily develop plugins with Visual Studio.
+There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available so your can easily develop plugins with Visual Studio.
 
 ## User-maintained templates
 
