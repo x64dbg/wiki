@@ -63,3 +63,11 @@ Per default x64dbg will not create any registry entries. However if you use it a
 **Q**: How can I use [PLMDebug](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/plmdebug) with x64dbg?
 
 **A**: Use `plmdebug /enableDebug <Package> "C:\path\to\x64dbg\release\x96dbg.exe"` (you can also use `x32dbg.exe` or `x64dbg.exe` but with `x96dbg.exe` it will automatically choose the correct architecture). See issue [#1698](https://github.com/x64dbg/x64dbg/issues/1698) for more information.
+
+***
+
+**Q**: Why are not all my patches being applied (`0/X patch(es) applied!` message box)?
+
+**A**: Probably you are trying to patch in a section that has no representation on disk (`SizeOfRawData` is zero). You can confirm this by seeing if the address you want to patch has a file offset.
+
+![no file offset](https://i.imgur.com/fVMYaHE.png)
