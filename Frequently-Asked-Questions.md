@@ -71,3 +71,9 @@ Per default x64dbg will not create any registry entries. However if you use it a
 **A**: Probably you are trying to patch in a section that has no representation on disk (`SizeOfRawData` is zero or you are patching after the end of a section). You can confirm this by checking if the address you want to patch has a file offset:
 
 ![no file offset](https://i.imgur.com/fVMYaHE.png)
+
+***
+
+**Q**: How can I use debug symbols in the DWARF format (MinGW `-g` option) with x64dbg?
+
+**A**: There is no direct support for DWARF symbols in x64dbg, however you can use [cv2pdb](https://github.com/rainers/cv2pdb) to convert the DWARF symbols to PDB.
