@@ -68,6 +68,6 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 **Q**: Why are not all my patches being applied (`0/X patch(es) applied!` message box)?
 
-**A**: Probably you are trying to patch in a section that has no representation on disk (`SizeOfRawData` is zero). You can confirm this by seeing if the address you want to patch has a file offset.
+**A**: Probably you are trying to patch in a section that has no representation on disk (`SizeOfRawData` is zero or you are patching after the end of a section). You can confirm this by checking if the address you want to patch has a file offset:
 
 ![no file offset](https://i.imgur.com/fVMYaHE.png)
