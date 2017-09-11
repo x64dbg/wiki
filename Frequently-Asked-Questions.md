@@ -22,7 +22,7 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **Q**: Building x64dbg is complicated, help me out!
 
-**A**: A guide to building x64dbg is available [here](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project). Notice that you **do not have to build all the dependencies for yourself!** Just follow the guide and use the compiled dependencies from the [latest snapshot](http://snapshots.x64dbg.com).
+**A**: A guide to building x64dbg is available [here](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project). If you follow the steps correctly there should be no issues compiling x64dbg.
 
 ***
 
@@ -51,3 +51,13 @@ Per default x64dbg will not create any registry entries. However if you use it a
 **Q**: How do I remove the `Debug with x64dbg` entries from my context menu?
 
 **A**: Download & execute [this](https://raw.githubusercontent.com/x64dbg/x64dbg/development/bin/x64dbg_shell_remove.reg) regfile (remember to `Save as...`).
+
+***
+
+**Q**: How can I automatically attach x64dbg to a process on startup?
+
+**A**: This can be achieved with the [Image File Execution Options](https://blog.malwarebytes.com/101/2015/12/an-introduction-to-image-file-execution-options/) registry key. You can use the [GFlags](https://github.com/x64dbg/x64dbg/issues/816) utility to do this from a graphical user interface.
+
+**Q**: How can I use [PLMDebug](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/plmdebug) with x64dbg?
+
+**A**: Use `plmdebug /enableDebug <Package> "C:\path\to\x64dbg\release\x96dbg.exe"` (you can also use `x32dbg.exe` or `x64dbg.exe` but with `x96dbg.exe` it will automatically choose the correct architecture). See issue [#1698](https://github.com/x64dbg/x64dbg/issues/1698) for more information.
