@@ -1,5 +1,7 @@
 # Contributing
 
+**This page is deprecated, go [here](https://github.com/x64dbg/x64dbg/blob/development/CONTRIBUTING.md#contributing) instead.**
+
 * [Get x64dbg](http://x64dbg.com)!
 * [Compile x64dbg](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project) and add new features ([easy issues](http://easy.x64dbg.com) are a good place to start).
 * [Report bugs](http://report.x64dbg.com) at the issue tracker.
