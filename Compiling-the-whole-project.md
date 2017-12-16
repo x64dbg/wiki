@@ -42,4 +42,5 @@ If you encounter build errors with newer Qt or Visual Studio versions, a [pull r
 
 There is a video available where the build process (after installing the prerequisites) is shown. It is available on [YouTube](https://youtu.be/M3J2wpXpeX0) and in [SWF Format](https://mega.nz/#!D4x1wQZD!LNz_K4GOhNuJlgS1oztlgdRhoZwPODWyQdd6ISUVvF0).
 
-This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of which are currently not officially supported): https://vimeo.com/213004417
+This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of which are currently not officially supported): https://vimeo.com/213004417  (
+The video is a bit dated, and the "copy_libs.bat" script displayed in the video does not copy all required DLLs to the output folder. Make sure to run setupdeps.bat before running the "copy_libs.bat" displayed in the video in order to copy all required DLLs to the output folder. Alternatively, run setupdeps.bat and then delete all the Qt DLLs in the output bin folder, and replace them with ones from your Qt version.
