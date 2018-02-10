@@ -74,6 +74,9 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/x64dbg/AutoExportPatches/releases)\] [AutoExportPatches](https://github.com/x64dbg/AutoExportPatches) by [x64dbg](http://x64dbg.com): Plugin that automatically stores patches in the database and restores them on restart.
 - \[[Download](https://github.com/mrexodia/YaraGen/releases)\] [YaraGen](https://github.com/mrexodia/YaraGen) by [mrexodia](https://github.com/mrexodia): Plugin for x64dbg to generate Yara rules from function basic blocks.
 - \[[Download](https://github.com/atom0s/CeAutoAsm-x64dbg/archive/master.zip)\] [CeAutoAsm](https://github.com/atom0s/CeAutoAsm-x64dbg) by [atom0s](https://github.com/atom0s): Plugin for x64dbg to use Cheat Engine auto assembler scripts from the debugger command line.
+- \[[Download](https://github.com/LFriede/x64dbg-updater/releases)\]
+[x64dbg-Updater](https://github.com/LFriede/x64dbg-updater) by [gORDon_vdLg](https://github.com/LFriede): Plugin which updates to new snapshot with one click and optionally checks for new snapshots on startup.
+
 ## Other tools
 
 - https://github.com/chausner/1337patch
