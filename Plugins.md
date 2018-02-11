@@ -76,6 +76,8 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/atom0s/CeAutoAsm-x64dbg/archive/master.zip)\] [CeAutoAsm](https://github.com/atom0s/CeAutoAsm-x64dbg) by [atom0s](https://github.com/atom0s): Plugin for x64dbg to use Cheat Engine auto assembler scripts from the debugger command line.
 - \[[Download](https://github.com/LFriede/x64dbg-updater/releases)\]
 [x64dbg-Updater](https://github.com/LFriede/x64dbg-updater) by [gORDon_vdLg](https://github.com/LFriede): Plugin which updates to new snapshot with one click and optionally checks for new snapshots on startup.
+- \[[Download](https://github.com/mrfearless/CopyToAsm-Plugin-x86/blob/master/release/CopyToAsm.dp32?raw=true)\] [CopyToAsm-Plugin-x86](https://github.com/mrfearless/CopyToAsm-Plugin-x86) by [mrfearless](https://github.com/mrfearless): An x86 plugin to copy a selected disassembly range in the x64dbg cpu view tab and convert to a assembler style code and output to clipboard or the reference view tab.
+- \[[Download](https://github.com/mrfearless/CopyToAsm-Plugin-x64/blob/master/release/CopyToAsm.dp64?raw=true)\] [CopyToAsm-Plugin-x64](https://github.com/mrfearless/CopyToAsm-Plugin-x64) by [mrfearless](https://github.com/mrfearless): An x64 plugin to copy a selected disassembly range in the x64dbg cpu view tab and convert to a assembler style code and output to clipboard or the reference view tab.
 
 ## Other tools
 
