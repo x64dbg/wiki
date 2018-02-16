@@ -16,7 +16,7 @@ Another thing that is very important is: **use common sense**. If you cannot fin
 
 ### Another Thing
 
-Specifically for x64dbg I coded [AStyleWhore](https://bitbucket.org/mrexodia/astylewhore/), a tool to auto-format the source code in C/C++ projects. Do not worry about code formatting. It will be silently done in a pre-commit hook (run *install.bat* after cloning the project), so do not be surprised if your code looks good after you commit. It is the desired behavior.
+Specifically for x64dbg I coded [AStyleHelper](https://github.com/mrexodia/AStyleHelper), a tool to auto-format the source code in C/C++ projects. Do not worry about code formatting. It will be silently done in a pre-commit hook (run *install.bat* after cloning the project), so do not be surprised if your code looks good after you commit. It is the desired behavior.
 
 ## Indentation
 
