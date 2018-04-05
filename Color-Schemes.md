@@ -45,3 +45,5 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 ![screenshot](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/1.png)
 
 [Acid Lime Theme](https://gist.github.com/ThunderCls/6fffbe7f3e2edd697b36a2decab80b64) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](http://i.imgur.com/IuvA7gq.png)](http://i.imgur.com/IuvA7gq.png)
+
+[Consonance](https://gist.github.com/Gbps/c59a1b53dc6f5d09b8daba70a01d827a) by [Gbps](https://github.com/Gbps/x64dbg-consonance-theme) [![screenshot](https://i.imgur.com/IsEYUiA.png)](https://i.imgur.com/IsEYUiA.png)
