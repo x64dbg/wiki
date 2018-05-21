@@ -22,6 +22,7 @@ You can find an exhaustive list of GitHub contributers [here](https://github.com
 - All the [donators](https://www.bountysource.com/teams/x64dbg/backers)!
 - Everybody adding issues!
 - People I forgot to add to this list
+- [Writers of the blog](https://x64dbg.com/blog/2016/07/09/Looking-for-writers.html)!
 - [EXETools community](http://forum.exetools.com)
 - [Tuts4You community](http://forum.tuts4you.com)
 - [ReSharper](https://www.jetbrains.com/resharper)
