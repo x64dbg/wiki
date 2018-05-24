@@ -1,6 +1,6 @@
 ## Code contributions
 
-You can find an exhaustive list of GitHub contributers [here](https://github.com/x64dbg/x64dbg/graphs/contributors). The people with push access to the repository can be found [here](https://github.com/orgs/x64dbg/teams/developers/members).
+You can find an exhaustive list of GitHub contributers [here](https://github.com/x64dbg/x64dbg/graphs/contributors). The people with push access to the repository (developers) can be found [here](https://github.com/orgs/x64dbg/teams/developers/members).
 
 ## Special Thanks
 
