@@ -77,3 +77,8 @@ Per default x64dbg will not create any registry entries. However if you use it a
 **Q**: How can I use debug symbols in the DWARF format (MinGW `-g` option) with x64dbg?
 
 **A**: There is no direct support for DWARF symbols in x64dbg, however you can use [cv2pdb](https://github.com/rainers/cv2pdb) to convert the DWARF symbols to PDB.
+
+***
+
+**Q**: I want to learn reversing, and I know how to program. Where do I start?
+**A**: mrexodia recommends these links: [0](http://crackmes.cf) [1](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) [2](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/) [3](https://beginners.re/) [4](https://legend.octopuslabs.io/sample-page.html) [5.1](https://reversewithme.blogspot.com/2012/10/why-lena151-tutorials-wont-teach-you.html)&[5.2](https://reverseengineering.stackexchange.com/questions/6801/general-consensus-on-lenas-tutorials) [6](http://godbolt.org) [7](https://lifeinhex.com/how-to-learn-reverse-engineering/). Also, sign up on tuts4you.
