@@ -80,6 +80,8 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/mrfearless/CopyToAsm-Plugin-x64/blob/master/release/CopyToAsm.dp64?raw=true)\] [CopyToAsm-Plugin-x64](https://github.com/mrfearless/CopyToAsm-Plugin-x64) by [mrfearless](https://github.com/mrfearless): An x64 plugin to copy a selected disassembly range in the x64dbg cpu view tab and convert to a assembler style code and output to clipboard or the reference view tab.
 - \[[Download](https://github.com/x64dbg/DbGit/releases/download/v0.1/DbGit_86828fb1.zip)\]
 [DbGit](https://github.com/x64dbg/DbGit) by [mrexodia](https://github.com/mrexodia): Simple plugin to automatically add x64dbg databases to version control.
+- \[[Download](https://github.com/Vicshann/GhostDbg/releases\]
+[GhostDbg](https://github.com/Vicshann/GhostDbg) by [Vicshann](https://github.com/Vicshann): Noninvasive debugging plugin for x64dbg.
 
 ## Other tools
 
