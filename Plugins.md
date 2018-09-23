@@ -82,7 +82,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 [DbGit](https://github.com/x64dbg/DbGit) by [mrexodia](https://github.com/mrexodia): Simple plugin to automatically add x64dbg databases to version control.
 - \[[Download](https://github.com/Vicshann/GhostDbg/releases)\]
 [GhostDbg](https://github.com/Vicshann/GhostDbg) by [Vicshann](https://github.com/Vicshann): Noninvasive debugging plugin for x64dbg.
-[EasyLabelView](https://github.com/phiDelPark/x64DbgPlugins) by phiDel: Show bookmarks, labels, comments in stack window.
+- [EasyLabelView](https://github.com/phiDelPark/x64DbgPlugins) by phiDel: Show bookmarks, labels, comments in stack window.
 
 ## Other tools
 
