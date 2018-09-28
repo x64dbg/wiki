@@ -19,7 +19,6 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 - `set QT64PATH=C:\Qt\qt-5.6.2-x64-msvc2013\5.6\msvc2013_64\bin`
 - `set QTCREATORPATH=C:\Qt\qtcreator-4.3.1\bin`
 - `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
-- `set COVERITYPATH=C:\coverity\bin`
 
 # Compiling x64dbg
 
