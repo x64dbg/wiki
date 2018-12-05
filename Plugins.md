@@ -83,6 +83,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/Vicshann/GhostDbg/releases)\]
 [GhostDbg](https://github.com/Vicshann/GhostDbg) by [Vicshann](https://github.com/Vicshann): Noninvasive debugging plugin for x64dbg.
 - [EasyLabelView](https://github.com/phiDelPark/x64DbgPlugins) by phiDel: Show bookmarks, labels, comments in the stack window.
+- \[[AdvancedScript](https://github.com/Ahmadmansoor/AdvancedScript/releases)\] by [Ahmadmansoor](https://github.com/Ahmadmansoor) ,Open-source C++ /cli ,some useful Functions which will help Plugin Coder's , New advanced Log Functions ,maybe in the future It will be as name it have :).
 
 ## Other tools
 
