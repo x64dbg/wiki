@@ -2,17 +2,17 @@
 
 Feel free to add your color scheme here. Please include a [Gist](https://gist.github.com) and an [Imgur](https://imgur.com).
 
-[Default](https://gist.github.com/mrexodia/3a60196a5196e4c73a05) by [mrexodia](http://mrexodia.cf)
-[![screenshot](http://i.imgur.com/2lW8pqm.png)](http://i.imgur.com/2lW8pqm.png)
+[Default](https://gist.github.com/mrexodia/3a60196a5196e4c73a05) by mrexodia
+[![screenshot](https://i.imgur.com/2lW8pqm.png)](https://i.imgur.com/2lW8pqm.png)
 
 [Mostly black and Jumps’n’calls](https://gist.github.com/mrexodia/759f842a0660684c13fa5b2bb41873f2) by [cypher](https://forum.tuts4you.com/user/77269-cypher/)
 [![screenshot](https://i.imgur.com/VY8LjdR.png)](https://i.imgur.com/VY8LjdR.png)
 
-[Dark Theme](https://gist.github.com/mrexodia/5b560dd1671577d1f214dec549f3edc0) by [tr4ceflow](http://blog.tr4ceflow.com/)
+[Dark Theme](https://gist.github.com/mrexodia/5b560dd1671577d1f214dec549f3edc0) by tr4ceflow
 [![screenshot](https://i.imgur.com/1Jf38zh.png)](https://i.imgur.com/1Jf38zh.png)
 
 [Shades of gray](https://gist.github.com/mrexodia/dfe080a2257cb809398844c5d578c1a0) by Joao Marques
-[![screenshot](http://i.imgur.com/ne8ZWpx.png)](http://i.imgur.com/ne8ZWpx.png)
+[![screenshot](https://i.imgur.com/ne8ZWpx.png)](https://i.imgur.com/ne8ZWpx.png)
 
 [Dark Colorful](https://gist.github.com/levisre/6731fdc0a3857ac24f3f81fa18b29552) by Levis
 [![screenshot](https://raw.githubusercontent.com/levisre/Debugger_Scheme/master/screenshots/x64dbg.png)](https://raw.githubusercontent.com/levisre/Debugger_Scheme/master/screenshots/x64dbg.png)
@@ -27,13 +27,13 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 
 [Blue Xor](https://gist.github.com/mrexodia/ca611756551d2377dc07c9c598a69e54) by [xor06](https://xor06.wordpress.com) [![screenshot](https://i.imgur.com/0VYARC8.png)](https://i.imgur.com/0VYARC8.png)
 
-[Dark Theme Modded](https://gist.github.com/ThunderCls/33fae66a5df12e7638c7509f2785be48) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/y3mcIRu.png)](http://i.imgur.com/y3mcIRu.png)
+[Dark Theme Modded](https://gist.github.com/ThunderCls/33fae66a5df12e7638c7509f2785be48) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](https://i.imgur.com/y3mcIRu.png)](https://i.imgur.com/y3mcIRu.png)
 
-[Olly Jumps'n'Calls Theme](https://gist.github.com/ThunderCls/d33567337548fe427a6cad09342a2df0) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](http://i.imgur.com/I3InqdE.png)](http://i.imgur.com/I3InqdE.png)
+[Olly Jumps'n'Calls Theme](https://gist.github.com/ThunderCls/d33567337548fe427a6cad09342a2df0) by [ThunderCls](https://reversec0de.wordpress.com/) [![screenshot](https://i.imgur.com/I3InqdE.png)](https://i.imgur.com/I3InqdE.png)
 
-[Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](http://i.imgur.com/0vdWCvN.png)](http://i.imgur.com/0vdWCvN.png)
+[Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](https://i.imgur.com/0vdWCvN.png)](https://i.imgur.com/0vdWCvN.png)
 
-[Visual Studio Light Theme](https://gist.github.com/ThunderCls/6d39464d204c1b2b0485685d10f2d1c6) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](http://i.imgur.com/x8GM3Ci.png)](http://i.imgur.com/x8GM3Ci.png)
+[Visual Studio Light Theme](https://gist.github.com/ThunderCls/6d39464d204c1b2b0485685d10f2d1c6) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](https://i.imgur.com/x8GM3Ci.png)](https://i.imgur.com/x8GM3Ci.png)
 
 [Color fun](https://gist.github.com/techbliss/ca6da96514e3e2817aa765cabd7586af) by Storm Shadow
 [![screenshot](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)](https://cloud.githubusercontent.com/assets/3592375/20649310/1b09070c-b4bd-11e6-9341-85d0c8e2cc9c.png)
@@ -44,6 +44,6 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 [RelaxYourEyes](https://gist.github.com/stonedreamforest/6d5496ec174febe971bcf86a7c6ad2d8) by [Tennn](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes)
 ![screenshot](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/1.png)
 
-[Acid Lime Theme](https://gist.github.com/ThunderCls/6fffbe7f3e2edd697b36a2decab80b64) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](http://i.imgur.com/IuvA7gq.png)](http://i.imgur.com/IuvA7gq.png)
+[Acid Lime Theme](https://gist.github.com/ThunderCls/6fffbe7f3e2edd697b36a2decab80b64) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](https://i.imgur.com/IuvA7gq.png)](https://i.imgur.com/IuvA7gq.png)
 
 [Consonance](https://gist.github.com/Gbps/c59a1b53dc6f5d09b8daba70a01d827a) by [Gbps](https://github.com/Gbps/x64dbg-consonance-theme) [![screenshot](https://i.imgur.com/IsEYUiA.png)](https://i.imgur.com/IsEYUiA.png)
