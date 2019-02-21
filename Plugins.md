@@ -18,6 +18,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - [Delphi](https://github.com/quygia128/x64_dbg_SDK_Delphi) by [quygia128](https://github.com/quygia128).
 
 ## Plugins
+- \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @_quaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
 
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
