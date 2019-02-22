@@ -18,8 +18,6 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - [Delphi](https://github.com/quygia128/x64_dbg_SDK_Delphi) by [quygia128](https://github.com/quygia128).
 
 ## Plugins
-- \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @_quaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
-
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/Nukem9/SwissArmyKnife/releases)\] [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation.
@@ -85,6 +83,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 [GhostDbg](https://github.com/Vicshann/GhostDbg) by [Vicshann](https://github.com/Vicshann): Noninvasive debugging plugin for x64dbg.
 - [EasyLabelView](https://github.com/phiDelPark/x64DbgPlugins) by phiDel: Show bookmarks, labels, comments in the stack window.
 - \[[AdvancedScript](https://github.com/Ahmadmansoor/AdvancedScript/releases)\] by [Ahmadmansoor](https://github.com/Ahmadmansoor) ,Open-source C++ /cli ,some useful Functions which will help Plugin Coder's , New advanced Log Functions ,maybe in the future It will be as name it have :).
+- \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @qaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
 
 ## Other tools
 
