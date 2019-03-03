@@ -5,7 +5,7 @@
 1. Download [Visual Studio 2013 Community Edition](https://www.visualstudio.com/vs/older-downloads/#visual-studio-2013) (**make sure to install MFC**).
 2. Download [Qt 5.6.2 (x86) for MSVC2013](https://download.qt.io/official_releases/qt/5.6/5.6.2/qt-opensource-windows-x86-msvc2013-5.6.2.exe), install in `C:\Qt\qt-5.6.2-x86-msvc2013`.
 3. Download [Qt 5.6.2 (x64) for MSVC2013](https://download.qt.io/official_releases/qt/5.6/5.6.2/qt-opensource-windows-x86-msvc2013_64-5.6.2.exe), install in `C:\Qt\qt-5.6.2-x64-msvc2013`.
-4. Download [Qt Creator 4.3.1](https://download.qt.io/official_releases/qtcreator/4.3/4.3.1/qt-creator-opensource-windows-x86-4.3.1.exe), install in `C:\Qt\qtcreator-4.3.1`.
+4. Download [Qt Creator 4.3.1](https://download.qt.io/archive/qtcreator/4.3/4.3.1/qt-creator-opensource-windows-x86-4.3.1.exe), install in `C:\Qt\qtcreator-4.3.1`.
 5. Clone the repository (`development` branch) to your local drive. **Make sure to include the submodules in your clone command!**
 ```
 git clone --recurse-submodules -b development https://github.com/x64dbg/x64dbg.git
