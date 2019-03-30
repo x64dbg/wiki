@@ -48,4 +48,4 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 
 [Consonance](https://gist.github.com/Gbps/c59a1b53dc6f5d09b8daba70a01d827a) by [Gbps](https://github.com/Gbps/x64dbg-consonance-theme) [![screenshot](https://i.imgur.com/IsEYUiA.png)](https://i.imgur.com/IsEYUiA.png)
 
-[MDark](https://gist.github.com/es3/21d952e1f562392c1f832109a93e1732) by [BleICer] [![screenshot](https://i.imgur.com/bMsLmSO.png)](https://i.imgur.com/bMsLmSO.png)
+[MDark](https://gist.github.com/es3/21d952e1f562392c1f832109a93e1732) by BleICer [![screenshot](https://i.imgur.com/bMsLmSO.png)](https://i.imgur.com/bMsLmSO.png)
