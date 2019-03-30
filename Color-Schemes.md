@@ -47,3 +47,5 @@ Feel free to add your color scheme here. Please include a [Gist](https://gist.gi
 [Acid Lime Theme](https://gist.github.com/ThunderCls/6fffbe7f3e2edd697b36a2decab80b64) by [ThunderCls](https://github.com/ThunderCls) [![screenshot](https://i.imgur.com/IuvA7gq.png)](https://i.imgur.com/IuvA7gq.png)
 
 [Consonance](https://gist.github.com/Gbps/c59a1b53dc6f5d09b8daba70a01d827a) by [Gbps](https://github.com/Gbps/x64dbg-consonance-theme) [![screenshot](https://i.imgur.com/IsEYUiA.png)](https://i.imgur.com/IsEYUiA.png)
+
+[MDark](https://gist.github.com/es3/21d952e1f562392c1f832109a93e1732) by [BleICer] [![screenshot](https://i.imgur.com/bMsLmSO.png)](https://i.imgur.com/bMsLmSO.png)
