@@ -6,7 +6,7 @@ Add it (**at the end of the list**) in the following format:
 
 ## Official Visual Studio Templates
 
-There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available so your can easily develop plugins with Visual Studio.
+There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available so your can easily develop plugins with Visual Studio. There is also [QtPlugin](https://github.com/x64dbg/QtPlugin), which demonstrates how to write a plugin that adds a `QWidget` tab.
 
 ## User-maintained templates
 
