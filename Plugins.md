@@ -85,6 +85,8 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @qaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
 - \[[Download](https://github.com/horsicq/stringsx64dbg/releases)\] [stringsx64dbg
 ](https://github.com/horsicq/stringsx64dbg) by [hors](https://github.com/horsicq): Strings plugin. ANSI and UNICODE. RegEXP support
+- \[[Download](https://github.com/horsicq/pesx64dbg/releases)\] [pesx64dbg
+](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
 
 ## Other tools
 
