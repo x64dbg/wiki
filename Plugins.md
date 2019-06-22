@@ -63,9 +63,9 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://ci.appveyor.com/project/mrexodia/system/build/artifacts)\] [system](https://github.com/x64dbg/system) by [mrexodia](http://mrexodia.cf): Plugin to execute system commands.
 - \[[Download](https://github.com/changeofpace/Force-Page-Protection/releases/tag/v1.0)\] [Force Page Protection](https://github.com/changeofpace/Force-Page-Protection) by [changeofpace](https://github.com/changeofpace): This plugin sets the page protection for memory mapped views in scenarios which cause NtProtectVirtualMemory to fail.
 - [cndsteroids](https://github.com/pastaCLS/cndsteroids) by [pastaCLS](https://github.com/pastaCLS): Plugin to compare strings in conditional expressions.
-- \[[Download](https://github.com/x64dbg/Fuck1481/releases/download/Fuck1481/Fuck1481.zip)\] [Fuck1481](https://github.com/x64dbg/Fuck1481) by [x64dbg](http://x64dbg.com): Fixes [x64dbg#1481](https://github.com/x64dbg/x64dbg/issues/1481).
+- \[[Download](https://github.com/x64dbg/Fuck1481/releases/download/Fuck1481/Fuck1481.zip)\] [Fuck1481](https://github.com/x64dbg/Fuck1481) by [x64dbg](https://x64dbg.com): Fixes [x64dbg#1481](https://github.com/x64dbg/x64dbg/issues/1481).
 - \[[Download](https://github.com/stonedreamforest/NaiHeQiao/releases/download/2017-3-12/2017-3-12.rar)\] [NaiHeQiao](https://github.com/stonedreamforest/NaiHeQiao) by [Tennn](https://github.com/stonedreamforest): Open-source x86/x64 usermode anti-anti-debug plugin, when the built-in debugger engine has a debug signal processing failure: [x64dbg#1462](https://github.com/x64dbg/x64dbg/issues/1462).
-- \[[Download](https://github.com/x64dbg/GetCharABCWidthsI_cache/releases/download/1529ac3e/GetCharABCWidthsI_cache.zip)\] [GetCharABCWidthsI_cache](https://github.com/x64dbg/GetCharABCWidthsI_cache) by [x64dbg](http://x64dbg.com): Plugin to improve performance of `QWindowsFontEngine::getGlyphBearings`.
+- \[[Download](https://github.com/x64dbg/GetCharABCWidthsI_cache/releases/download/1529ac3e/GetCharABCWidthsI_cache.zip)\] [GetCharABCWidthsI_cache](https://github.com/x64dbg/GetCharABCWidthsI_cache) by [x64dbg](https://x64dbg.com): Plugin to improve performance of `QWindowsFontEngine::getGlyphBearings`.
 - \[[Download](http://pan.baidu.com/s/1jGgL774)\] x64dbg_tol by [lynnux](https://github.com/lynnux): A plugin make string search contains Chinese string, 使字符串搜索包含中文。
 - \[[Download](https://github.com/klks/checksec/releases/download/20170327/Checksec_v0.1.zip)\] [checksec](https://github.com/klks/checksec) by [klks](https://github.com/klks): Plugin checks modules for security features enabled such as SafeSEH/GS/DEP/ASLR/CFG.
 - \[[Download](https://github.com/David-Reguera-Garcia-Dreg/DbgChild/releases)\] [DbgChild](https://github.com/David-Reguera-Garcia-Dreg/DbgChild) by [Dreg](https://github.com/David-Reguera-Garcia-Dreg): This plugin is intended to give the user the option to debug (auto-attach) the child processes created by debugee.
@@ -74,8 +74,8 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/mrfearless/Today-Plugin-x64/blob/master/release/Today.dp64?raw=true)\] [Today-Plugin-x64](https://github.com/mrfearless/Today-Plugin-x64) by [mrfearless](https://github.com/mrfearless): An x64 plugin to lists days of interest: national, commemorative, awareness or international observance days.
 - \[[Download](https://github.com/horsicq/nfdx64dbg/releases)\] [nfdx64dbg
 ](https://github.com/horsicq/nfdx64dbg) by [hors](https://github.com/horsicq): Linker/Compiler/Tool detector.
-- \[[Download](https://github.com/x64dbg/strmatch/releases)\] [strmatch](https://github.com/x64dbg/strmatch) by [x64dbg](http://x64dbg.com): Simple string matching plugin for x64dbg. Supports UTF8, UTF16 and Local codepages.
-- \[[Download](https://github.com/x64dbg/AutoExportPatches/releases)\] [AutoExportPatches](https://github.com/x64dbg/AutoExportPatches) by [x64dbg](http://x64dbg.com): Plugin that automatically stores patches in the database and restores them on restart.
+- \[[Download](https://github.com/x64dbg/strmatch/releases)\] [strmatch](https://github.com/x64dbg/strmatch) by [x64dbg](https://x64dbg.com): Simple string matching plugin for x64dbg. Supports UTF8, UTF16 and Local codepages.
+- \[[Download](https://github.com/x64dbg/AutoExportPatches/releases)\] [AutoExportPatches](https://github.com/x64dbg/AutoExportPatches) by [x64dbg](https://x64dbg.com): Plugin that automatically stores patches in the database and restores them on restart.
 - \[[Download](https://github.com/mrexodia/YaraGen/releases)\] [YaraGen](https://github.com/mrexodia/YaraGen) by [mrexodia](https://github.com/mrexodia): Plugin for x64dbg to generate Yara rules from function basic blocks.
 - \[[Download](https://github.com/atom0s/CeAutoAsm-x64dbg/archive/master.zip)\] [CeAutoAsm](https://github.com/atom0s/CeAutoAsm-x64dbg) by [atom0s](https://github.com/atom0s): Plugin for x64dbg to use Cheat Engine auto assembler scripts from the debugger command line.
 - \[[Download](https://github.com/LFriede/x64dbg-updater/releases)\]
@@ -91,7 +91,7 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @qaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
 - \[[Download](https://github.com/horsicq/stringsx64dbg/releases)\] [stringsx64dbg](https://github.com/horsicq/stringsx64dbg) by [hors](https://github.com/horsicq): Strings plugin. ANSI and UNICODE. RegEXP support
 - \[[Download](https://github.com/horsicq/pesx64dbg/releases)\] [pesx64dbg](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
-- \[[Download](https://github.com/x64dbg/snowman/releases/latest)\] [snowman](https://github.com/x64dbg/snowman) by [x64dbg](https://github.com/x64dbg): Snowman decompiler plugin.
+- \[[Download](https://github.com/x64dbg/snowman/releases/latest)\] [snowman](https://github.com/x64dbg/snowman) by [x64dbg](https://x64dbg.com): Snowman decompiler plugin.
 
 ## Other tools
 
