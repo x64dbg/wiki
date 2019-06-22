@@ -17,6 +17,12 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - [Visual Studio](https://github.com/mrfearless/x64dbg-plugin-template-for-Visual-Studio) by [fearless](http://www.letthelight.in).
 - [Delphi](https://github.com/quygia128/x64_dbg_SDK_Delphi) by [quygia128](https://github.com/quygia128).
 
+## Integrations
+
+- [x64dbgida](https://github.com/x64dbg/x64dbgida) by [mrexodia](https://github.com/mrexodia): Official x64dbg plugin for IDA Pro.
+- [x64dbgbinja](https://github.com/x64dbg/x64dbgbinja) by [mrexodia](https://github.com/mrexodia): Official x64dbg plugin for Binary Ninja.
+- [lst2x64dbg](https://github.com/utkonos/lst2x64dbg) by [utkonos](https://github.com/utkonos): Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database.
+
 ## Plugins
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
@@ -83,10 +89,9 @@ There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available 
 - [EasyLabelView](https://github.com/phiDelPark/x64DbgPlugins) by phiDel: Show bookmarks, labels, comments in the stack window.
 - \[[AdvancedScript](https://github.com/Ahmadmansoor/AdvancedScript/releases)\] by [Ahmadmansoor](https://github.com/Ahmadmansoor) ,Open-source C++ /cli ,some useful Functions which will help Plugin Coder's , New advanced Log Functions ,maybe in the future It will be as name it have :).
 - \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @qaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
-- \[[Download](https://github.com/horsicq/stringsx64dbg/releases)\] [stringsx64dbg
-](https://github.com/horsicq/stringsx64dbg) by [hors](https://github.com/horsicq): Strings plugin. ANSI and UNICODE. RegEXP support
-- \[[Download](https://github.com/horsicq/pesx64dbg/releases)\] [pesx64dbg
-](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
+- \[[Download](https://github.com/horsicq/stringsx64dbg/releases)\] [stringsx64dbg](https://github.com/horsicq/stringsx64dbg) by [hors](https://github.com/horsicq): Strings plugin. ANSI and UNICODE. RegEXP support
+- \[[Download](https://github.com/horsicq/pesx64dbg/releases)\] [pesx64dbg](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
+- \[[Download](https://github.com/x64dbg/snowman/releases/latest)\] [snowman](https://github.com/x64dbg/snowman) by [x64dbg](https://github.com/x64dbg): Snowman decompiler plugin.
 
 ## Other tools
 
