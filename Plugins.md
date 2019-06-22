@@ -4,11 +4,12 @@ Add it (**at the end of the list**) in the following format:
 
 `PluginName (with link) by Author (with optional link): Brief description.`
 
-## Official Visual Studio Templates
+## Official Templates
 
-There is a [PluginTemplate](https://github.com/x64dbg/PluginTemplate) available so your can easily develop plugins with Visual Studio. There is also [QtPlugin](https://github.com/x64dbg/QtPlugin), which demonstrates how to write a plugin that adds a `QWidget` tab.
+- [PluginTemplate](https://github.com/x64dbg/PluginTemplate): Visual Studio template to easily develop plugins.
+- [QtPlugin](https://github.com/x64dbg/QtPlugin): Demonstrates how to write a plugin that adds a `QWidget` tab.
 
-## User-maintained templates
+## User-maintained Templates
 
 - [Borland C++](https://github.com/ThunderCls/x64dbgBccPlugin) by [ThunderCls](https://github.com/ThunderCls).
 - [C#](https://github.com/mrexodia/DotNetPluginCS) by [mrexodia](https://github.com/mrexodia).
