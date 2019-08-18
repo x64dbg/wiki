@@ -31,7 +31,7 @@ If you install Qt and/or Visual Studio in different paths, you can set (global) 
 
 ## Compiling with different Visual Studio/Qt versions
 
-While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017 and/or newer Qt versions. If you use a different Qt version you have to recompile [snowman](https://github.com/x64dbg/snowman) (or use [SnowmanDummy](https://github.com/x64dbg/SnowmanDummy)) **and** delete all Qt-related DLLs from the `bin` directory and replace them with ones from your Qt version.
+While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017 and/or newer Qt versions. If you use a different Qt version you have to delete all Qt-related DLLs from the `bin` directory and replace them with ones from your Qt version.
 
 If you encounter build errors with newer Qt or Visual Studio versions, a [pull request](https://github.com/x64dbg/x64dbg/pull/1687) is appreciated.
 
