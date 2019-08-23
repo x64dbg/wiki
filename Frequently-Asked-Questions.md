@@ -82,7 +82,7 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 **Q**: I want to learn reversing, and I know how to program. Where do I start?
 
-**A**: mrexodia recommends these links:
+**A**: Here are a bunch of links that can help you get started:
 
 - http://crackmes.cf
 - https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
