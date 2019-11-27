@@ -1,1 +1,0 @@
- default-src https: blob: data: 'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self'
