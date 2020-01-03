@@ -91,7 +91,7 @@ Add it (**at the end of the list**) in the following format:
 - \[[Download](https://github.com/Ahmadmansoor/AdvancedScript/releases/latest)\] [AdvancedScript](https://github.com/Ahmadmansoor/AdvancedScript) by [Ahmadmansoor](https://github.com/Ahmadmansoor): Open-source C++/cli, some useful Functions which will help Plugin Coder's, New advanced Log Functions maybe in the future It will be as name it have :).
 - \[[Download](https://github.com/secrary/idenLib/releases)\] by [Lasha Khasaia, @qaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
 - \[[Download](https://github.com/horsicq/stringsx64dbg/releases)\] [stringsx64dbg](https://github.com/horsicq/stringsx64dbg) by [hors](https://github.com/horsicq): Strings plugin. ANSI and UNICODE. RegEXP support
-- \[[Download](https://github.com/horsicq/pesx64dbg/releases)\] [pesx64dbg](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
+- \[[Download](https://github.com/horsicq/pex64dbg/releases)\] [pex64dbg](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
 - \[[Download](https://github.com/x64dbg/snowman/releases/latest)\] [snowman](https://github.com/x64dbg/snowman) by [x64dbg](https://x64dbg.com): Snowman decompiler plugin.
 
 - \[[Download](https://github.com/stonedreamforest/Mirage/releases)\] [Mirage](https://github.com/stonedreamforest/Mirage) by [Tennn](https://github.com/stonedreamforest): kernel-mode Anti-Anti-Debug plugin. `based on intel vt-x && ept technology`.
