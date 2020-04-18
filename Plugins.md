@@ -94,9 +94,8 @@ Add it (**at the end of the list**) in the following format:
 - \[[Download](https://github.com/horsicq/pex64dbg/releases)\] [pex64dbg](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
 - \[[Download](https://github.com/x64dbg/snowman/releases/latest)\] [snowman](https://github.com/x64dbg/snowman) by [x64dbg](https://x64dbg.com): Snowman decompiler plugin.
 - \[[Download](https://github.com/stonedreamforest/Mirage/releases)\] [Mirage](https://github.com/stonedreamforest/Mirage) by [Tennn](https://github.com/stonedreamforest): kernel-mode Anti-Anti-Debug plugin. `based on intel vt-x && ept technology`.
-- \[[Download](https://github.com/Coalfire-Research/ERC.Xdbg/releases)\] [ERC.Xdbg](https://github.com/Coalfire-Research/ERC.Xdbg) by [Coalfire Labs R&D](http://www.coalfirelabs.com/): An X64dbg Plugin of the ERC Library.
-- \[[Download](https://github.com/sicaril/BaymaxTools)\] [Baymax toOls v1.0 beta for x64dbg](https://github.com/sicaril/BaymaxTools) by [Nisy/PYG](https://www.chinapyg.com/): Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.
-
+- \[[Download](https://github.com/Andy53/ERC.Xdbg/releases)\] [ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) by [Andy53](https://github.com/Andy53): An X64dbg Plugin of the ERC Library.
+- \[[Download](https://github.com/sicaril/BaymaxTools)\] [Baymax toOls v1.0 beta for x64dbg](https://github.com/sicaril/BaymaxTools) by [Nisy/PYG](https://www.chinapyg.com/): Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.    
 
 ## Other tools
 
