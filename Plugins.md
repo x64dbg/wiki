@@ -24,6 +24,7 @@ Add it (**at the end of the list**) in the following format:
 - [x64dbgbinja](https://github.com/x64dbg/x64dbgbinja) by [mrexodia](https://github.com/mrexodia): Official x64dbg plugin for Binary Ninja.
 - [lst2x64dbg](https://github.com/utkonos/lst2x64dbg) by [utkonos](https://github.com/utkonos): Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database.
 - [x64dbgcutter](https://github.com/yossizap/x64dbgcutter) by [yossizap](https://github.com/yossizap): Import and export x64dbg comments/breakpoints/labels/bookmarks in Cutter.
+- [Generate types JSON](https://gist.github.com/utkonos/7f82d27a389222352a671b2135aacb38) by Malware Utkonos
 
 ## Plugins
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
