@@ -13,7 +13,7 @@ git clone --recurse-submodules -b development https://github.com/x64dbg/x64dbg.g
 
 ### Qt
 
-Qt has made some changes to their licensing and deleted all the LTS packages (including source code) from their website. The original installers are mirrored on [SourceForge](https://sourceforge.net/projects/x64dbg/files/qt/) and [OSDN](https://osdn.net/projects/x64dbg/storage/qt/).
+Qt has [made some changes to their licensing](https://www.qt.io/blog/qt-offering-changes-2020) and deleted all the LTS packages (including source code) from their website. The original installers are mirrored on [SourceForge](https://sourceforge.net/projects/x64dbg/files/qt/) and [OSDN](https://osdn.net/projects/x64dbg/storage/qt/).
 
 There is also a portable Qt archive `Qt5.6.3-msvc2013-installed.7z`, which is just both those installers extracted.
 
