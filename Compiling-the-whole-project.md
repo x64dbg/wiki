@@ -11,6 +11,12 @@
 git clone --recurse-submodules -b development https://github.com/x64dbg/x64dbg.git
 ```
 
+## Qt
+
+Qt has made some changes to their licensing and deleted all the LTS packages (including source code) from their website. The original installers are mirrored on [SourceForge](https://sourceforge.net/projects/x64dbg/files/qt/) and [OSDN](https://osdn.net/projects/x64dbg/storage/qt/).
+
+There is also a portable Qt archive `Qt5.6.3-msvc2013-installed.7z`, which is just both those installers extracted.
+
 ## Custom paths
 
 If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create a custom environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
