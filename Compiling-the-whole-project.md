@@ -11,7 +11,7 @@
 git clone --recurse-submodules -b development https://github.com/x64dbg/x64dbg.git
 ```
 
-## Qt
+### Qt
 
 Qt has made some changes to their licensing and deleted all the LTS packages (including source code) from their website. The original installers are mirrored on [SourceForge](https://sourceforge.net/projects/x64dbg/files/qt/) and [OSDN](https://osdn.net/projects/x64dbg/storage/qt/).
 
