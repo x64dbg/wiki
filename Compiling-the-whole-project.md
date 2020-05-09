@@ -17,15 +17,6 @@ Qt has [made some changes to their licensing](https://www.qt.io/blog/qt-offering
 
 There is also a portable Qt archive `Qt5.6.3-msvc2013-installed.7z`, which is just both those installers extracted.
 
-## Custom paths
-
-If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create a custom environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
-
-- `set QT32PATH=C:\Qt\qt-5.6.3-x86-msvc2013\5.6\msvc2013\bin`
-- `set QT64PATH=C:\Qt\qt-5.6.3-x64-msvc2013\5.6\msvc2013_64\bin`
-- `set QTCREATORPATH=C:\Qt\qtcreator-4.3.1\bin`
-- `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
-
 # Compiling x64dbg
 
 1. Run `install.bat` to initialize the pre-commit formatting hooks
@@ -48,3 +39,12 @@ If you encounter build errors with newer Qt or Visual Studio versions, a [pull r
 There is a video available where the build process (after installing the prerequisites) is shown. It is available on [YouTube](https://youtu.be/M3J2wpXpeX0) and in [SWF Format](https://mega.nz/#!D4x1wQZD!LNz_K4GOhNuJlgS1oztlgdRhoZwPODWyQdd6ISUVvF0).
 
 This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of which are currently not officially supported): https://vimeo.com/213004417  Note: The video is a bit dated, and the `copy_libs.bat` script displayed in the video does not copy all required DLLs to the output folder. Make sure to run `setupdeps.bat` before running the `copy_libs.bat` displayed in the video in order to copy all required DLLs to the output folder. Alternatively, run `setupdeps.bat` and then delete all the Qt DLLs in the output bin folder, and replace them with ones from your Qt version.
+
+## Custom paths
+
+If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create a custom environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
+
+- `set QT32PATH=C:\Qt\qt-5.6.3-x86-msvc2013\5.6\msvc2013\bin`
+- `set QT64PATH=C:\Qt\qt-5.6.3-x64-msvc2013\5.6\msvc2013_64\bin`
+- `set QTCREATORPATH=C:\Qt\qtcreator-4.3.1\bin`
+- `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
