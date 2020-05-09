@@ -22,9 +22,9 @@ There is also a portable Qt archive `Qt5.6.3-msvc2013-installed.7z`, which is ju
 1. Run `install.bat` to initialize the pre-commit formatting hooks
 2. Run `setupdeps.bat` to copy the dependencies
 3. Open `x64dbg.sln` in Visual Studio 2013
-4. Compile the solution (F7)
+4. Compile the solution **in Release mode**
 5. Open `src\gui\x64dbg.pro` in Qt Creator
-6. Compile the GUI.
+6. Compile the GUI **in Release mode**.
 
 ## Compiling with different Visual Studio/Qt versions
 
