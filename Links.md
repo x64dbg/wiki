@@ -23,5 +23,5 @@ This page will contain various types of links related to x64dbg.
 
 ## Community
 - [tuts4you forum](https://forum.tuts4you.com/forum/139-x64dbg/)
-- [EXETOOLS Forum](http://forum.exetools.com/showthread.php?t=15328)
+- [EXETOOLS Forum](https://forum.exetools.com/showthread.php?t=15328)
 - [Techbliss Forum](http://www.techbliss.org/categories/x64dbg-debugger.202/)
