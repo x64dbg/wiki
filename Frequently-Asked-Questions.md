@@ -80,6 +80,14 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 ***
 
+***
+
+**Q**: How can inspect/debug .NET/dotnet/C#/Unity programs?
+
+**A**: Use [dnSpy](https://github.com/0xd4d/dnSpy).
+
+***
+
 **Q**: I want to learn reversing, and I know how to program. Where do I start?
 
 **A**: Here are a bunch of links that can help you get started:
@@ -94,3 +102,4 @@ Per default x64dbg will not create any registry entries. However if you use it a
 - http://godbolt.org
 - https://lifeinhex.com/how-to-learn-reverse-engineering/
 - https://gynvael.coldwind.pl/?id=664
+- https://discord.gg/weKN5wb
