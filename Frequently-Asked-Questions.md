@@ -103,3 +103,4 @@ Per default x64dbg will not create any registry entries. However if you use it a
 - https://lifeinhex.com/how-to-learn-reverse-engineering/
 - https://gynvael.coldwind.pl/?id=664
 - https://discord.gg/weKN5wb
+- https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
