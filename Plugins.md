@@ -98,6 +98,7 @@ Add it (**at the end of the list**) in the following format:
 - \[[Download](https://github.com/stonedreamforest/Mirage/releases)\] [Mirage](https://github.com/stonedreamforest/Mirage) by [Tennn](https://github.com/stonedreamforest): kernel-mode Anti-Anti-Debug plugin. `based on intel vt-x && ept technology`.
 - \[[Download](https://github.com/Andy53/ERC.Xdbg/releases)\] [ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) by [Andy53](https://github.com/Andy53): An X64dbg Plugin of the ERC Library. ERC is an exploit development framework similar to Mona.py.
 - \[[Download](https://github.com/sicaril/BaymaxTools)\] [Baymax toOls v1.0 beta for x64dbg](https://github.com/sicaril/BaymaxTools) by [Nisy/PYG](https://www.chinapyg.com/): Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.    
+- \[[Download](https://gitlab.com/colinsenner/Rtti-plugin-x64)\] [RTTI Info](https://gitlab.com/colinsenner/Rtti-plugin-x64) by [colinsenner]: Display real time type information if available by selecting a class pointer in the memory dump.    
 
 ## Other tools
 
