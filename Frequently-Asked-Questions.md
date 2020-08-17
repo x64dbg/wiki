@@ -88,6 +88,12 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 ***
 
+**Q**: How can I debug services?
+
+**A**: Debugging services isn't properly supported, but you can check [#2411](https://github.com/x64dbg/x64dbg/issues/2411).
+
+***
+
 **Q**: I want to learn reversing, and I know how to program. Where do I start?
 
 **A**: Here are a bunch of links that can help you get started:
