@@ -101,6 +101,9 @@ Add it (**at the end of the list**) in the following format:
 - \[[Download](https://gitlab.com/colinsenner/Rtti-plugin-x64)\] [RTTI Info](https://gitlab.com/colinsenner/Rtti-plugin-x64) by [colinsenner]: Display real time type information if available by selecting a class pointer in the memory dump.    
 - \[[Download](https://github.com/0ffffffffh/yummyPaste/releases)\] [yummyPaste](https://github.com/0ffffffffh/yummyPaste) by [Oguz Kartal](https://oguzkartal.net): a plugin to able to paste the various type of formatted binary data into the x64dbg's disassembler or dump section.    
 
+## Plugin manager
+
+- https://github.com/horsicq/x64dbg-Plugin-Manager
 
 ## Other tools
 
