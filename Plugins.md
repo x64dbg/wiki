@@ -100,7 +100,7 @@ Add it (**at the end of the list**) in the following format:
 - \[[Download](https://github.com/sicaril/BaymaxTools)\] [Baymax toOls v1.0 beta for x64dbg](https://github.com/sicaril/BaymaxTools) by [Nisy/PYG](https://www.chinapyg.com/): Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.    
 - \[[Download](https://gitlab.com/colinsenner/Rtti-plugin-x64)\] [RTTI Info](https://gitlab.com/colinsenner/Rtti-plugin-x64) by [colinsenner]: Display real time type information if available by selecting a class pointer in the memory dump.    
 - \[[Download](https://github.com/0ffffffffh/yummyPaste/releases)\] [yummyPaste](https://github.com/0ffffffffh/yummyPaste) by [Oguz Kartal](https://oguzkartal.net): a plugin to able to paste the various type of formatted binary data into the x64dbg's disassembler or dump section.    
-
+- [ASLR-Removal](https://github.com/AandersonL/x64dbg-ASLR-Removal) by [Aandersonl](https://github.com/AandersonL): Plugin to remove the ASLR from the current file.
 ## Plugin manager
 
 - https://github.com/horsicq/x64dbg-Plugin-Manager
