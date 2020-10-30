@@ -28,7 +28,7 @@ There is also a portable Qt archive `Qt5.6.3-msvc2013-installed.7z`, which is ju
 
 ## Compiling with different Visual Studio/Qt versions
 
-While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017 and/or newer Qt versions. If you use a different Qt version you have to delete all Qt-related DLLs from the `bin` directory and replace them with ones from your Qt version.
+While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017/2019 and/or newer Qt versions. If you use a different Qt version you have to run `windeployqt.exe --force x64gui.dll` to do this automatically.
 
 If you encounter build errors with newer Qt or Visual Studio versions, a [pull request](https://github.com/x64dbg/x64dbg/pull/1687) is appreciated.
 
