@@ -1,8 +1,8 @@
 # Prerequisites
 
-**Notice**: It is important to install the **exact** versions of the tools mentioned hereafter (special exception for Visual Studio 2013, for which you can also use the Professional or Enterprise editions). **Do not come complaining if you didn't install the correct versions of the tools**.
+**Notice**: It is important to install the **exact** versions of the tools mentioned hereafter.
 
-1. Download [Visual Studio 2013 Community Edition](https://my.visualstudio.com/Downloads?q=visual%20studio%202013&wt.mc_id=o~msft~vscom~older-downloads) ([direct](https://go.microsoft.com/fwlink/?LinkId=532495&clcid=0x409)) (**make sure to install MFC**).
+1. Download [Visual Studio 2013](https://my.visualstudio.com/Downloads?q=visual%20studio%202013&wt.mc_id=o~msft~vscom~older-downloads) ([direct](https://go.microsoft.com/fwlink/?LinkId=532495&clcid=0x409)) (**make sure to install MFC**).
 2. Download [Qt 5.6.3 (x86) for MSVC2013](https://osdn.net/projects/x64dbg/storage/qt/qt-opensource-windows-x86-msvc2013-5.6.3.exe), install in `C:\Qt\qt-5.6.3-x86-msvc2013`.
 3. Download [Qt 5.6.3 (x64) for MSVC2013](https://osdn.net/projects/x64dbg/storage/qt/qt-opensource-windows-x86-msvc2013_64-5.6.3.exe), install in `C:\Qt\qt-5.6.3-x64-msvc2013`.
 4. Download [Qt Creator 4.3.1](https://download.qt.io/archive/qtcreator/4.3/4.3.1/qt-creator-opensource-windows-x86-4.3.1.exe), install in `C:\Qt\qtcreator-4.3.1`.
@@ -28,11 +28,13 @@ There is also a portable Qt archive [Qt5.6.3-msvc2013-installed.7z](https://osdn
 
 ## Compiling with different Visual Studio/Qt versions
 
-While unsupported (as in don't come complain), people have built x64dbg with Visual Studio 2015/2017/2019 and/or newer Qt versions. If you use a different Qt version you have to run `windeployqt.exe --force x64gui.dll` to do this automatically.
+While unsupported, people have built x64dbg with Visual Studio 2015/2017/2019 and/or newer Qt versions. If you use a different Qt version you have to run `windeployqt.exe --force x64gui.dll` to do this automatically.
 
-If you encounter build errors with newer Qt or Visual Studio versions, a [pull request](https://github.com/x64dbg/x64dbg/pull/1687) is appreciated.
+If you encounter build errors with newer Qt or Visual Studio versions, a pull request is appreciated!
 
 You can get the latest Qt versions from: https://www.qt.io/offline-installers
+
+If you do not like Qt Creator you can try the [Qt Visual Studio Tools](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.QtVisualStudioTools2019).
 
 ## Video
 
