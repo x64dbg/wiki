@@ -9,6 +9,25 @@ Add it (**at the end of the list**) in the following format:
 - [PluginTemplate](https://github.com/x64dbg/PluginTemplate): Visual Studio template to easily develop plugins.
 - [QtPlugin](https://github.com/x64dbg/QtPlugin): Demonstrates how to write a plugin that adds a `QWidget` tab.
 
+## Example plugins
+
+Plugins with minimal functionality to show how certain APIs can be used.
+
+- https://github.com/mrexodia/StackContains
+- https://github.com/mrexodia/TimeStampFormat
+- https://github.com/mrexodia/PasteFile
+- https://github.com/mrexodia/JNIEnv
+- https://github.com/mrexodia/regstep
+- https://github.com/mrexodia/BreakpointUnresolved
+- https://github.com/mrexodia/ClickCatcher
+- https://github.com/mrexodia/Diff
+- https://github.com/mrexodia/LogString
+- https://github.com/mrexodia/ExtendDumpSel
+- https://github.com/mrexodia/ModulePathList
+- https://github.com/mrexodia/TracePlugin
+- https://github.com/mrexodia/FloatConvert
+- https://github.com/mrexodia/DrDecode
+
 ## User-maintained Templates
 
 - [Borland C++](https://github.com/ThunderCls/x64dbgBccPlugin) by [ThunderCls](https://github.com/ThunderCls).
