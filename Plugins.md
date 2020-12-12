@@ -121,6 +121,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/0ffffffffh/yummyPaste/releases)\] [yummyPaste](https://github.com/0ffffffffh/yummyPaste) by [Oguz Kartal](https://oguzkartal.net): a plugin to able to paste the various type of formatted binary data into the x64dbg's disassembler or dump section.    
 - [ASLR-Removal](https://github.com/AandersonL/x64dbg-ASLR-Removal) by [Aandersonl](https://github.com/AandersonL): Plugin to remove the ASLR from the current file.
 - \[[Download](https://github.com/morsisko/xSelectBlock/releases/)\] [xSelectBlock](https://github.com/morsisko/xSelectBlock) by [morsisko](https://github.com/morsisko): Plugin to select block of data in dump widget easier
+- \[[Download](https://github.com/morsisko/xFindOut/releases/)\] [xFindOut](https://github.com/morsisko/xFindOut) by [morsisko](https://github.com/morsisko): Plugin to find out what writes to/accesses particular address
 ## Plugin manager
 
 - https://github.com/horsicq/x64dbg-Plugin-Manager
