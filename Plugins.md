@@ -122,6 +122,8 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - [ASLR-Removal](https://github.com/AandersonL/x64dbg-ASLR-Removal) by [Aandersonl](https://github.com/AandersonL): Plugin to remove the ASLR from the current file.
 - \[[Download](https://github.com/morsisko/xSelectBlock/releases/)\] [xSelectBlock](https://github.com/morsisko/xSelectBlock) by [morsisko](https://github.com/morsisko): Plugin to select block of data in dump widget easier
 - \[[Download](https://github.com/morsisko/xFindOut/releases/)\] [xFindOut](https://github.com/morsisko/xFindOut) by [morsisko](https://github.com/morsisko): Plugin to find out what writes to/accesses particular address
+- \[[Download](https://github.com/VenTaz/Themidie/releases/)\] [xSelectBlock](https://github.com/VenTaz/Themidie) by [VenTaz](https://github.com/VenTaz): Plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs checks (x64)
+
 ## Plugin manager
 
 - https://github.com/horsicq/x64dbg-Plugin-Manager
