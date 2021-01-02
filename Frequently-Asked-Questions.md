@@ -2,6 +2,25 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 ***
 
+**Q**: I want to learn reversing, and I know how to program. Where do I start?
+
+**A**: Here are a bunch of links that can help you get started:
+
+- http://crackmes.cf
+- https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
+- https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/
+- https://beginners.re/
+- https://legend.octopuslabs.io/sample-page.html
+- https://reversewithme.blogspot.com/2012/10/why-lena151-tutorials-wont-teach-you.html
+- https://reverseengineering.stackexchange.com/questions/6801/general-consensus-on-lenas-tutorials
+- http://godbolt.org
+- https://lifeinhex.com/how-to-learn-reverse-engineering/
+- https://gynvael.coldwind.pl/?id=664
+- https://discord.gg/weKN5wb
+- https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
+
+***
+
 **Q**: Why isn't process X shown in the attach dialog?
 
 **A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to setting and make sure the `Enable Debug Privilege` option is checked in the `Engine` tab. Also make sure you are running x64dbg as an administrator. If your process is still not shown and you are running Windows 8.1 or later, make sure the kernel is not [protecting it](http://www.alex-ionescu.com/?p=97). This protection can be removed by a kernel driver such as [PPLKiller](https://github.com/Mattiwatti/PPLKiller).
@@ -91,22 +110,3 @@ Per default x64dbg will not create any registry entries. However if you use it a
 **Q**: How can I debug services?
 
 **A**: Debugging services isn't properly supported, but you can check [#2411](https://github.com/x64dbg/x64dbg/issues/2411).
-
-***
-
-**Q**: I want to learn reversing, and I know how to program. Where do I start?
-
-**A**: Here are a bunch of links that can help you get started:
-
-- http://crackmes.cf
-- https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
-- https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/
-- https://beginners.re/
-- https://legend.octopuslabs.io/sample-page.html
-- https://reversewithme.blogspot.com/2012/10/why-lena151-tutorials-wont-teach-you.html
-- https://reverseengineering.stackexchange.com/questions/6801/general-consensus-on-lenas-tutorials
-- http://godbolt.org
-- https://lifeinhex.com/how-to-learn-reverse-engineering/
-- https://gynvael.coldwind.pl/?id=664
-- https://discord.gg/weKN5wb
-- https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
