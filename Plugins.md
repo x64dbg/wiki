@@ -125,6 +125,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/VenTaz/Themidie/releases/)\] [Themidie](https://github.com/VenTaz/Themidie) by [VenTaz](https://github.com/VenTaz): Plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs checks (x64)
 - \[[Download](https://github.com/David-Reguera-Garcia-Dreg/xshellex/releases/)\] [xshellex](https://github.com/David-Reguera-Garcia-Dreg/xshellex) by [Dreg](https://github.com/David-Reguera-Garcia-Dreg/): With xshellex you can paste any kind of c-shellcode strings in x64dbg. Also you can convert clipboard "x64dbg-binary-copy" to c-shellcode string.
 - \[[Download](https://github.com/nblog/Vm2Import)] [Vm2Import](https://github.com/nblog/Vm2Import) by [nblog](https://github.com/nblog): fix vmprotect import function used unicorn-engine.
+- \[[Download](https://github.com/jonatan1024/CpuidSpoofer/releases/latest)] [CPUID Spoofer](https://github.com/jonatan1024/CpuidSpoofer) by [jonatan1024](https://github.com/jonatan1024): Modify the behaviour of the CPUID instruction.
 
 ## Plugin manager
 
