@@ -17,6 +17,21 @@ Qt has [made some changes to their licensing](https://www.qt.io/blog/qt-offering
 
 There is also a portable Qt archive [Qt5.6.3-msvc2013-installed.7z](https://osdn.net/projects/x64dbg/storage/qt/Qt5.6.3-msvc2013-installed.7z), which is just both those installers extracted.
 
+#### Configuring Qt Creator
+
+If you downloaded `Qt5.6.3-msvc2013-installed.7z` you have to create your own kits. Relevant documentation:
+
+- https://doc.qt.io/qtcreator/creator-project-qmake.html#setting-up-new-qt-versions
+- https://doc.qt.io/qtcreator/creator-targets.html
+
+Some screenshots showing how to configure 32-bit MSVC2013 Qt 5.6.8:
+
+![qt versions](https://i.imgur.com/ceYmTu5.png)
+
+![qt kit](https://i.imgur.com/UjOqr9v.png)
+
+Pay attention to the warnings and select the compiler version that matches you Qt version (`x86` for 32-bit, `amd64` for 64-bit).
+
 # Compiling x64dbg
 
 1. Run `install.bat` to initialize the pre-commit formatting hooks
