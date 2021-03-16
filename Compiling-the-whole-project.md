@@ -24,7 +24,7 @@ If you downloaded `Qt5.6.3-msvc2013-installed.7z` you have to create your own ki
 - https://doc.qt.io/qtcreator/creator-project-qmake.html#setting-up-new-qt-versions
 - https://doc.qt.io/qtcreator/creator-targets.html
 
-Some screenshots showing how to configure 32-bit MSVC2013 Qt 5.6.8:
+Some screenshots showing how to configure 32-bit MSVC2013 Qt 5.6.3:
 
 ![qt versions](https://i.imgur.com/ceYmTu5.png)
 
