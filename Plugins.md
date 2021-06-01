@@ -126,7 +126,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/David-Reguera-Garcia-Dreg/xshellex/releases/)\] [xshellex](https://github.com/David-Reguera-Garcia-Dreg/xshellex) by [Dreg](https://github.com/David-Reguera-Garcia-Dreg/): With xshellex you can paste any kind of c-shellcode strings in x64dbg. Also you can convert clipboard "x64dbg-binary-copy" to c-shellcode string.
 - \[[Download](https://github.com/nblog/Vm2Import)] [Vm2Import](https://github.com/nblog/Vm2Import) by [nblog](https://github.com/nblog): fix vmprotect import function used unicorn-engine.
 - \[[Download](https://github.com/jonatan1024/CpuidSpoofer/releases/latest)] [CPUID Spoofer](https://github.com/jonatan1024/CpuidSpoofer) by [jonatan1024](https://github.com/jonatan1024): Modify the behaviour of the CPUID instruction.
-- \[[Download](https://github.com/robi0t/x64dbg-DiscordRPC/releases/latest)] [x64dbgRPC](https://github.com/robi0t/x64dbg-DiscordRPC) by [robi0t](https://github.com/robi0t): Discord Rich Presence Plugin For x64dbg
+- \[[Download](https://github.com/robiot/x64dbg-DiscordRPC/releases/latest)] [x64dbgRPC](https://github.com/robiot/x64dbg-DiscordRPC) by [robiot](https://github.com/robiot): Discord Rich Presence Plugin For x64dbg
 
 ## Plugin manager
 
