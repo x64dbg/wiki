@@ -136,4 +136,3 @@ Plugins with minimal functionality to show how certain APIs can be used.
 ## Other tools
 
 - https://github.com/chausner/1337patch
-.....
