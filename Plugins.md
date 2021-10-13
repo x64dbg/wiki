@@ -45,6 +45,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - [x64dbgcutter](https://github.com/yossizap/x64dbgcutter) by [yossizap](https://github.com/yossizap): Import and export x64dbg comments/breakpoints/labels/bookmarks in Cutter.
 - [Generate types JSON](https://gist.github.com/utkonos/7f82d27a389222352a671b2135aacb38) by Malware Utkonos
 - [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer) by [teemu-l](https://github.com/teemu-l): Tool for viewing and analyzing execution traces
+- [JITCall](https://github.com/stevemk14ebr/RETools/tree/master/JITCall): An Olly-inspired DLL loader for x64dbg using JIT compiling instead of asm. Now you can call exports in x64dbg, without rundll32
 
 ## Plugins
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
