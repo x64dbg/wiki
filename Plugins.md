@@ -128,6 +128,8 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/jonatan1024/CpuidSpoofer/releases/latest)] [CPUID Spoofer](https://github.com/jonatan1024/CpuidSpoofer) by [jonatan1024](https://github.com/jonatan1024): Modify the behaviour of the CPUID instruction.
 - \[[Download](https://github.com/robiot/x64dbg-DiscordRPC/releases/latest)] [x64dbgRPC](https://github.com/robiot/x64dbg-DiscordRPC) by [robiot](https://github.com/robiot): Discord Rich Presence Plugin For x64dbg
 - \[[Download](https://github.com/Air14/HyperHide/releases/latest)] [HyperHide](https://github.com/Air14/HyperHide) by [Air14](https://github.com/Air14): Hypervisor based anti anti debug plugin for x64dbg
+- \[[Download](https://github.com/ross-weir/x64dbg_rc/releases)] [x64dbg_rc](https://github.com/ross-weir/x64dbg_rc) by [Ross Weir
+](hhttps://github.com/ross-weir): Remote control plugin for x64dbg
 
 ## Plugin manager
 
