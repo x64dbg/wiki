@@ -3,7 +3,6 @@ This is just a list of things that could be improved in the code. Feel free to a
 # GUI
 
 - Menu shortcut system (Configuration.cpp contains duplicate descriptions for actions made with `makeShortcutAction`)
-- Refactor common menu entries for rapid feature deployment in new views
 - Convert everything to `MenuBuilder`
 
 # DBG
@@ -23,5 +22,3 @@ This is just a list of things that could be improved in the code. Feel free to a
 - disassembly preview support dump
 - can drag the registers view to scroll
 - support "dd" command which dumps the data and set dump mode to dword.
-- support timeout in disassembly preview
-- show icon in the attach dialog
