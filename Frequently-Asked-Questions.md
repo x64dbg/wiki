@@ -106,7 +106,7 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 **Q**: How can inspect/debug .NET/dotnet/C#/Unity programs?
 
-**A**: Use [dnSpy](https://github.com/0xd4d/dnSpy).
+**A**: Use [dnSpy](https://github.com/0xd4d/dnSpy) (no longer developed, try [dnSpyEx](https://github.com/dnSpyEx/dnSpy)).
 
 ***
 
