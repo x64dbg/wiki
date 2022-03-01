@@ -110,7 +110,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/Vicshann/GhostDbg/releases)\]
 [GhostDbg](https://github.com/Vicshann/GhostDbg) by [Vicshann](https://github.com/Vicshann): Noninvasive debugging plugin for x64dbg.
 - [EasyLabelView](https://github.com/phiDelPark/x64DbgPlugins) by phiDel: Show bookmarks, labels, comments in the stack window.
-- \[[Download](https://github.com/Ahmadmansoor/AdvancedScript/releases/latest)\] [AdvancedScript](https://github.com/Ahmadmansoor/AdvancedScript) by [Ahmadmansoor](https://github.com/Ahmadmansoor): Open-source C++/cli, some useful Functions which will help Plugin Coder's, New advanced Log Functions maybe in the future It will be as name it have :).
+- \[[Download](https://github.com/Ahmadmansoor/x64dbgScript.git)\] [x64dbgScript](https://github.com/Ahmadmansoor/x64dbgScript.git) by [Ahmadmansoor](https://github.com/Ahmadmansoor): a x64dbg script system support.
 - \[[Download](https://github.com/secrary/idenLib/releases)\] [idenLib](https://github.com/secrary/idenLib) by [Lasha Khasaia, @qaz_qaz](https://github.com/secrary/)  : plugin to identify library functions, When analyzing malware or 3rd party software, it's challenging to identify statically linked libraries and to understand what a function from the library is doing.
 - \[[Download](https://github.com/horsicq/stringsx64dbg/releases)\] [stringsx64dbg](https://github.com/horsicq/stringsx64dbg) by [hors](https://github.com/horsicq): Strings plugin. ANSI and UNICODE. RegEXP support
 - \[[Download](https://github.com/horsicq/pex64dbg/releases)\] [pex64dbg](https://github.com/horsicq/pex64dbg) by [hors](https://github.com/horsicq): PE Viewer
