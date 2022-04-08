@@ -6,9 +6,9 @@
 
 ![Visual studio 2013 Download](https://i.imgur.com/y5ezORT.png)
 
-2. Download [Qt 5.6.3 (x86) for MSVC2013](https://osdn.net/projects/x64dbg/storage/qt/qt-opensource-windows-x86-msvc2013-5.6.3.exe), install in `C:\Qt\qt-5.6.3-x86-msvc2013`.
-3. Download [Qt 5.6.3 (x64) for MSVC2013](https://osdn.net/projects/x64dbg/storage/qt/qt-opensource-windows-x86-msvc2013_64-5.6.3.exe), install in `C:\Qt\qt-5.6.3-x64-msvc2013`.
-4. Download [Qt Creator 4.3.1](https://download.qt.io/archive/qtcreator/4.3/4.3.1/qt-creator-opensource-windows-x86-4.3.1.exe), install in `C:\Qt\qtcreator-4.3.1`.
+2. Download [Qt 5.6.3 (x86) for MSVC2013](https://bit.ly/37pmFlJ), install in `C:\Qt\qt-5.6.3-x86-msvc2013`.
+3. Download [Qt 5.6.3 (x64) for MSVC2013](https://bit.ly/37pmFlJ), install in `C:\Qt\qt-5.6.3-x64-msvc2013`.
+4. Download [Qt Creator 4.3.1](https://bit.ly/37rs9wi), install in `C:\Qt\qtcreator-4.3.1`.
 5. Install [CMake](https://cmake.org/download/) based on your architecture.
 6. Install [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/).
 7. Clone the repository (`development` branch) to your local drive. **Make sure to include the submodules in your clone command!**
@@ -18,9 +18,9 @@ git clone --recurse-submodules -b development https://github.com/x64dbg/x64dbg.g
 
 ### Qt
 
-Qt has [made some changes to their licensing](https://www.qt.io/blog/qt-offering-changes-2020) and deleted all the LTS packages (including source code) from their website. The original installers are mirrored on [SourceForge](https://sourceforge.net/projects/x64dbg/files/qt/) and [OSDN](https://osdn.net/projects/x64dbg/storage/qt/).
+Qt has [made some changes to their licensing](https://www.qt.io/blog/qt-offering-changes-2020) and deleted all the LTS packages (including source code) from their website. The original installers are mirrored on [SourceForge](https://bit.ly/3jims6E) and [OSDN](https://bit.ly/3Kheruu).
 
-There is also a portable Qt archive [Qt5.6.3-msvc2013-installed.7z](https://osdn.net/projects/x64dbg/storage/qt/Qt5.6.3-msvc2013-installed.7z), which is just both those installers extracted.
+There is also a portable Qt archive [Qt5.6.3-msvc2013-installed.7z](https://bit.ly/35TDh4O), which is just both those installers extracted.
 
 #### Configuring Qt Creator
 
