@@ -9,6 +9,10 @@ Add it (**at the end of the list**) in the following format:
 - [PluginTemplate](https://github.com/x64dbg/PluginTemplate): Visual Studio template to easily develop plugins.
 - [QtPlugin](https://github.com/x64dbg/QtPlugin): Demonstrates how to write a plugin that adds a `QWidget` tab.
 
+## Debugging
+
+To make it easier to debug plugins you can use the [PluginDevHelper](https://github.com/x64dbg/PluginDevHelper) to automatically reload the plugin when you build it in Visual Studio. The CMake `PluginTemplate` automatically detects `PluginDevBuildTool.exe` and sets this up for you, but you can also set it up manually by following the instructions in the README.
+
 ## Example plugins
 
 Plugins with minimal functionality to show how certain APIs can be used.
