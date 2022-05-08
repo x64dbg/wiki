@@ -1,6 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://standwithukraine.pp.ua)
-
-# Welcome #
+# Welcome
 
 Welcome to this wiki! It will be about x64dbg coding-wise. To find out about the x64dbg interface and commands, check out the [help](http://help.x64dbg.com).
 
