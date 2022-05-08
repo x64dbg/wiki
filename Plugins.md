@@ -136,7 +136,8 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/ross-weir/x64dbg_rc/releases)] [x64dbg_rc](https://github.com/ross-weir/x64dbg_rc) by [Ross Weir
 ](hhttps://github.com/ross-weir): Remote control plugin for x64dbg
 - \[[Download](https://github.com/nblog/x64dbg-yaraScan/releases)] [x64dbg-yaraScan](https://github.com/nblog/x64dbg-yaraScan) by [nblog](https://github.com/nblog): x64dbg-plugin Yara Scan
-
+- \[[Download](https://github.com/mooncat-greenpy/x64dbg_GolangAnalyzerPlugin/releases)] [x64dbg_GolangAnalyzerPlugin](https://github.com/mooncat-greenpy/x64dbg_GolangAnalyzerPlugin) by [mooncat-greenpy](https://github.com/mooncat-greenpy): Analyze Golang with x64dbg
+- \[[Download](https://github.com/mooncat-greenpy/x64dbg_TraceExecLoggerPlugin/releases)] [x64dbg_TraceExecLoggerPlugin](https://github.com/mooncat-greenpy/x64dbg_TraceExecLoggerPlugin) by [mooncat-greenpy](https://github.com/mooncat-greenpy): TraceExecLogger saves information when debugging. Logs are stored in JSON format.
 
 ## Plugin manager
 
