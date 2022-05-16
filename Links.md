@@ -15,7 +15,7 @@ This page will contain various types of links related to x64dbg.
 - https://twitter.com/x64dbg
 
 ## Useful resources
-- [Sourceforge page](https://www.ps3cfw.com/cool.php?item=72898588)
+- [Sourceforge page](https://www.sourceforge.net/projects/x64dbg/)
 
 ## Articles
 * [Introduction to x64dbg](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
