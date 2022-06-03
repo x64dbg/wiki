@@ -20,7 +20,7 @@ This page will contain various types of links related to x64dbg.
 ## Articles
 * [Introduction to x64dbg](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
 * [Live Video reversing session using x64dbg](https://www.livecoding.tv/bloodwrath/videos/M5xAa-x64dbg-reversing-overwatch-game-2)
-* [How to use x64dbg](https://www.varonis.com/blog/how-to-use-x64dbg)
+* [What is x64dbg + How to Use It](https://www.varonis.com/blog/how-to-use-x64dbg)
 
 ## Community
 - [tuts4you forum](https://forum.tuts4you.com/forum/139-x64dbg/)
