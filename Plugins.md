@@ -1,8 +1,4 @@
-This page is for projects that somehow contribute to x64dbg but are not part of the source code. Feel free to add your projects and plugins here (make sure it's nothing illegal though).
-
-Add it (**at the end of the list**) in the following format:
-
-`PluginName (with link) by Author (with optional link): Brief description.`
+**Note: Unfortunately editing the wiki has been restricted because of vandalism. If you want to add your plugin, just open an issue and it will be done!**
 
 ## Official Templates
 
