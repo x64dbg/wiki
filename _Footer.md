@@ -1,1 +1,1 @@
-**Note**: You can edit this wiki by sending a pull request to [x64dbg/wiki](https://github.com/x64dbg/wiki).
+**Note**: Due to continued vandalism it is no longer possible to edit the wiki directly. Instead you can suggest an edit in the [x64dbg/wiki](https://github.com/x64dbg/wiki) repository.

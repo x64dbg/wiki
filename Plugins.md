@@ -1,4 +1,4 @@
-**Note: Unfortunately editing the wiki has been restricted because of vandalism. If you want to add your plugin, just open an issue and it will be done!**
+**Note**: Due to continued vandalism it is no longer possible to edit the wiki directly. Instead you can suggest an edit in the [x64dbg/wiki](https://github.com/x64dbg/wiki) repository.
 
 ## Official Templates
 
