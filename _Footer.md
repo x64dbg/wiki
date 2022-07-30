@@ -1,0 +1,1 @@
+**Note**: You can edit this wiki by sending a pull request to [x64dbg/wiki](https://github.com/x64dbg/wiki).
