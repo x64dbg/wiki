@@ -27,15 +27,17 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - https://github.com/mrexodia/TracePlugin
 - https://github.com/mrexodia/FloatConvert
 - https://github.com/mrexodia/DrDecode
+- [C# plugin examples](https://github.com/x64dbg/DotX64Dbg/tree/master/bin/dotplugins/example)
 
 ## User-maintained Templates
 
 - [Borland C++](https://github.com/ThunderCls/x64dbgBccPlugin) by [ThunderCls](https://github.com/ThunderCls).
-- [C#](https://github.com/mrexodia/DotNetPluginCS) by [mrexodia](https://github.com/mrexodia).
+- [C#](https://github.com/mrexodia/DotNetPluginCS) by [adams85](https://github.com/adams85).
 - [VB.NET](https://github.com/Ahmadmansoor/x64dbgDotNetPlugin) by [Ahmadmansoor](https://github.com/Ahmadmansoor).
 - Assembler [x86](https://github.com/mrfearless/x64dbg-Plugin-SDK-for-x86-Assembler) and [x64](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler) by [fearless](http://www.letthelight.in).
 - [Visual Studio](https://github.com/mrfearless/x64dbg-plugin-template-for-Visual-Studio) by [fearless](http://www.letthelight.in).
 - [Delphi](https://github.com/quygia128/x64_dbg_SDK_Delphi) by [quygia128](https://github.com/quygia128).
+- [Rust crate](https://lib.rs/crates/x64dbg_sdk_sys) by [luyikk](https://github.com/luyikk), example plugin: [x64dbg_xpause_example](https://github.com/luyikk/x64dbg_xpause_example).
 
 ## Integrations
 
@@ -43,16 +45,20 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - [x64dbgbinja](https://github.com/x64dbg/x64dbgbinja) by [mrexodia](https://github.com/mrexodia): Official x64dbg plugin for Binary Ninja.
 - [lst2x64dbg](https://github.com/utkonos/lst2x64dbg) by [utkonos](https://github.com/utkonos): Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database.
 - [x64dbgcutter](https://github.com/yossizap/x64dbgcutter) by [yossizap](https://github.com/yossizap): Import and export x64dbg comments/breakpoints/labels/bookmarks in Cutter.
-- [Generate types JSON](https://gist.github.com/utkonos/7f82d27a389222352a671b2135aacb38) by Malware Utkonos
-- [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer) by [teemu-l](https://github.com/teemu-l): Tool for viewing and analyzing execution traces
-- [JITCall](https://github.com/stevemk14ebr/RETools/tree/master/JITCall): An Olly-inspired DLL loader for x64dbg using JIT compiling instead of asm. Now you can call exports in x64dbg, without rundll32
+- [Generate PEB32 types JSON](https://gist.github.com/utkonos/7f82d27a389222352a671b2135aacb38) by Malware Utkonos.
+- [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer) by [teemu-l](https://github.com/teemu-l): Tool for viewing and analyzing execution traces.
+- [JITCall](https://github.com/stevemk14ebr/RETools/tree/master/JITCall): An Olly-inspired DLL loader for x64dbg using JIT compiling instead of asm. Now you can call exports in x64dbg, without rundll32.
+- [x64dbg-tracedump.py](https://github.com/mrexodia/dumpulator/blob/main/tests/x64dbg-tracedump.py) by [mrexodia](https://github.com/mrexodia): Standalone python script to convert x64dbg traces into a textual format.
 
 ## Plugins
+
+_Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=updated) GitHub topic for the latest plugins._
+
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](http://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/Nukem9/SwissArmyKnife/releases)\] [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation.
 - [Highlightfish](https://github.com/Insid3CodeTeam/Highlightfish) by [Insid3Code](https://github.com/Insid3CodeTeam): Plugin to customize x64dbg colors and Highlightings.
-- \[[Download](http://rammichael.com/downloads/multiasm.rar)\] [Multiline Ultimate Assembler](http://rammichael.com/multimate-assembler) by [RaMMicHaeL](http://rammichael.com): Multiline Ultimate Assembler is a multiline (and ultimate) assembler (and disassembler) plugin. It's a perfect tool for modifying and extending a compiled executable functionality, writing code caves, etc.
+- \[[Download](http://rammichael.com/downloads/multiasm.rar)\] [Multiline Ultimate Assembler](https://github.com/m417z/Multiline-Ultimate-Assembler) by [RaMMicHaeL](http://rammichael.com): Multiline Ultimate Assembler is a multiline (and ultimate) assembler (and disassembler) plugin. It's a perfect tool for modifying and extending a compiled executable functionality, writing code caves, etc.
 - [OllyMigrate](http://low-priority.appspot.com/ollymigrate) by [lowprio20](http://low-priority.appspot.com): This plugin make it possible to pass debuggee to another debugger without restarting (like VM live migration).
 - [OllyDumpEx](http://low-priority.appspot.com/ollydumpex/) by [lowprio20](http://low-priority.appspot.com): Process memory dumper for x64dbg, OllyDbg and Immunity Debugger.
 - [IDASkins](https://github.com/Nukem9/IDASkins) by [Nukem](https://github.com/Nukem9): Advanced skinning plugin for IDA PRO, ported to x64dbg.
@@ -134,6 +140,10 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/nblog/x64dbg-yaraScan/releases)] [x64dbg-yaraScan](https://github.com/nblog/x64dbg-yaraScan) by [nblog](https://github.com/nblog): x64dbg-plugin Yara Scan
 - \[[Download](https://github.com/mooncat-greenpy/x64dbg_GolangAnalyzerPlugin/releases)] [x64dbg_GolangAnalyzerPlugin](https://github.com/mooncat-greenpy/x64dbg_GolangAnalyzerPlugin) by [mooncat-greenpy](https://github.com/mooncat-greenpy): Analyze Golang with x64dbg
 - \[[Download](https://github.com/mooncat-greenpy/x64dbg_TraceExecLoggerPlugin/releases)] [x64dbg_TraceExecLoggerPlugin](https://github.com/mooncat-greenpy/x64dbg_TraceExecLoggerPlugin) by [mooncat-greenpy](https://github.com/mooncat-greenpy): TraceExecLogger saves information when debugging. Logs are stored in JSON format.
+- \[[Download](https://github.com/ElvisBlue/x64dbgpython/releases)] [x64dbgpython](https://github.com/ElvisBlue/x64dbgpython) by [ElvisBlue](https://github.com/ElvisBlue): Python 3 plugin for x64dbg.
+- \[[Download](https://github.com/ZehMatt/x64dbgPlaytime/releases)] [x64dbgPlaytime](https://github.com/ZehMatt/x64dbgPlaytime) by [ZehMatt](https://github.com/ZehMatt): Plugin for x64Dbg adding Lua scripting.
+- \[[Download](https://github.com/x64dbg/DotX64Dbg/releases)] [DotX64Dbg](https://github.com/x64dbg/DotX64Dbg) by [ZehMatt](https://github.com/ZehMatt): x64dbg plugin that enables C# plugins with hot-loading support and scripting.
+- \[[Download](https://github.com/gmh5225/X64DBG-ViewDllNotification/releases)] [X64DBG-ViewDllNotification](https://github.com/gmh5225/X64DBG-ViewDllNotification) by [gmh5225](https://github.com/gmh5225): View a a list of DLL notification callbacks (`LdrpDllNotificationList`).
 
 ## Plugin manager
 
@@ -142,3 +152,5 @@ Plugins with minimal functionality to show how certain APIs can be used.
 ## Other tools
 
 - https://github.com/chausner/1337patch
+- [x64dbgpylib](https://github.com/x64dbg/x64dbgpylib): Port of windbglib to x64dbgpy, in an effort to support mona.py in x64dbg
+- \[[Download](https://github.com/therealdreg/x64dbg-exploiting/releases)] [x64dbg-exploiting](https://github.com/therealdreg/x64dbg-exploiting) by [Dreg](https://github.com/therealdreg): Package to make it easier to replace Immunity and provide explitation-related functionality (x64dbgpy, mona).
