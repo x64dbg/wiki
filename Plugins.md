@@ -144,6 +144,7 @@ _Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=upda
 - \[[Download](https://github.com/ZehMatt/x64dbgPlaytime/releases)] [x64dbgPlaytime](https://github.com/ZehMatt/x64dbgPlaytime) by [ZehMatt](https://github.com/ZehMatt): Plugin for x64Dbg adding Lua scripting.
 - \[[Download](https://github.com/x64dbg/DotX64Dbg/releases)] [DotX64Dbg](https://github.com/x64dbg/DotX64Dbg) by [ZehMatt](https://github.com/ZehMatt): x64dbg plugin that enables C# plugins with hot-loading support and scripting.
 - \[[Download](https://github.com/gmh5225/X64DBG-ViewDllNotification/releases)] [X64DBG-ViewDllNotification](https://github.com/gmh5225/X64DBG-ViewDllNotification) by [gmh5225](https://github.com/gmh5225): View a a list of DLL notification callbacks (`LdrpDllNotificationList`).
+- \[[Download](https://github.com/nblog/x64dbgpy3/releases)] [x64dbgpy3](https://github.com/nblog/x64dbgpy3) by [nblog](https://github.com/nblog): x64dbg python3 plugin
 
 ## Plugin manager
 
