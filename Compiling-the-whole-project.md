@@ -2,9 +2,9 @@
 
 **Notice**: It is important to install the **exact** versions of the tools mentioned hereafter.
 
-1. Install [Visual Studio 2013](https://my.visualstudio.com/Downloads?q=visual%20studio%202013&wt.mc_id=o~msft~vscom~older-downloads) (**make sure to install MFC**). You need to sign in with a Microsoft account (or GitHub) to access this page.
+1. Install [Visual Studio 2013](https://my.visualstudio.com/Downloads?q=visual%20studio%202013%20with%20update%205&wt.mc_id=o~msft~vscom~older-downloads) (**make sure to install MFC**). You need to sign in with a Microsoft account (or GitHub) to access this page.
 
-![Visual studio 2013 Download](https://i.imgur.com/y5ezORT.png)
+![Visual Studio 2013 Download](https://user-images.githubusercontent.com/2458265/236622035-cb8cfd3c-a2cf-41c8-a027-668fc8510eab.png)
 
 2. Download [Qt 5.6.3 (x86) for MSVC2013](https://osdn.net/projects/x64dbg/storage/qt/qt-opensource-windows-x86-msvc2013-5.6.3.exe), install in `C:\Qt\qt-5.6.3-x86-msvc2013`.
 3. Download [Qt 5.6.3 (x64) for MSVC2013](https://osdn.net/projects/x64dbg/storage/qt/qt-opensource-windows-x86-msvc2013_64-5.6.3.exe), install in `C:\Qt\qt-5.6.3-x64-msvc2013`.
