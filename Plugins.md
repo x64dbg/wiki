@@ -1,4 +1,4 @@
-**Note**: Due to continued vandalism it is no longer possible to edit the wiki directly. Instead you can suggest an edit in the [x64dbg/wiki](https://github.com/x64dbg/wiki) repository.
+# Due to continued vandalism it is no longer possible to edit the wiki directly. Instead you can suggest an edit in the [x64dbg/wiki](https://github.com/x64dbg/wiki) repository.
 
 ## Official Templates
 
@@ -49,6 +49,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer) by [teemu-l](https://github.com/teemu-l): Tool for viewing and analyzing execution traces.
 - [JITCall](https://github.com/stevemk14ebr/RETools/tree/master/JITCall): An Olly-inspired DLL loader for x64dbg using JIT compiling instead of asm. Now you can call exports in x64dbg, without rundll32.
 - [x64dbg-tracedump.py](https://github.com/mrexodia/dumpulator/blob/main/tests/x64dbg-tracedump.py) by [mrexodia](https://github.com/mrexodia): Standalone python script to convert x64dbg traces into a textual format.
+- [UniPatch](https://github.com/fjlj/UniPatch): A tool to parse *.1337 files (exported from x64dbg) and patch the target x86 or x64 file. Also supports "loader mode", where the file will be patched in memory at runtime rather than modifying the file.
 
 ## Plugins
 
