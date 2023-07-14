@@ -6,14 +6,14 @@ This section contains questions frequently encountered about x64dbg. Feel free t
 
 **A**: Here are a bunch of links that can help you get started:
 
-- http://crackmes.cf
+- https://crackmes.cf
 - https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
 - https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/
 - https://beginners.re/
 - https://legend.octopuslabs.io/sample-page.html
 - https://reversewithme.blogspot.com/2012/10/why-lena151-tutorials-wont-teach-you.html
 - https://reverseengineering.stackexchange.com/questions/6801/general-consensus-on-lenas-tutorials
-- http://godbolt.org
+- https://godbolt.org
 - https://lifeinhex.com/how-to-learn-reverse-engineering/
 - https://gynvael.coldwind.pl/?id=664
 - [Reverse engineering Discord](https://discord.gg/weKN5wb)
@@ -26,7 +26,7 @@ Feel free to add a resource you can recommend if you think you know a good one.
 
 **Q**: Why isn't process X shown in the attach dialog?
 
-**A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to setting and make sure the `Enable Debug Privilege` option is checked in the `Engine` tab. Also make sure you are running x64dbg as an administrator. If your process is still not shown and you are running Windows 8.1 or later, make sure the kernel is not [protecting it](http://www.alex-ionescu.com/?p=97). This protection can be removed by a kernel driver such as [PPLKiller](https://github.com/Mattiwatti/PPLKiller).
+**A**: If x64dbg cannot get a handle to a process it will not show it in the attach dialog. Go to setting and make sure the `Enable Debug Privilege` option is checked in the `Engine` tab. Also make sure you are running x64dbg as an administrator. If your process is still not shown and you are running Windows 8.1 or later, make sure the kernel is not [protecting it](https://www.alex-ionescu.com/?p=97). This protection can be removed by a kernel driver such as [PPLKiller](https://github.com/Mattiwatti/PPLKiller).
 
 ![debug priv](https://i.imgur.com/juQs94X.png)
 
@@ -54,11 +54,11 @@ Feel free to add a resource you can recommend if you think you know a good one.
 
 ***
 
-**Q**: How do the commands mentioned in the [help](http://help.x64dbg.com) work?
+**Q**: How do the commands mentioned in the [help](https://help.x64dbg.com) work?
 
 **A**: Basically the commands work like assembler (with comma separated arguments). `mov eax, 0x1234` is a valid command. You can enter them in the command bar (not in the command line of x64dbg):
 
-![command bar](http://i.imgur.com/plSfLnr.png)
+![command bar](https://i.imgur.com/plSfLnr.png)
 
 ***
 

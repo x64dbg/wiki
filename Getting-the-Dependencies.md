@@ -4,7 +4,7 @@
 
 ## Building dependencies by hand (not recommended)
 
-x64dbg has various dependencies. Here is a list of them and how you can obtain them yourself. The easiest method is simply downloading the latest release from [Github](http://releases.x64dbg.com) and extract the binaries in the `bin` directory, but here is a guide **in case you want to do it manually** (Which you don't because it is hard to do and will waste your time. The snowman depends on QT library. If you compiled x64gui with debug build profile. Then you need download snowman source code and compile it using debug build profile too. Otherwise you will encounter crash issue).
+x64dbg has various dependencies. Here is a list of them and how you can obtain them yourself. The easiest method is simply downloading the latest release from [Github](https://releases.x64dbg.com) and extract the binaries in the `bin` directory, but here is a guide **in case you want to do it manually** (Which you don't because it is hard to do and will waste your time. The snowman depends on QT library. If you compiled x64gui with debug build profile. Then you need download snowman source code and compile it using debug build profile too. Otherwise you will encounter crash issue).
 
 ### BeaEngine
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/beaengine).
@@ -13,7 +13,7 @@ Clone and compile the repository [here](https://bitbucket.org/mrexodia/beaengine
 Clone and compile the repository [here](https://github.com/aquynh/capstone).
 
 ### dbghelp & symserv
-Get [Debugging Tools For Windows](http://go.microsoft.com/fwlink/p/?linkid=84137) and extract dbghelp.dll and symsrv.dll from the installation directory.
+Get [Debugging Tools For Windows](https://go.microsoft.com/fwlink/p/?linkid=84137) and extract dbghelp.dll and symsrv.dll from the installation directory.
 
 ### DeviceNameResolver
 Clone and compile the repository [here](https://bitbucket.org/mrexodia/devicenameresolver).

@@ -8,7 +8,7 @@ Please add your style sheets (gist+screenshot) here and don't forget to say whic
 
 ## Orange mod by Storm Shadow
 
-Orange mod of [Qt dark orange](http://tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet)
+Orange mod of [Qt dark orange](https://tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet)
 adapted to x64dbg. [Download here](https://github.com/techbliss/x64dbg_orange_mod).
 
 [![orange](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)](https://cloud.githubusercontent.com/assets/3592375/15626539/3aa33eba-24c7-11e6-8d59-722527556791.png)
@@ -63,26 +63,26 @@ Color Show [Download here](https://github.com/techbliss/x64dbg_color_show).
 
 Use with [Color Fun](https://gist.github.com/techbliss/ca6da96514e3e2817aa765cabd7586af) color scheme.
 
-## Visual Studio Dark by [ThunderCls](http://github.com/ThunderCls)
+## Visual Studio Dark by [ThunderCls](https://github.com/ThunderCls)
 
 Visual Studio Dark [Download here](https://github.com/ThunderCls/x64dbg_vs_dark).
 
-[![Visual Studio Dark](http://i.imgur.com/0vdWCvN.png)](http://i.imgur.com/0vdWCvN.png)
+[![Visual Studio Dark](https://i.imgur.com/0vdWCvN.png)](https://i.imgur.com/0vdWCvN.png)
 
 Use with [ Visual Studio Dark Theme](https://gist.github.com/ThunderCls/4dcc4b8c1cace8c9cae5612fc696d465) color scheme.
 
-## Visual Studio Light by [ThunderCls](http://github.com/ThunderCls)
+## Visual Studio Light by [ThunderCls](https://github.com/ThunderCls)
 
 Visual Studio Light [Download here](https://github.com/ThunderCls/x64dbg_vs_light).
 
-[![Visual Studio Light](http://i.imgur.com/x8GM3Ci.png)](http://i.imgur.com/x8GM3Ci.png)
+[![Visual Studio Light](https://i.imgur.com/x8GM3Ci.png)](https://i.imgur.com/x8GM3Ci.png)
 
 Use with [ Visual Studio Light Theme](https://gist.github.com/ThunderCls/6d39464d204c1b2b0485685d10f2d1c6) color scheme.
 
-## Acid Lime by [ThunderCls](http://github.com/ThunderCls)
+## Acid Lime by [ThunderCls](https://github.com/ThunderCls)
 
 Acid Lime [Download here](https://github.com/ThunderCls/x64dbg_acid_lime_theme).
 
-[![Acid Lime](http://i.imgur.com/IuvA7gq.png)](http://i.imgur.com/IuvA7gq.png)
+[![Acid Lime](https://i.imgur.com/IuvA7gq.png)](https://i.imgur.com/IuvA7gq.png)
 
 Use with [ Acid Lime Theme](https://gist.github.com/ThunderCls/6fffbe7f3e2edd697b36a2decab80b64) color scheme.

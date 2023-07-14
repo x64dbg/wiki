@@ -1,15 +1,15 @@
 # Contributing
 
-**This page is deprecated, go [here](https://github.com/x64dbg/x64dbg/blob/development/CONTRIBUTING.md#contributing) instead.**
+**This page is deprecated, go [here](https://github.com/x64dbg/x64dbg/blob/development/.github/CONTRIBUTING.md) instead.**
 
-* [Get x64dbg](http://x64dbg.com)!
-* [Compile x64dbg](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project) and add new features ([easy issues](http://easy.x64dbg.com) are a good place to start).
-* [Report bugs](http://report.x64dbg.com) at the issue tracker.
-* Add feature requests to the [issue tracker](http://issues.x64dbg.com).
-* [Write a blogpost](http://x64dbg.com/blog/2016/07/09/Looking-for-writers.html) for the [official blog](http://blog.x64dbg.com).
-* [Contact us](http://x64dbg.com/#contact) and talk about x64dbg.
-* Send a [donation](http://donate.x64dbg.com) to support the project.
-* [Translate](http://translate.x64dbg.com) x64dbg (contact us if your language isn't listed).
+* [Get x64dbg](https://x64dbg.com)!
+* [Compile x64dbg](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project) and add new features ([good first issues](https://easy.x64dbg.com) are a good place to start).
+* [Report bugs](https://report.x64dbg.com) at the issue tracker.
+* Add feature requests to the [issue tracker](https://issues.x64dbg.com).
+* [Write a blogpost](https://x64dbg.com/blog/2016/07/09/Looking-for-writers.html) for the [official blog](https://blog.x64dbg.com).
+* [Contact us](https://x64dbg.com/#contact) and talk about x64dbg.
+* Send a [donation](https://donate.x64dbg.com) to support the project.
+* [Translate](https://translate.x64dbg.com) x64dbg (contact us if your language isn't listed).
 * Document [undocumented commands](https://github.com/x64dbg/docs/issues).
 
 ## ndh2k16
