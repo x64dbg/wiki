@@ -1,4 +1,4 @@
-# Due to continued vandalism it is no longer possible to edit the wiki directly. Instead you can suggest an edit in the [x64dbg/wiki](https://github.com/x64dbg/wiki) repository.
+# You can suggest an edit in the [x64dbg/wiki](https://github.com/x64dbg/wiki) repository.
 
 ## Official Templates
 
@@ -53,7 +53,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 
 ## Plugins
 
-_Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=updated) GitHub topic for the latest plugins._
+# _Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=updated) GitHub topic for the latest plugins._
 
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](https://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
@@ -125,10 +125,10 @@ _Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=upda
 - \[[Download](https://github.com/stonedreamforest/Mirage/releases)\] [Mirage](https://github.com/stonedreamforest/Mirage) by [Tennn](https://github.com/stonedreamforest): kernel-mode Anti-Anti-Debug plugin. `based on intel vt-x && ept technology`.
 - \[[Download](https://github.com/Andy53/ERC.Xdbg/releases)\] [ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) by [Andy53](https://github.com/Andy53): An X64dbg Plugin of the ERC Library. ERC is an exploit development framework similar to Mona.py.
 - \[[Download](https://github.com/sicaril/BaymaxTools)\] [Baymax toOls v1.0 beta for x64dbg](https://github.com/sicaril/BaymaxTools) by [Nisy/PYG](https://www.chinapyg.com/): Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.    
-- \[[Download](https://gitlab.com/colinsenner/Rtti-plugin-x64)\] [RTTI Info](https://gitlab.com/colinsenner/Rtti-plugin-x64) by [colinsenner]: Display real time type information if available by selecting a class pointer in the memory dump.    
-- \[[Download](https://github.com/0ffffffffh/yummyPaste/releases)\] [yummyPaste](https://github.com/0ffffffffh/yummyPaste) by [Oguz Kartal](https://oguzkartal.net): a plugin to able to paste the various type of formatted binary data into the x64dbg's disassembler or dump section.    
+- \[[Download](https://gitlab.com/colinsenner/Rtti-plugin-x64)\] [RTTI Info](https://gitlab.com/colinsenner/Rtti-plugin-x64) by [colinsenner]: Display real time type information if available by selecting a class pointer in the memory dump.
+- \[[Download](https://github.com/0ffffffffh/yummyPaste/releases)\] [yummyPaste](https://github.com/0ffffffffh/yummyPaste) by [Oguz Kartal](https://oguzkartal.net): a plugin to able to paste the various type of formatted binary data into the x64dbg's disassembler or dump section.
 - [ASLR-Removal](https://github.com/AandersonL/x64dbg-ASLR-Removal) by [Aandersonl](https://github.com/AandersonL): Plugin to remove the ASLR from the current file.
-- \[[Download](https://github.com/morsisko/xSelectBlock/releases/)\] [xSelectBlock](https://github.com/morsisko/xSelectBlock) by [morsisko](https://github.com/morsisko): Plugin to select block of data in dump widget easier
+- \[[Download](https://github.com/morsisko/xSelectBlock/releases/)\] [xSelectBlock](https://github.com/morsisko/xSelectBlock) by [morsisko](https://github.com/morsisko): Plugin to select block of data in dump widget easier.
 - \[[Download](https://github.com/morsisko/xFindOut/releases/)\] [xFindOut](https://github.com/morsisko/xFindOut) by [morsisko](https://github.com/morsisko): Plugin to find out what writes to/accesses particular address
 - \[[Download](https://github.com/VenTaz/Themidie/releases/)\] [Themidie](https://github.com/VenTaz/Themidie) by [VenTaz](https://github.com/VenTaz): Plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs checks (x64)
 - \[[Download](https://github.com/David-Reguera-Garcia-Dreg/xshellex/releases/)\] [xshellex](https://github.com/David-Reguera-Garcia-Dreg/xshellex) by [Dreg](https://github.com/David-Reguera-Garcia-Dreg/): With xshellex you can paste any kind of c-shellcode strings in x64dbg. Also you can convert clipboard "x64dbg-binary-copy" to c-shellcode string.
@@ -145,7 +145,10 @@ _Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=upda
 - \[[Download](https://github.com/ZehMatt/x64dbgPlaytime/releases)] [x64dbgPlaytime](https://github.com/ZehMatt/x64dbgPlaytime) by [ZehMatt](https://github.com/ZehMatt): Plugin for x64Dbg adding Lua scripting.
 - \[[Download](https://github.com/x64dbg/DotX64Dbg/releases)] [DotX64Dbg](https://github.com/x64dbg/DotX64Dbg) by [ZehMatt](https://github.com/ZehMatt): x64dbg plugin that enables C# plugins with hot-loading support and scripting.
 - \[[Download](https://github.com/gmh5225/X64DBG-ViewDllNotification/releases)] [X64DBG-ViewDllNotification](https://github.com/gmh5225/X64DBG-ViewDllNotification) by [gmh5225](https://github.com/gmh5225): View a a list of DLL notification callbacks (`LdrpDllNotificationList`).
-- \[[Download](https://github.com/nblog/x64dbgpy3/releases)] [x64dbgpy3](https://github.com/nblog/x64dbgpy3) by [nblog](https://github.com/nblog): x64dbg python3 plugin
+- \[[Download](https://github.com/nblog/x64dbgpy3/releases/latest)] [x64dbgpy3](https://github.com/nblog/x64dbgpy3) by [nblog](https://github.com/nblog): x64dbg python3 plugin.
+- \[[Download](https://github.com/m417z/x64dbg-symbol-tldr/releases/latest)\] [x64dbg-symbol-tldr](https://github.com/m417z/x64dbg-symbol-tldr) by [m417z](https://github.com/m417z): An x64dbg plugin which helps make sense of long C++ symbols.
+- \[[Download](https://github.com/nblog/x64dbg-yaraScan/releases/latest)\] [x64dbg-yaraScan](https://github.com/nblog/x64dbg-yaraScan) by [nblog](https://github.com/nblog): Yara support in x64dbg.
+- \[[Download](https://github.com/Internet-2-0/Malcore-x64dbg/releases/latest)\] [Malcore](https://github.com/Internet-2-0/Malcore-x64dbg) by [Malcore](https://sponsors.x64dbg.com/malcore): This x64dbg plugin allows you to upload your sample to Malcore and view the results.
 
 ## Plugin manager
 
