@@ -113,3 +113,9 @@ Per default x64dbg will not create any registry entries. However if you use it a
 **Q**: How can I debug services?
 
 **A**: Debugging services isn't properly supported, but you can check [#2411](https://github.com/x64dbg/x64dbg/issues/2411).
+
+***
+
+**Q**: On Windows 7 I get `DLL does not have a valid signature`, how to fix this?
+
+**A**: You need the latest root certificate store update [Windows6.1-KB3004394-v2-x86.msu](https://download.microsoft.com/download/0/4/7/0473DB9B-16DE-41C6-A02A-4CBEEB04E777/Windows6.1-KB3004394-v2-x86.msu) for signature validation. Alternatively you can replace `x64dbg.exe` with `x64dbg-unsigned.exe` to disable signature verification completely.
