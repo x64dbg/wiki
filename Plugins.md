@@ -148,6 +148,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/m417z/x64dbg-symbol-tldr/releases/latest)\] [x64dbg-symbol-tldr](https://github.com/m417z/x64dbg-symbol-tldr) by [m417z](https://github.com/m417z): An x64dbg plugin which helps make sense of long C++ symbols.
 - \[[Download](https://github.com/nblog/x64dbg-yaraScan/releases/latest)\] [x64dbg-yaraScan](https://github.com/nblog/x64dbg-yaraScan) by [nblog](https://github.com/nblog): Yara support in x64dbg.
 - \[[Download](https://github.com/Internet-2-0/Malcore-x64dbg/releases/latest)\] [Malcore](https://github.com/Internet-2-0/Malcore-x64dbg) by [Malcore](https://sponsors.x64dbg.com/malcore): This x64dbg plugin allows you to upload your sample to Malcore and view the results.
+- [Gx64Sync](https://github.com/diommsantos/Gx64Sync) by [diommsantos](https://github.com/diommsantos): Advanced synchronization between Ghidra and x64Dbg.
 
 ## Plugin manager
 
