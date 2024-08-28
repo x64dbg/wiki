@@ -36,7 +36,7 @@ Pay attention to the warnings and select the compiler version that matches your 
 
 # Compiling x64dbg
 
-1. Run `install.bat` to initialize the pre-commit formatting hooks
+1. Run `.github/format/install-git-hook.bat` to initialize the pre-commit formatting hooks
 2. Run `setupdeps.bat` to copy the dependencies
 3. Open `x64dbg.sln` in Visual Studio 2013
 4. Compile the solution **in Release mode**
