@@ -65,7 +65,7 @@ This is a video by `a_a_` but it uses Visual Studio 2017 and Qt 5.8 (both of whi
 
 If you install Qt and/or Visual Studio in different paths, you can set (global) environment variables to make [setenv.bat](https://github.com/x64dbg/x64dbg/blob/development/setenv.bat) create a custom environment for compiling with [build.bat](https://github.com/x64dbg/x64dbg/blob/development/build.bat).
 
-- `set QT32PATH=C:\Qt\qt-5.6.3-x86-msvc2013\5.6\msvc2013\bin`
-- `set QT64PATH=C:\Qt\qt-5.6.3-x64-msvc2013\5.6\msvc2013_64\bin`
+- `set QT32PATH=C:\Qt\qt-5.6.3-x86-msvc2013\5.6.3\msvc2013\bin`
+- `set QT64PATH=C:\Qt\qt-5.6.3-x64-msvc2013\5.6.3\msvc2013_64\bin`
 - `set QTCREATORPATH=C:\Qt\qtcreator-4.3.1\bin`
 - `set VSVARSALLPATH=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat`
