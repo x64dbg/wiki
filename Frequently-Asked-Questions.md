@@ -80,6 +80,8 @@ Per default x64dbg will not create any registry entries. However if you use it a
 
 **A**: This can be achieved with the [Image File Execution Options](https://blog.malwarebytes.com/101/2015/12/an-introduction-to-image-file-execution-options/) registry key. You can use the [GFlags](https://github.com/x64dbg/x64dbg/issues/816) utility to do this from a graphical user interface.
 
+![image](https://github.com/user-attachments/assets/e9460308-efb6-4d37-91f0-fe8e9cc53b80)
+
 ***
 
 **Q**: How can I use [PLMDebug](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/plmdebug) with x64dbg?
