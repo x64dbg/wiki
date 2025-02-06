@@ -149,6 +149,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/nblog/x64dbg-yaraScan/releases/latest)\] [x64dbg-yaraScan](https://github.com/nblog/x64dbg-yaraScan) by [nblog](https://github.com/nblog): Yara support in x64dbg.
 - \[[Download](https://github.com/Internet-2-0/Malcore-x64dbg/releases/latest)\] [Malcore](https://github.com/Internet-2-0/Malcore-x64dbg) by [Malcore](https://sponsors.x64dbg.com/malcore): This x64dbg plugin allows you to upload your sample to Malcore and view the results.
 - [Gx64Sync](https://github.com/diommsantos/Gx64Sync) by [diommsantos](https://github.com/diommsantos): Advanced synchronization between Ghidra and x64Dbg.
+- \[[Download](https://dariushoule.github.io/x64dbg-automate-pyclient/installation/)\] [x64dbg Automate](https://dariushoule.github.io/x64dbg-automate-pyclient/) by [darbonzo](https://x64.ooo): Full featured debugger automation in Python 3.
 
 ## Plugin manager
 
