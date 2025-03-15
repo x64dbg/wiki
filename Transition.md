@@ -16,3 +16,7 @@ To summarize:
 - Operating systems below Windows 10 will not longer be supported in newer x64dbg versions.
 - Certain plugins linking to Qt will stop working.
 - We plan to make it easier for new contributors to join the project.
+
+## Future plans
+
+After this transition we are planning some exciting updates. Follow [@x64dbg](https://x.com/x64dbg) and the [blog](https://x64dbg.com/blog/) to stay up to date!
