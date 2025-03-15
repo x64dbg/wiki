@@ -1,5 +1,3 @@
-# Transition
-
 Because of the increased maintenance burden and lack of resources, we have decided to _permanently_ drop support for the following operating systems:
 
 |OS|EOL Date|x64dbg|
