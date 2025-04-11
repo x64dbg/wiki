@@ -54,6 +54,7 @@ Plugins with minimal functionality to show how certain APIs can be used.
 ## Plugins
 
 # _Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=updated) GitHub topic for the latest plugins._
+- 
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](https://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/Nukem9/SwissArmyKnife/releases)\] [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation.
