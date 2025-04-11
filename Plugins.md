@@ -54,7 +54,6 @@ Plugins with minimal functionality to show how certain APIs can be used.
 ## Plugins
 
 # _Check the [x64dbg-plugin](https://github.com/topics/x64dbg-plugin?o=desc&s=updated) GitHub topic for the latest plugins._
-
 - \[[Download](https://github.com/x64dbg/ScyllaHide/releases)\] [ScyllaHide](https://github.com/x64dbg/ScyllaHide) by Aguila & cypher: Open-source user-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/mrexodia/TitanHide/releases)\] [TitanHide](https://github.com/mrexodia/TitanHide) by [mrexodia](https://mrexodia.cf): Open-source kernel-mode Anti-Anti-Debug plugin.
 - \[[Download](https://github.com/Nukem9/SwissArmyKnife/releases)\] [SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) by [Nukem](https://github.com/Nukem9): x64dbg utility for linker map files, diff files, peid/ida signatures, and code signature generation.
@@ -150,7 +149,8 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - \[[Download](https://github.com/Internet-2-0/Malcore-x64dbg/releases/latest)\] [Malcore](https://github.com/Internet-2-0/Malcore-x64dbg) by [Malcore](https://sponsors.x64dbg.com/malcore): This x64dbg plugin allows you to upload your sample to Malcore and view the results.
 - [Gx64Sync](https://github.com/diommsantos/Gx64Sync) by [diommsantos](https://github.com/diommsantos): Advanced synchronization between Ghidra and x64Dbg.
 - \[[Download](https://dariushoule.github.io/x64dbg-automate-pyclient/installation/)\] [x64dbg Automate](https://dariushoule.github.io/x64dbg-automate-pyclient/) by [darbonzo](https://x64.ooo): Full featured debugger automation in Python 3.
-
+- x64DbgMCPServer [https://github.com/AgentSmithers/x64DbgMCPServer] [x64] by [AgentSmithers](https://ControllingTheInter.net): A MCPServer bridge plugin used for AI powered automated reverse engineering.
+- 
 ## Plugin manager
 
 - https://github.com/horsicq/x64dbg-Plugin-Manager
