@@ -2,17 +2,16 @@ This page will contain various types of links related to x64dbg.
 
 ## Internal subdomains
 
+- https://discord.x64dbg.com
 - https://issues.x64dbg.com
 - https://releases.x64dbg.com
-- https://telegram.x64dbg.com
 - https://contribute.x64dbg.com
 - https://x64dbg.com/blog/
-- https://live.x64dbg.com
 - https://translate.x64dbg.com
 - https://help.x64dbg.com/en/latest/
 
 ## News
-- https://twitter.com/x64dbg
+- https://x.com/x64dbg
 
 ## Useful resources
 - [Sourceforge page](https://www.sourceforge.net/projects/x64dbg/)
