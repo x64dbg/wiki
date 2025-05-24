@@ -20,3 +20,7 @@ To summarize:
 ## Future plans
 
 After this transition we are planning some exciting updates. Follow [@x64dbg](https://x.com/x64dbg) and the [blog](https://x64dbg.com/blog/) to stay up to date!
+
+## Older versions
+
+For users who need an older version of x64dbg that works on Windows XP, you can build the [`xp-deprecated`](https://github.com/x64dbg/x64dbg/tree/xp-deprecated) branch with the instructions [here](https://github.com/x64dbg/wiki/blob/14c46b3e482f0fa025c349946b1f18cdab89ed60/Compiling-the-whole-project.md). Note that you are fully on your own and no support will be provided.
