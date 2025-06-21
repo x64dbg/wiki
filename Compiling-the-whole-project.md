@@ -1,8 +1,6 @@
 ## Prerequisites
 
-**Notice**: It is important to install the **exact** versions of the tools mentioned hereafter.
-
-- Install [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+- Install [Visual Studio](https://visualstudio.microsoft.com/vs/)
   - Select _Desktop development with C++_, _CMake_ and _Git_.
 
 Below is a video showing the installation process from start to finish:
