@@ -155,7 +155,8 @@ Plugins with minimal functionality to show how certain APIs can be used.
 - [Gx64Sync](https://github.com/diommsantos/Gx64Sync) by [diommsantos](https://github.com/diommsantos): Advanced synchronization between Ghidra and x64Dbg.
 - \[[Download](https://dariushoule.github.io/x64dbg-automate-pyclient/installation/)\] [x64dbg Automate](https://dariushoule.github.io/x64dbg-automate-pyclient/) by [darbonzo](https://x64.ooo): Full featured debugger automation in Python 3.
 - \[[x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer)\] [x64] by [AgentSmithers](https://ControllingTheInter.net): A MCPServer bridge plugin used for AI powered automated reverse engineering.
-
+- \[[Download](https://github.com/Baldywaldy09/x64dbgPrism3DUnitResolver/releases/latest)\] [Prism3DUnitResolver](https://github.com/Baldywaldy09/x64dbgPrism3DUnitResolver) by Baldy09: A plugin which checks the CPU registers if they are a "unit" type from the Prism3D Game Engine and labels them in the FPU
+- 
 ## Plugin manager
 
 - https://github.com/horsicq/x64dbg-Plugin-Manager
